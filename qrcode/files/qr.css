@@ -1,0 +1,183 @@
+.divGenerator
+{
+width:800px;
+height:550px;
+
+margin:auto;
+
+}
+.alloption
+{
+width:797px;
+height:150px;
+font-family:Verdana;
+border: 1px dashed #000;
+
+/*background:#000;*/
+}
+.alloption p
+{
+float:left;
+width:380px;
+height:20px;
+margin-top:5px;
+margin-bottom:5px;
+margin-right:8px;
+margin-left:8px;
+}
+
+
+.alloption p#typeQr
+{
+width:780px;
+margin-top:10px;
+margin-bottom:10px;
+
+}
+
+.alloption p#typeQr span, .alloption p#typeQr select
+{
+font-size:16px !important;
+}
+.alloption p span
+{
+font-size:12px;
+float:left;
+}
+.alloption p select, .alloption p input
+{
+font-size:11px;
+float:right;
+border: 1px dashed #000;
+}
+.option
+{
+width:396px;
+height:350px;
+border-left: 1px dashed #000;
+border-right: 1px dashed #000;
+float:left;
+}
+.qrimagediv
+{
+width:400px;
+height:350px;
+border-right: 1px dashed #000;
+float:left;
+background:#FFF;
+
+}
+
+.option div
+{
+display:none;
+}
+.option div.visibleDiv
+{
+display:block;
+}
+.buttonLink
+{
+width:797px;
+height:50px;
+border: 1px dashed #000;
+float:left;
+font-family:Verdana;
+}
+.buttonLink button
+{
+float:left;
+}
+.buttonLink p 
+{
+float:right;
+width:600px;
+margin-top:14px;
+margin-right:15px;
+}
+.buttonLink p span
+{
+float:left;
+width:100px;
+}
+.buttonLink p input
+{
+width:497px;
+border: 1px dashed #000;
+}
+
+
+.visibleDiv{
+height:auto;
+font-family:Verdana;
+}
+.visibleDiv p {
+width:360px;
+margin-left:20px;
+font-size:12px;
+}
+
+
+.visibleDiv span
+{
+text-align:center;
+float:left;
+}
+
+.visibleDiv span.textareatext
+{
+margin-top:40px;
+}
+
+.visibleDiv span.small
+{
+margin-top:26px;
+}
+
+.visibleDiv h5
+{
+font-size:16px;
+width:100%;
+font-family:Verdana;
+text-align:center;
+margin:10px 0px;
+}
+
+.visibleDiv p
+{
+float:left;
+margin-top:6px;
+margin-bottom:6px;
+}
+
+.visibleDiv input,.visibleDiv select,.visibleDiv textarea
+{
+float:right;
+border: 1px dashed #000;
+width:150px;
+}
+.visibleDiv textarea
+{
+height:100px;
+
+}
+
+.visibleDiv textarea.small
+{
+height:70px;
+
+}
+
+#createQR
+{
+border:none;
+background:#000;
+color:#FFF;
+font-size:13px;
+font-family:Verdana;
+width:80px;
+text-align:center;
+height:20px;
+margin-left:20px;
+margin-top:14px;
+}

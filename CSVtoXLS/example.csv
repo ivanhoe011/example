@@ -1,0 +1,23 @@
+"Purchasing Buyers Log Report"
+"TextLeft","TextRight","Decimal1","Date","Decimal2"
+"Buyer Name","Order ID","Ratio","Order Date","Amount"
+"Don Wisnewski",20177,8.0,01/11/2007,2290.00
+"Don Wisnewski",20176,5.1,01/12/2007,2121.60
+"Don Wisnewski",20987,5.1,01/13/2007,6480.00
+"Don Wisnewski",20185,6.1,01/15/2007,361.50
+"Don Wisnewski",20164,8.9,01/16/2007,565.00
+"Don Wisnewski",20153,6.1,01/18/2007,952.20
+"Don Wisnewski",20132,7.1,01/20/2007,67655.00
+"Lisa Vasquez",20543,6.1,01/23/2007,44983.04
+"Lisa Vasquez",20765,8.9,01/24/2007,29955.52
+"Lisa Vasquez",20234,8.8,01/25/2007,15027.52
+"Lisa Vasquez",20345,8.7,2007-01-27,62041.98
+"Lisa Vasquez",20456,8.4,2007-01-28,67961.94
+"Lisa Vasquez",20567,6.1,2007-01-29,67894.65
+"Lisa Vasquez",20678,8.1,2007-02-03,62041.98
+"Lisa Vasquez",20876,9.2,2007-02-04,48688.44
+"Lisa Vasquez",20765,4.1,2007-02-05,137095.02
+"Robby Cantuco",20654,3.3,2007-03-01,81039.92
+"Robby Cantuco",20134,8.9,2007-03-03,221107.50
+"Robby Cantuco",20135,8.9,2007-03-05,182723.85
+"Robby Cantuco",20022,6.8,2007-03-10,5505.13

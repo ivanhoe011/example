@@ -1,0 +1,535 @@
+<html>
+<head>
+
+ <script src="http://code.jquery.com/jquery-1.6.2.js"></script>
+ <script src="http://bestqrcodegenerator.in/qr.js"></script>
+ <link href="http://bestqrcodegenerator.in/qr.css" type="text/css" rel="stylesheet">
+<meta name="ROBOTS" content="index,follow"/>
+<meta name="googlebot" content="index, follow"/>
+<meta name="FAST-WebCrawler" content="index, follow"/>
+<meta name="Scooter" content="index, follow"/>
+<meta name="Slurp" content="index, follow"/>
+<meta name="Rating" content="General"/>
+<meta name="google-site-verification" content="1vevDUFoSFKvDfqAgXHxyQImABii87ire6Kgo-f8z_s" />
+<meta name="revisit_after" content="1 days"/>
+<meta http-equiv="Cache-Control" content="no-cache"/>
+<meta http-equiv="Pragma" content="no-cache"/>
+<meta http-equiv="Expires" content="0"/>
+<meta name="Description" content="First free qr code generator that you can use on you site. More that 30 qrcode type. Support facebook, google plus, envato , twitter, alexa and more"/>
+<meta name="Keywords" content="download,facebook, google plus, envato , twitter, alexa,free qr code generator,qrcode creator"/>
+<meta name="author" content="Krzysztof Zajac" />
+<meta name="copyright" content="Krzysztof Zajac"/>
+<meta http-equiv="content-language" content="EN"/>
+<meta content="08/28/2011" name="creation_Date">
+ <title>First free qr code generator that you can use on you site. More that 30 qrcode type. Support facebook, google plus, envato , twitter, alexa and more</title>
+<style>
+#logo 
+{
+width:800px;
+height:150;
+margin:auto;
+}
+#logo img
+{
+float:left;
+}
+#logo span
+{
+float:left;
+font-family:Verdana;
+font-size:24px;
+margin-left:40px;
+margin-top:50px;
+}
+#histat
+{
+width:800px;
+height:20px;
+margin:auto;
+margin-top:10px;
+}
+</style>
+ </head>
+<body>
+<div id="logo">
+<img src='http://bestqrcodegenerator.in/logo.jpg'/><span>Best QR Code Generator by Krzysztof Zajac</span>
+</div>
+<div class="divGenerator">
+ <div class="alloption">
+ <p id="typeQr"><span>Select type of Qr Code:</span>
+ <select id="selectQr">
+	<option value="1" selected="selected">Text to Qrcode</option>
+	<option value="2">Email to Qrcode</option>
+	<option value="3">Geo Location to Qrcode</option>
+	<option value="4">SMS to Qrcode</option>
+	<option value="5">MMS to Qrcode</option>
+	<option value="6">Phone number to Qrcode</option>
+	<option value="7">URL Bookmark to Qrcode</option>
+	<option value="8">Contact (meCard) to Qrcode</option>
+	<option value="9">Contact (vCard) to Qrcode</option>
+	<option value="10">WiFi to Qrcode</option>
+	<option value="11">paypal buttons link to Qrcode</option>
+	<option value="12">Youtube Channel link to Qrcode</option>
+	<option value="13">Youtube Video link to Qrcode</option>
+	<option value="14">gplus user profile link to Qrcode</option>
+	<option value="15">gplus about link to Qrcode</option>
+	<option value="16">gplus photos link to Qrcode</option>
+	<option value="17">gplus video link to Qrcode</option>
+	<option value="18">gplus buzz link to Qrcode</option>
+	<option value="19">Facebook Profile Info link to Qrcode</option>
+	<option value="20">Twitter Info link to Qrcode</option>
+	<option value="21">Envato User link to Qrcode</option>
+	<option value="22">Envato User Edit link to Qrcode</option>
+	<option value="23">Envato User Downloads link to Qrcode</option>
+	<option value="24">Envato User link History</option>
+	<option value="25">Envato User link Withdrawal</option>
+	<option value="26">Envato User link Earnings</option>
+	<option value="27">Envato User link Statement</option>
+	<option value="28">Envato Item Page link</option>
+	<option value="29">Envato Item Faq Page link</option>
+	<option value="30">Envato Item Comments Page link</option>
+	<option value="31">Envato Item Edit Page link</option>
+	<option value="32">Alexa Info link</option>
+	<option value="33">Whois Info link</option>
+	<option value="34">Compete Info link</option>
+	<option value="35">Quantcast Info link</option>
+	<option value="36">Histats Info link</option>
+
+	
+	
+ </select>
+ </p>
+ <p>
+ <span>
+ Select size:
+ 
+ </span>
+  <select id="selectQrSize">
+	<option value="100" selected="selected">100px</option>
+	<option value="150">150px</option>
+	<option value="200">200px</option>
+	<option value="250">250px</option>
+	<option value="300">300px</option>
+	<option value="350">350px</option>
+	<option value="400">400px</option>
+	</select>
+ </p>
+ <p>
+ <span>
+ Select Margin size:
+ 
+ </span>
+<select id="selectQrMargin">
+	<option value="4" selected="selected">4</option>
+	<option value="3">3</option>
+	<option value="2">2</option>
+	<option value="1">1</option>
+	<option value="0">0</option>
+</select>
+ </p>
+
+ 
+ <p>
+ <span>
+ Select Transparency level:
+ 
+ </span>
+<select id="selectQrTransparency">
+	<option value="0" selected="selected">0</option>
+	<option value="20">20</option>
+	<option value="40">40</option>
+	<option value="60">60</option>
+	<option value="80">80</option>
+</select>
+ </p>
+ 
+  <p>
+ <span>
+ Select type of Text Encoding:
+ 
+ </span>
+<select id="selectQrEncoding">
+	<option value="0" selected="selected">UTF-8</option>
+	<option value="1">Shift JIS</option>
+	<option value="2">ISO-8859-1</option>
+	
+</select>
+ </p>
+ 
+   <p>
+ <span>
+ Select error Correction level:
+ 
+ </span>
+<select id="selectQrCorrection">
+	<option value="M" selected="selected">M</option>
+	<option value="S">S</option>
+	<option value="L">L</option>
+		<option value="Q">Q</option>
+	<option value="H">H</option>
+</select>
+ </p>
+   <p>
+ <span>
+ Insert Margin Background color:
+ 
+ </span>
+<input value="FFFFFF" id="selectQrBackground"></input>
+
+ </p>
+ </div>
+ <div class="option">
+				<div id="view1" class="visibleDiv">
+						<h5>Text to Qrcode</h5>
+						<p><span class="textareatext">Insert text:</span>
+						<textarea id="text2qr" ></textarea>
+						</p>
+						
+				</div>
+				<div id="view2">
+						<h5></h5>
+						<p><span>Email:</span><input  id="email2qr"></input></p>
+						<p><span>Subject:</span><input  id="subject2qr"></input></p>
+						<p><span class="textareatext">Message:</span><textarea id="message2qr"></textarea></p>
+				</div>
+				<div id="view3">
+					<h5></h5>
+						<p><span>Latitude:</span><input  id="latitude2qr"></input></p>
+						<p><span>Longitude:</span><input  id="longitude2qr"></input></p>
+				</div>
+				<div id="view4">
+					<h5></h5>
+				<p><span>Phone number:</span><input  id="smsphone2qr"></span></input></p>
+						<p><span class="textareatext">SMS Text:</span>
+						<textarea id="smstext2qr"></textarea>
+						</p>
+						
+				</div>
+				<div id="view5">
+					<h5></h5>
+					<p><span>Phone number:</span><input  id="mmsphone2qr"></input></p>
+						<p><span class="textareatext">MMS Text:</span>
+						<textarea id="mmstext2qr"></textarea>	
+						</p>
+						
+				</div>
+				<div id="view6">
+						<h5></h5>
+						<p><span>Phone number:</span><input  id="phone2qr"></input></p>
+				</div>
+				<div id="view7">
+							<h5></h5>
+							<p><span>Url:</span><input  id="url2qr"></input></p>
+						<p><span>Title:</span><input  id="titleurl2qr"></input></p>
+				</div>
+				<div id="view8">
+							<h5></h5>
+							<p><span>Name:</span><input  id="mename2qr"></input></p>
+						<p><span>Phone:</span><input  id="mephone2qr"></input></p>
+						<p><span>Url:</span><input  id="meurl2qr"></input></p>
+						<p><span>Email:</span><input  id="meemail2qr"></input></p>
+						<p><span class="textareatext">Note:</span>
+						<textarea id="menote2qr"></textarea>
+						</p>
+							
+				</div>
+				<div id="view9">
+							<h5></h5>
+						
+							<p><span>Name:</span><input  id="vname2qr"></input></p>
+							<p><span>Company:</span><input  id="vcompany2qr"></input></p>
+							<p><span>Job Title:</span><input  id="vjobtitle2qr"></input></p>
+						<p><span>Work Phone:</span><input  id="vworktel2qr"></input></p>
+						<p><span>Home Phone:</span><input  id="vhometel2qr"></input></p>
+						<p><span>Email:</span><input  id="vemail2qr"></input></p>
+						<p><span>Url:</span><input  id="vurl2qr"></input></p>
+						<p><span class="textareatext small">Note:</span>
+						<textarea id="vnote2qr" class="small"></textarea>
+						</p>
+						
+				</div>
+				<div id="view10">
+							<h5></h5>
+							<p><span>Network Name (SSID):</span><input  id="wifisid2qr"></input></p>
+						<p><span>Network Type:</span>
+						<select id="selectwifitype2qr">
+	<option value="0" selected="selected">WEP</option>
+	<option value="1">WPA</option>
+	<option value="2">No Password</option>
+	</select>
+						</p>
+						<p><span>Password:</span><input  id="wifipas2qr"></input></p>
+				</div>
+				<div id="view11">
+							<h5></h5>
+							<p><span>PayPal Button ID:</span><input  id="paypal2qr"></input></p>
+				</div>
+				<div id="view12">
+							<h5></h5>
+							<p><span>Youtube User Name:</span><input  id="ytchannel2qr"></input></p>
+				</div>
+				<div id="view13">
+							<h5></h5>
+							<p><span>Youtube Video ID (affter v=...):</span><input  id="ytvideo2qr"></input></p>
+				</div>
+				<div id="view14">
+							<h5></h5>
+							<p><span>Google Plus User ID:</span><input  id="gpuserd2qr"></input></p>
+				</div>
+				<div id="view15">
+							<h5></h5>
+							<p><span>Google Plus User ID:</span><input  id="gpabout2qr"></input></p>
+				</div>
+				<div id="view16">
+							<h5></h5>
+							<p><span>Google Plus User ID:</span><input  id="gpphotos2qr"></input></p>
+				</div>
+				<div id="view17">
+							<h5></h5>
+							<p><span>Google Plus User ID:</span><input  id="gpvideo2qr"></input></p>
+				</div>
+				<div id="view18">
+							<h5></h5>
+							<p><span>Google Plus User ID:</span><input  id="gpbuzz2qr"></input></p>
+				</div>
+				<div id="view19">
+							<h5></h5>
+							<p><span>Facebook User Name:</span><input  id="facebook2qr"></input></p>
+				</div>
+				<div id="view20">
+							<h5></h5>
+							<p><span>Twitter User Name:</span><input  id="twitter2qr"></input></p>
+							<p><span>Link to:</span>
+						<select id="twitterlink2qr">
+	<option value="1" selected="selected">User Page</option>
+	<option value="2">Following</option>
+	<option value="3">Followers</option>
+	<option value="4">Favorites</option>
+	</select>
+						</p>
+				</div>
+				<div id="view21">
+							<h5></h5>
+								<p><span>Select Envato Market:</span>
+						<select id="selectmarket2qr">
+	<option value="1" selected="selected">Activeden</option>
+	<option value="2">Themeforest</option>
+	<option value="3">Videohive</option>
+	<option value="4">Graphicriver</option>
+	<option value="5">3docean</option>
+	<option value="6">Codecanyon</option>
+	<option value="7">Tutsplus</option>
+	<option value="8">Photodune</option>
+	</select>
+						</p>
+					<p><span>Envato User Name:</span><input  id="envatouser2qr"></input></p>	
+				</div>
+				<div id="view22">
+							<h5></h5>
+									<p><span>Select Envato Market:</span>
+						<select id="selectmarket2qr">
+	<option value="1" selected="selected">Activeden</option>
+	<option value="2">Themeforest</option>
+	<option value="3">Videohive</option>
+	<option value="4">Graphicriver</option>
+	<option value="5">3docean</option>
+	<option value="6">Codecanyon</option>
+	<option value="7">Tutsplus</option>
+	<option value="8">Photodune</option>
+	</select>
+						</p>
+					<p><span>Envato User Name:</span><input  id="envatouser2qr2"></input></p>	
+				</div>
+				<div id="view23">
+							<h5></h5>
+									<p><span>Select Envato Market:</span>
+						<select id="selectmarket2qr3">
+	<option value="1" selected="selected">Activeden</option>
+	<option value="2">Themeforest</option>
+	<option value="3">Videohive</option>
+	<option value="4">Graphicriver</option>
+	<option value="5">3docean</option>
+	<option value="6">Codecanyon</option>
+	<option value="7">Tutsplus</option>
+	<option value="8">Photodune</option>
+	</select>
+						</p>
+					<p><span>Envato User Name:</span><input  id="envatouser2qr3"></input></p>	
+				</div>
+				<div id="view24">
+							<h5></h5>
+									<p><span>Select Envato Market:</span>
+						<select id="selectmarket2qr4">
+	<option value="1" selected="selected">Activeden</option>
+	<option value="2">Themeforest</option>
+	<option value="3">Videohive</option>
+	<option value="4">Graphicriver</option>
+	<option value="5">3docean</option>
+	<option value="6">Codecanyon</option>
+	<option value="7">Tutsplus</option>
+	<option value="8">Photodune</option>
+	</select>
+						</p>
+					<p><span>Envato User Name:</span><input  id="envatouser2qr4"></input></p>	
+				</div>
+				<div id="view25">
+							<h5></h5>
+									<p><span>Select Envato Market:</span>
+						<select id="selectmarket2qr5">
+	<option value="1" selected="selected">Activeden</option>
+	<option value="2">Themeforest</option>
+	<option value="3">Videohive</option>
+	<option value="4">Graphicriver</option>
+	<option value="5">3docean</option>
+	<option value="6">Codecanyon</option>
+	<option value="7">Tutsplus</option>
+	<option value="8">Photodune</option>
+	</select>
+						</p>
+					<p><span>Envato User Name:</span><input  id="envatouser2qr5"></input></p>	
+				</div>
+				<div id="view26">
+							<h5></h5>
+									<p><span>Select Envato Market:</span>
+						<select id="selectmarket2qr6">
+	<option value="1" selected="selected">Activeden</option>
+	<option value="2">Themeforest</option>
+	<option value="3">Videohive</option>
+	<option value="4">Graphicriver</option>
+	<option value="5">3docean</option>
+	<option value="6">Codecanyon</option>
+	<option value="7">Tutsplus</option>
+	<option value="8">Photodune</option>
+	</select>
+						</p>
+					<p><span>Envato User Name:</span><input  id="envatouser2qr6"></input></p>	
+				</div>
+				<div id="view27">
+							<h5></h5>
+									<p><span>Select Envato Market:</span>
+						<select id="selectmarket2qr7">
+	<option value="1" selected="selected">Activeden</option>
+	<option value="2">Themeforest</option>
+	<option value="3">Videohive</option>
+	<option value="4">Graphicriver</option>
+	<option value="5">3docean</option>
+	<option value="6">Codecanyon</option>
+	<option value="7">Tutsplus</option>
+	<option value="8">Photodune</option>
+	</select>
+						</p>
+					<p><span>Envato User Name:</span><input  id="envatouser2qr7"></input></p>	
+				</div>
+				<div id="view28">
+							<h5></h5>
+									<p><span>Select Envato Market:</span>
+						<select id="selectmarket12qr">
+	<option value="1" selected="selected">Activeden</option>
+	<option value="2">Themeforest</option>
+	<option value="3">Videohive</option>
+	<option value="4">Graphicriver</option>
+	<option value="5">3docean</option>
+	<option value="6">Codecanyon</option>
+	<option value="7">Tutsplus</option>
+	<option value="8">Photodune</option>
+	</select>
+						</p>
+					<p><span>Envato User Name:</span><input  id="envatouser12qr"></input></p>
+<p><span>Envato Item ID:</span><input  id="envatoitem12qr"></input></p>					
+				</div>
+				<div id="view29">
+							<h5></h5>
+									<p><span>Select Envato Market:</span>
+						<select id="selectmarket12qr2">
+	<option value="1" selected="selected">Activeden</option>
+	<option value="2">Themeforest</option>
+	<option value="3">Videohive</option>
+	<option value="4">Graphicriver</option>
+	<option value="5">3docean</option>
+	<option value="6">Codecanyon</option>
+	<option value="7">Tutsplus</option>
+	<option value="8">Photodune</option>
+	</select>
+						</p>
+					<p><span>Envato User Name:</span><input  id="envatouser12qr2"></input></p>
+<p><span>Envato Item ID:</span><input  id="envatoitem12qr2"></input></p>	
+				</div>
+				<div id="view30">
+							<h5></h5>
+									<p><span>Select Envato Market:</span>
+						<select id="selectmarket12qr3">
+	<option value="1" selected="selected">Activeden</option>
+	<option value="2">Themeforest</option>
+	<option value="3">Videohive</option>
+	<option value="4">Graphicriver</option>
+	<option value="5">3docean</option>
+	<option value="6">Codecanyon</option>
+	<option value="7">Tutsplus</option>
+	<option value="8">Photodune</option>
+	</select>
+						</p>
+					<p><span>Envato User Name:</span><input  id="envatouser12qr3"></input></p>
+<p><span>Envato Item ID:</span><input  id="envatoitem12qr3"></input></p>	
+				</div>
+				<div id="view31">
+							<h5></h5>
+									<p><span>Select Envato Market:</span>
+						<select id="selectmarket12qr4">
+	<option value="1" selected="selected">Activeden</option>
+	<option value="2">Themeforest</option>
+	<option value="3">Videohive</option>
+	<option value="4">Graphicriver</option>
+	<option value="5">3docean</option>
+	<option value="6">Codecanyon</option>
+	<option value="7">Tutsplus</option>
+	<option value="8">Photodune</option>
+	</select>
+						</p>
+					<p><span>Envato User Name:</span><input  id="envatouser12qr4"></input></p>
+<p><span>Envato Item ID:</span><input  id="envatoitem12qr4"></input></p>	
+				</div>
+				<div id="view32">
+							<h5></h5>
+							<p><span>Your Domain Name:</span><input  id="domainqr"></input></p>
+				</div>
+				<div id="view33">
+							<h5></h5>
+							<p><span>Your Domain Name:</span><input  id="domainqr2"></input></p>
+				</div>
+				<div id="view34">
+							<h5></h5>
+							<p><span>Your Domain Name:</span><input  id="domainqr3"></input></p>
+				</div>
+				<div id="view35">
+							<h5></h5>
+							<p><span>Your Domain Name:</span><input  id="domainqr4"></input></p>
+				</div>
+				<div id="view36">
+							<h5></h5>
+							<p><span>Your Page ID (in link):</span><input  id="domainidqr"></input></p>
+				</div>
+				
+				
+ </div>
+ <div class="qrimageDiv">
+ 
+ </div>
+ <div class="buttonLink">
+ <button id="createQR">Create QR</button>
+ <p><span>URL:</span><input id="googlelink">
+ </div>
+</div>
+<div id="histat">
+<!-- Histats.com  START  (standard)-->
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
+<center>
+<a href="http://www.histats.com" target="_blank" title="contatore di accessi" ><script  type="text/javascript" >
+try {Histats.start(1,1638042,4,111,175,25,"00010000");
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?1638042&101" alt="contatore di accessi" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</center>
+</div>
+</body>
+</html>

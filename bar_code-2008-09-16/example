@@ -1,0 +1,6 @@
+<?
+ require_once('boleto.class.php');
+ //$new_code = new cd_barra($_GET['code']);
+ $new_code = new cd_barra('123456789321654951753852',0);
+?>
+

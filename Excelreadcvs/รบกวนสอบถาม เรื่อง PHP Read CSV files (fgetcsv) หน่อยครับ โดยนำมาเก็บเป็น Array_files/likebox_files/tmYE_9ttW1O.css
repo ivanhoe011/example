@@ -1,0 +1,1647 @@
+.pluginButton {
+	background: rgb(236, 238, 245); padding: 2px 6px 4px; border-radius: 3px; border: 1px solid rgb(202, 212, 231); color: rgb(59, 89, 152); white-space: nowrap; cursor: pointer;
+}
+.pluginButtonInline {
+	display: inline-block;
+}
+.pluginButtonX {
+	cursor: default;
+}
+.pluginButton button {
+	font: inherit; margin: -1px; padding: 0px; border: 0px currentColor; color: inherit; cursor: pointer; font-size-adjust: inherit; font-stretch: inherit;
+}
+.pluginButtonIcon {
+	top: 3px; margin-right: 3px; position: relative;
+}
+.pluginButtonSmall {
+	padding: 0px 5px 2px;
+}
+.pluginButtonSmall .pluginButtonIcon {
+	margin-right: 2px;
+}
+.pluginButton:hover {
+	border-color: rgb(157, 172, 206);
+}
+.pluginButtonPressed {
+	border-color: rgb(221, 221, 221); color: rgb(170, 170, 170); background-color: rgb(238, 238, 238);
+}
+.pluginButtonPressed:hover {
+	border-color: rgb(221, 221, 221); color: rgb(170, 170, 170); background-color: rgb(238, 238, 238);
+}
+.pluginSkinDark .pluginButton {
+	border-color: rgb(153, 153, 153); color: rgb(51, 51, 51); background-color: rgb(199, 199, 199);
+}
+.pluginSkinDark .pluginButton:hover {
+	border-color: rgb(221, 221, 221); background-color: rgb(217, 217, 217);
+}
+.pluginSkinDark .pluginButtonPressed {
+	border-color: rgb(85, 85, 85); color: rgb(102, 102, 102); background-color: rgb(68, 68, 68);
+}
+.pluginSkinDark .pluginButtonPressed:hover {
+	border-color: rgb(85, 85, 85); color: rgb(102, 102, 102); background-color: rgb(68, 68, 68);
+}
+.pluginButtonErrorLink {
+	color: rgb(170, 0, 0); font-weight: bold;
+}
+.pluginButtonX .pluginButtonXOff {
+	display: inline-block;
+}
+.pluginButtonX button:hover .pluginButtonXOn {
+	display: inline-block;
+}
+.pluginButtonX .pluginButtonXOn {
+	display: none;
+}
+.pluginButtonX button:hover .pluginButtonXOff {
+	display: none;
+}
+.pluginButton .pluginButtonThrobber {
+	display: none;
+}
+form.async_saving .pluginButtonIconWithThrobber {
+	display: none;
+}
+form.async_saving .pluginButtonThrobber {
+	margin-top: 2px; margin-bottom: 1px; display: inline-block; max-width: 14px;
+}
+.pluginErrorLink {
+	color: rgb(240, 61, 37);
+}
+.pluginButtonIE b {
+	background: rgb(202, 212, 231); margin: 0px 1px; height: 1px; overflow: hidden; font-size: 3px; display: block;
+}
+.pluginButtonIE .pluginButton {
+	border: 0px currentColor;
+}
+.pluginButtonIEPatty {
+	border-width: 0px 1px; border-style: solid; border-color: rgb(202, 212, 231);
+}
+.pluginButtonIEPressed b {
+	background: rgb(221, 221, 221);
+}
+.pluginButtonIEPressed .pluginButtonIEPatty {
+	border-color: rgb(221, 221, 221);
+}
+.pluginSkinDark b {
+	background: rgb(153, 153, 153);
+}
+.pluginSkinDark .pluginButtonIEPatty {
+	border-color: rgb(153, 153, 153);
+}
+.pluginSkinDark .pluginButtonIEPressed b {
+	background: rgb(85, 85, 85);
+}
+.pluginSkinDark .pluginButtonIEPressed .pluginButtonIEPatty {
+	border-color: rgb(85, 85, 85);
+}
+.pluginConnectTextDark a {
+	color: rgb(255, 255, 255);
+}
+.pluginConnectTextDark {
+	color: gray;
+}
+ul .pluginFacepileConnectLast {
+	display: block;
+}
+.pluginFacepileConnectConnected .pluginFacepileConnectFirst {
+	display: block;
+}
+ul .pluginFacepileConnectFirst {
+	display: none;
+}
+.pluginFacepileConnectConnected .pluginFacepileConnectLast {
+	display: none;
+}
+.pluginSkinDark {
+	color: gray;
+}
+.pluginSkinDark .fcb {
+	color: gray;
+}
+.pluginSkinDark .fcg {
+	color: rgb(85, 85, 85);
+}
+.pluginSkinDark a {
+	color: rgb(255, 255, 255);
+}
+.pluginSkinDark a.uiLinkSubtle {
+	color: rgb(85, 85, 85);
+}
+.fbGalleryPrev {
+	margin-top: 50px; float: left; opacity: 0.7;
+}
+.fbDisabledGalleryPrev {
+	margin-top: 50px; float: left; opacity: 0.7;
+}
+.fbGalleryPrev:hover {
+	opacity: 1;
+}
+.fbGalleryNext {
+	margin-top: 50px; float: right; opacity: 0.7;
+}
+.fbDisabledGalleryNext {
+	margin-top: 50px; float: right; opacity: 0.7;
+}
+.fbGalleryNext:hover {
+	opacity: 1;
+}
+.fbConnectWidgetTopmost {
+	border-width: 1px; border-style: solid; border-color: rgb(49, 92, 153) rgb(170, 170, 170) rgb(170, 170, 170); padding: 0px; overflow: hidden; position: relative;
+}
+div.fbDarkWidget {
+	background-color: transparent;
+}
+.fbDarkWidget .fbWidgetTitle {
+	color: rgb(255, 255, 255);
+}
+.fbDarkWidget a {
+	color: rgb(255, 255, 255);
+}
+.fbDarkWidget .profileName {
+	color: rgb(255, 255, 255);
+}
+.fbDarkWidget a.uiLinkSubtle {
+	color: gray;
+}
+.fbDarkWidget a.fbCommentOverlayLink {
+	color: rgb(59, 89, 152);
+}
+div.fbConnectWidgetHeaderTitle {
+	border-width: 0px 0px 1px;
+}
+div.ConnectActivityLogin {
+	border-width: 0px 0px 1px; zoom: 1;
+}
+.fbRecommendationWidgetContent .recommendations_metadata {
+	color: gray; padding-top: 3px;
+}
+.fbDarkWidget .fbRecommendationWidgetContent .recommendations_metadata {
+	color: rgb(204, 204, 204);
+}
+.fbGalleryImage {
+	max-height: 125px; max-width: 140px;
+}
+.fbShowBothHidden {
+	display: none;
+}
+.fbRecommendationsContainer {
+	display: none;
+}
+.fbShowBothRecommendationsHighlighted .fbRecommendationsContainer {
+	display: inline;
+}
+.fbShowBothRecommendationsHighlighted .fbActivityContainer {
+	display: none;
+}
+.fbActivityContainer {
+	display: inline;
+}
+.fbGalleryRecommendationsFacepile {
+	position: relative;
+}
+.fbGalleryRecommendationsFooter {
+	width: 150px;
+}
+.fbGalleryRecommendationsImageBlock {
+	height: 125px; text-align: center; margin-right: auto; margin-left: auto; display: block;
+}
+.fbGalleryRecommendationsImageContainer {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yD/x/DxzglMoaWwG.png") 0px 0px rgb(237, 239, 244); width: 140px; height: 125px; overflow: hidden; display: inline-block;
+}
+.fbDarkWidget .fbGalleryRecommendationsImageContainer {
+	background-position: -125px 0px;
+}
+.fbGalleryRecommendationsNode {
+	height: 275px;
+}
+.fbGalleryRecommendationsText {
+	height: 64px; padding-top: 3px;
+}
+.fbShowBothActivityHeader {
+	display: none;
+}
+.fbShowBothRecommendationsHighlighted .fbShowBothActivityHeader {
+	display: inline;
+}
+.fbShowBothRecommendationsHeader {
+	display: inline;
+}
+.fbShowBothRecommendationsHighlighted .fbShowBothRecommendationsHeader {
+	display: none;
+}
+.fbDarkWidget div.ConnectActivityLogin {
+	border-color: rgb(48, 48, 48); background-color: rgb(0, 0, 0);
+}
+.fbProfilePic {
+	width: 35px; height: 35px;
+}
+.fbImageContainer {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yD/x/DxzglMoaWwG.png") no-repeat 0px 0px rgb(237, 239, 244); width: 35px; height: 35px; overflow: hidden;
+}
+.fbDarkWidget .fbImageContainer {
+	background-position: -35px 0px;
+}
+.fbConnectWidgetHeaderTitle {
+	border: 1px solid rgb(198, 206, 221); color: rgb(28, 42, 71); padding-top: 8px; padding-bottom: 7px; cursor: default;
+}
+.fbConnectWidgetHeaderTitleBranded {
+	background: rgb(59, 89, 152); color: rgb(255, 255, 255); padding-top: 7px; padding-bottom: 5px; cursor: default;
+}
+.fbDarkWidget .fbConnectWidgetHeaderTitle {
+	border: 1px solid rgb(68, 68, 68); background-color: rgb(51, 51, 51);
+}
+.fbLoginButton {
+	float: left;
+}
+.ConnectActivityLoginMessage {
+	color: rgb(102, 102, 102); line-height: 14px; vertical-align: top; zoom: 1;
+}
+.fbDarkWidget .ConnectActivityLoginMessage {
+	color: gray;
+}
+.fbConnectWidgetFooter {
+	width: 100%; bottom: 0px; position: absolute; cursor: default;
+}
+.transparent_widget .fbDarkWidget .fbConnectWidgetFooter {
+	background-color: transparent;
+}
+.fbConnectWidgetFooter .fbFooterBorder {
+	margin: 0px 6px; padding: 4px 3px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+.fbDarkWidget .fbConnectWidgetFooter .fbFooterBorder {
+	border-top-color: rgb(68, 68, 68); border-top-width: 1px; border-top-style: solid;
+}
+.fbConnectWidgetContent {
+	visibility: hidden;
+}
+.fbImageContainer img {
+	visibility: hidden;
+}
+.fbConnectWidgetContent {
+	visibility: hidden;
+}
+.fbGalleryRecommendationsImageContainer img {
+	visibility: hidden;
+}
+div.fbHalfPage {
+	overflow: hidden;
+}
+div.fbAdminOptions {
+	float: right;
+}
+.fbDarkWidget.fbFeedbackContent {
+	border: currentColor;
+}
+.fbFeedbackContent .async_saving ul {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/y4/x/GsNJNwuI-UM.gif") no-repeat right;
+}
+.fbFeedbackContent .async_saving .indicator {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/y4/x/GsNJNwuI-UM.gif") no-repeat right;
+}
+.fbFeedbackContent .async_saving .action_links {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/y4/x/GsNJNwuI-UM.gif") no-repeat right;
+}
+.fbDarkWidget.fbFeedbackContent .composerHider {
+	border-top-color: rgb(102, 102, 102); border-bottom-color: rgb(102, 102, 102); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.fbFeedbackContent .composerHider {
+	margin: 0px; padding: 9px 0px 7px; border-top-color: rgb(204, 204, 204); border-bottom-color: rgb(204, 204, 204); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.fbFeedbackContent .composerHider .uiSelector {
+	margin: -3px 1px;
+}
+.fbFeedbackContent .composerHider .uiSelector .uiSelectorButton {
+	background-position: right -295px; margin: 0px; padding: 2px 20px 2px 0px; outline: 0px; border: currentColor; box-shadow: none; background-image: url("http://static.ak.fbcdn.net/rsrc.php/v2/yK/x/nDEHv4nTejR.png"); background-repeat: no-repeat; background-size: auto; background-color: transparent;
+}
+.fbFeedbackContent .composerHider .uiSelector .uiSelectorButton:active {
+	background-position: right -295px; margin: 0px; padding: 2px 20px 2px 0px; outline: 0px; border: currentColor; box-shadow: none; background-image: url("http://static.ak.fbcdn.net/rsrc.php/v2/yK/x/nDEHv4nTejR.png"); background-repeat: no-repeat; background-size: auto; background-color: transparent;
+}
+.fbFeedbackContent .composerHider .uiSelector .uiSelectorButton:focus {
+	background-position: right -295px; margin: 0px; padding: 2px 20px 2px 0px; outline: 0px; border: currentColor; box-shadow: none; background-image: url("http://static.ak.fbcdn.net/rsrc.php/v2/yK/x/nDEHv4nTejR.png"); background-repeat: no-repeat; background-size: auto; background-color: transparent;
+}
+.fbFeedbackContent .composerHider .uiSelector .uiSelectorButton:hover {
+	background-position: right -295px; margin: 0px; padding: 2px 20px 2px 0px; outline: 0px; border: currentColor; box-shadow: none; background-image: url("http://static.ak.fbcdn.net/rsrc.php/v2/yK/x/nDEHv4nTejR.png"); background-repeat: no-repeat; background-size: auto; background-color: transparent;
+}
+.fbFeedbackContent .composerHider .uiSelector .uiSelectorButton .uiButtonText {
+	color: rgb(51, 51, 51);
+}
+.fbDarkWidget.fbFeedbackContent .composerHider .uiSelector .uiSelectorButton .uiButtonText {
+	color: rgb(255, 255, 255);
+}
+.fbFeedbackContent .composerHider .uiSelector .itemLabel {
+	font-weight: normal;
+}
+.fbFeedbackContent .composerHider .uiSelector .checked .itemLabel {
+	font-weight: bold;
+}
+.fbFeedbackContent .composerHider a {
+	font-weight: bold;
+}
+.fbFeedbackContent .fbThirdPartyIcon {
+	top: 4px; right: 1px; position: relative;
+}
+.fbCommentContext .fbCommentContextPosts {
+	overflow-x: hidden; overflow-y: auto; max-height: 400px;
+}
+.fbCommentContext .fbCommentContextPosts .fbTopLevelComment {
+	padding-top: 0px;
+}
+.fbCommentContext .composerGrid {
+	width: 100%;
+}
+.fbCommentContext .composerTight {
+	width: 0px;
+}
+.fbCommentContext .composerReply .uiButton {
+	margin-right: 4px;
+}
+.fbFeedbackContent .composer {
+	border-width: 1px 0px; border-style: solid; border-color: rgb(233, 233, 233); padding: 7px 10px 7px 69px; position: relative; background-color: rgba(190, 190, 190, 0.2);
+}
+.fbDarkWidget.fbFeedbackContent .composer {
+	border-color: rgb(102, 102, 102); background-color: rgb(51, 51, 51);
+}
+.fbFeedbackContent .fbFeedbackPosts .composer {
+	margin-left: -10px;
+}
+.fbFeedbackContent .fbFeedbackPostsContainer .fbFeedbackPosts {
+	padding: 0px;
+}
+.fbFeedbackContent .noTopBorder {
+	border-top-color: currentColor !important; border-top-width: 0px !important; border-top-style: none !important;
+}
+.fbDarkWidget .fbCommentContext .composer {
+	border: currentColor; background-color: rgb(85, 85, 85);
+}
+.fbCommentContext .composer {
+	border: 1px solid rgb(204, 204, 204); padding-top: 4px; padding-bottom: 4px; padding-left: 70px; margin-top: 4px; position: relative; background-color: rgb(242, 242, 242);
+}
+.fbFeedbackContent .composer .viewerProfilePic {
+	margin: 2px 0px 0px; padding: 0px !important; left: 10px; position: absolute; background-color: rgb(221, 221, 221);
+}
+.fbDarkWidget.fbFeedbackContent .fbFeedbackTypeahead {
+	border-color: rgb(67, 67, 67);
+}
+.fbDarkWidget.fbFeedbackContent .fbFeedbackTypeahead .wrap {
+	border-color: rgb(67, 67, 67);
+}
+.fbDarkWidget.fbFeedbackContent .fbFeedbackMentions .mentionsTextarea {
+	border-width: 0px; margin: 0px; padding: 0px; box-shadow: none; background-color: transparent;
+}
+.fbFeedbackContent .fbFeedbackMentions .mentionsTextarea {
+	border-width: 0px; margin: 0px; padding: 0px; box-shadow: none; background-color: transparent;
+}
+.fbDarkWidget.fbFeedbackContent .fbFeedbackMentions {
+	background-color: rgb(0, 0, 0);
+}
+.fbFeedbackContent .fbFeedbackMentions {
+	margin: 2px 0px; background-color: rgb(255, 255, 255);
+}
+.fbFeedbackContent .fbFeedbackMentions .innerWrap {
+	padding: 3px;
+}
+.fbFeedbackContent .fbFeedbackMentions .highlighter {
+	left: 0px; top: 0px;
+}
+.fbDarkWidget.fbFeedbackContent .fbFeedbackMentions .highlighter b {
+	background-color: rgb(68, 68, 68);
+}
+.fbCommentContext .textwrapper {
+	padding: 0px 8px 0px 0px;
+}
+.fbFeedbackContent .textwrapper {
+	padding: 0px 8px 0px 0px;
+}
+.fbFeedbackContent .postToProfile {
+	float: left; position: relative; min-width: 135px;
+}
+.fbFeedbackContent .postToProfile input {
+	top: 2px; position: relative;
+}
+.fbFeedbackContent div.commentas {
+	margin: 4px 6px; color: gray; float: right;
+}
+.fbFeedbackContent .indicator {
+	margin: 10px 0px 0px -45px; float: left; position: absolute;
+}
+.fbFeedbackContent select.commentas {
+	margin: 1px 6px; float: right;
+}
+.hideCommentas .commentas {
+	display: none;
+}
+.fbDarkWidget.fbCommentContext .composer textarea {
+	border: 1px solid rgb(67, 67, 67); color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);
+}
+.fbDarkWidget.fbFeedbackContent .composer textarea {
+	border: 1px solid rgb(67, 67, 67); color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);
+}
+.fbCommentContext .composer textarea {
+	padding: 3px; border: 1px solid rgb(137, 155, 197); width: 100%;
+}
+.fbFeedbackContent .composer textarea {
+	padding: 3px; border: 1px solid rgb(137, 155, 197); width: 100%;
+}
+.fbFeedbackContent .replywrapper {
+	padding: 0px 8px 0px 0px;
+}
+.fbCommentContext .viewerProfilePic {
+	float: left;
+}
+.fbCommentContext .replywrapper {
+	width: 100%;
+}
+.fbCommentContext .replywrappermargin {
+	margin: 0px 9px;
+}
+.fbCommentContext .replywrappermargin .textarea {
+	margin-left: -4px;
+}
+.fbDarkWidget.fbFeedbackContent .composerReply {
+	border-top-color: rgb(102, 102, 102); border-top-width: 1px; border-top-style: solid;
+}
+.fbFeedbackContent .composerReply {
+	border-top-color: rgb(233, 233, 233); border-top-width: 1px; border-top-style: solid;
+}
+.fbFeedbackContent .composerReply {
+	padding-top: 8px;
+}
+.fbFeedbackContent .composerReply textarea {
+	width: 100%;
+}
+.fbFeedbackContent .postContent .action_links {
+	margin-bottom: 8px;
+}
+.fbFeedbackContent .postBlingBox {
+	padding: 0px; border: currentColor; bottom: 1px; position: relative; cursor: text;
+}
+.fbFeedbackContent .postBlingBox:hover {
+	border: currentColor; background-color: transparent;
+}
+.fbFeedbackContent .fbUpDownVoteAfterLogin {
+	display: inline;
+}
+.fbFeedbackContent .fbFeedbackPager {
+	margin-left: 0px;
+}
+.fbFeedbackContent .fbFeedbackPager .fbFeedbackPagerLink {
+	padding: 8px;
+}
+.fbFeedbackContent .fbFeedbackReplyPager .fbFeedbackPagerLink {
+	padding: 5px 8px;
+}
+.fbFeedbackContent .fbFeedbackPager .fbFeedbackPagerLink:hover {
+	text-decoration: none;
+}
+.fbFeedbackContent .postReplies .pagerLoader {
+	padding-left: 2px;
+}
+.fbFeedbackContent {
+	min-height: 160px;
+}
+.fbCommentContext .fbFeedbackContent {
+	min-height: 0px;
+}
+.fbFeedbackContent .fbFeedbackPosts {
+	padding: 0px 0px 0px 10px;
+}
+.fbFeedbackContent .star {
+	width: 11px; height: 11px;
+}
+.fbFeedbackContent .followLinkInlineCheck {
+	margin-right: 4px;
+}
+.fbFeedbackContent .followLinkInlineCheckDark {
+	margin-right: 4px;
+}
+.fbFeedbackContent .post {
+	margin-top: 4px;
+}
+.fbFeedbackContent .post input {
+	margin-left: 0px;
+}
+.fbCommentContext .post .uiSelector {
+	float: right;
+}
+.fbCommentContext .cancel .uiSelector {
+	float: right;
+}
+.fbFeedbackContent .post .uiSelector {
+	float: right;
+}
+.fbCommentContext .post .uiButton {
+	float: right;
+}
+.fbCommentContext .cancel .uiButton {
+	float: right;
+}
+.fbFeedbackContent .post .uiButton {
+	float: right;
+}
+.fbCommentContext .post .uiSelector .uiButton {
+	float: none;
+}
+.fbCommentContext .cancel .uiSelector .uiButton {
+	float: none;
+}
+.fbFeedbackContent .post .uiSelector .uiButton {
+	float: none;
+}
+.fbFeedbackContent .post label.desc {
+	top: 4px; font-weight: normal; position: absolute;
+}
+.fbFeedbackContent .profileName {
+	font-size: 13px;
+}
+.fbFeedbackContent .fbFeedbackPost {
+	border-width: 1px 0px 0px; border-style: solid; border-color: rgb(226, 226, 226); padding-top: 10px; padding-bottom: 0px !important; clear: both;
+}
+.fbDarkWidget.fbFeedbackContent .fbFeedbackPost {
+	border-color: rgb(85, 85, 85);
+}
+.fbFeedbackContent li:first-of-type.fbTopLevelComment {
+	border-width: 0px;
+}
+.fbFeedbackContent li:last-of-type.fbTopLevelComment {
+	margin-bottom: -5px;
+}
+.fbDarkWidget .fbFeedbackReplies .fbFeedbackPost {
+	border-color: rgb(68, 68, 68);
+}
+.fbFeedbackReplies .fbFeedbackPost {
+	border-width: 0px 0px 1px; border-color: rgb(233, 233, 233);
+}
+.fbFeedbackReply form {
+	margin-top: 8px;
+}
+.fbFeedbackContent .postReply {
+	margin-top: 8px;
+}
+.postReplies {
+	margin-top: 8px;
+}
+.postReplies .uiMorePagerLight .uiMorePagerPrimary:hover {
+	background-color: rgba(225, 228, 237, 0.6);
+}
+.postReplies .uiMorePagerInverted .uiMorePagerPrimary {
+	border-width: 1px 0px 0px; border-color: rgb(68, 68, 68); background-color: transparent;
+}
+.postReplies .uiMorePagerInverted .uiMorePagerLoader {
+	border-width: 1px 0px 0px; border-color: rgb(68, 68, 68); background-color: transparent;
+}
+.fbFeedbackContent .uiMorePagerInverted .uiMorePagerPrimary:hover {
+	border-color: rgb(85, 85, 85); background-color: rgb(68, 68, 68);
+}
+.fbDarkWidget .closeButton .uiCloseButton {
+	margin: 0px; border: 1px solid rgb(0, 0, 0);
+}
+.fbDarkWidget .closeButton .openToggler .uiCloseButton {
+	margin: 0px; border: 1px solid rgb(0, 0, 0);
+}
+.fbDarkWidget .closeButtonAfterLogin .uiCloseButton {
+	margin: 0px; border: 1px solid rgb(0, 0, 0);
+}
+.fbFeedbackContent .postContainer:hover .closeButton {
+	visibility: visible;
+}
+.fbFeedbackContent .postContainer:hover .closeButtonAfterLogin {
+	visibility: visible;
+}
+.fbFeedbackContent .postContainer .closeButton {
+	float: right; visibility: hidden;
+}
+.fbFeedbackContent .postContainer .closeButtonAfterLogin {
+	float: right; visibility: hidden;
+}
+.fbFeedbackPost {
+	position: relative;
+}
+.fbFeedbackPost .postContent {
+	margin-top: 5px;
+}
+.fbDarkWidget .fbFeedbackPost .postText {
+	color: rgb(204, 204, 204);
+}
+.fbFeedbackPost .postText {
+	margin: 0px 28px 5px 0px; color: rgb(26, 26, 26); line-height: 14px;
+}
+.fbFeedbackPost .postActor {
+	margin-right: 11px; margin-bottom: 8px; background-color: rgb(237, 237, 237);
+}
+.fbDarkWidget .postActor {
+	background-color: rgb(51, 51, 51);
+}
+.fbFeedbackReplyPager {
+	height: 16px; margin-bottom: 8px;
+}
+.fbFeedbackContent .fbConnectWidgetFooter {
+	position: static;
+}
+.fbFeedbackContent .fbConnectWidgetFooter .fbFooterBorder {
+	margin: 5px 0px 0px;
+}
+.fbTopLevelComment .fbFeedbackReplies .fbCommentReply {
+	border-width: 1px 0px 0px;
+}
+.fbFeedbackContent .fbCommentOverlay {
+	border-width: 1px; border-style: solid; left: 0px; top: 0px; right: 0px; bottom: 0px; font-size: 14px; position: absolute; opacity: 0.9;
+}
+.fbFeedbackContent .fbReportedByUser {
+	border-color: rgb(238, 238, 238); background-color: rgb(255, 255, 255);
+}
+.fbFeedbackContent .fbRecentlyBlacklisted {
+	border-color: rgb(26, 26, 26); background-color: rgb(68, 68, 68);
+}
+.fbFeedbackContent .fbRecentlyPublicized {
+	border-color: rgb(210, 241, 208); background-color: rgb(228, 255, 226);
+}
+.fbFeedbackContent .fbRecentlyPrivatized {
+	border-color: rgb(247, 224, 255); background-color: rgb(255, 251, 232);
+}
+.fbFeedbackContent .fbCommentOverlayInsert {
+	top: 50%; width: 100%; text-align: center; margin-top: -0.5em; position: absolute;
+}
+.fbFeedbackContent .fbCommentDownvotedButVisible .postText {
+	color: gray;
+}
+.fbFeedbackContent .fbCommentOverlayDark {
+	color: rgb(0, 0, 0);
+}
+.fbFeedbackContent .fbCommentOverlayLight {
+	color: rgb(255, 255, 255);
+}
+.fbFeedbackContent .fbCommentOverlayLight a:link {
+	color: rgb(153, 153, 153);
+}
+.fbFeedbackContent .fbCommentOverlayLight a:hover {
+	color: rgb(153, 153, 153);
+}
+.fbFeedbackContent .fbCommentOverlayLight a:visited {
+	color: rgb(153, 153, 153);
+}
+.fbFeedbackContent .fbCommentOverlayLight a:active {
+	color: rgb(153, 153, 153);
+}
+.fbCommentsEditSettings .uiInfoTable .label {
+	width: 145px; vertical-align: middle;
+}
+.fbCommentsEditSettings .uiInfoTable tr {
+	border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+.fbCommentsEditSettings .uiInfoTable tr:first-child {
+	border: currentColor;
+}
+.fbCommentsEditSettings .uiInfoTable th {
+	padding: 10px 5px 10px 0px;
+}
+.fbCommentsEditSettings .uiInfoTable td {
+	padding: 10px 0px 10px 5px;
+}
+.fbCommentsEditSettings .uiInfoTable tr:first-child th {
+	padding-top: 0px;
+}
+.fbCommentsEditSettings .uiInfoTable tr:first-child td {
+	padding-top: 0px;
+}
+.fbCommentsEditSettings .uiInfoTable tr:nth-last-child(2) th {
+	padding-bottom: 0px;
+}
+.fbCommentsEditSettings .uiInfoTable tr:nth-last-child(2) td {
+	padding-bottom: 0px;
+}
+.fbCommentsEditSettings .uiInfoTable tr:last-child {
+	border: currentColor;
+}
+.fbCommentsEditSettings .uiInfoTable tr.custom_blacklist {
+	border: currentColor;
+}
+.fbCommentsEditSettings .uiInfoTable tr.custom_blacklist th {
+	padding: 0px 5px 10px;
+}
+.fbCommentsEditSettings .uiInfoTable tr.custom_blacklist td {
+	padding: 0px 5px 10px;
+}
+.fbDarkWidget .warning a {
+	color: gray;
+}
+.fbFeedbackContent .closeButton .editSelector .uiCloseButton {
+	background-image: url("http://static.ak.fbcdn.net/rsrc.php/v2/yx/x/rkQF27utoCR.png");
+}
+.fbFeedbackPost .postContainer .fbCommentEditor textarea {
+	padding: 3px; border: currentColor; width: 100%;
+}
+.fbFeedbackPost .postContainer .fbCommentEditor {
+	padding: 7px 10px; min-height: 0px;
+}
+.fbFeedbackPost .postContainer .fbCommentEditor .textBoxContainer {
+	background-color: rgb(255, 255, 255);
+}
+.fbFeedbackPost .postContainer .fbCommentEditor .highlighter {
+	font-size: 13px; font-weight: normal;
+}
+.sp_comments {
+	width: 16px; height: 16px; display: inline-block; background-image: url("http://static.ak.fbcdn.net/rsrc.php/v2/yX/x/U9AwDhGgiju.png"); background-repeat: no-repeat;
+}
+.sx_comments_favicon {
+	background-position: 0px -153px;
+}
+.sx_comments_cfavicon {
+	background-position: 0px -187px; width: 14px; height: 14px;
+}
+.sx_comments_yahoo {
+	background-position: -17px -153px;
+}
+.sx_comments_aol {
+	background-position: -34px -153px;
+}
+.sx_comments_msft {
+	background-position: 0px -170px;
+}
+.sx_comments_pyahoo {
+	width: 50px; height: 50px;
+}
+.sx_comments_paol {
+	background-position: 0px -51px; width: 50px; height: 50px;
+}
+.sx_comments_pmsft {
+	background-position: 0px -102px; width: 50px; height: 50px;
+}
+.sx_comments_star {
+	background-position: 0px -202px; width: 11px; height: 10px;
+}
+.sx_comments_darkstar {
+	background-position: -28px -187px; width: 11px; height: 10px;
+}
+.sx_comments_arrowb {
+	background-position: -33px -202px; width: 9px; height: 5px;
+}
+.sx_comments_arroww {
+	background-position: -23px -202px; width: 9px; height: 5px;
+}
+.sx_comments_arrowl {
+	background-position: -28px -198px; width: 5px; height: 3px;
+}
+.sx_comments_like {
+	background-position: -33px -170px; width: 15px; height: 13px;
+}
+.sx_comments_darklike {
+	background-position: -17px -170px; width: 15px; height: 13px;
+}
+.sx_comments_subscribe {
+	background-position: -15px -187px; width: 12px; height: 14px;
+}
+.sx_comments_subscribedark {
+	background-position: -40px -187px; width: 10px; height: 10px;
+}
+.sx_comments_followLinkInlineCheck {
+	background-position: 0px -213px; width: 9px; height: 11px;
+}
+.sx_comments_followLinkInlineCheckDark {
+	background-position: -12px -202px; width: 10px; height: 10px;
+}
+.fbDarkWidget .fan_box {
+	color: gray;
+}
+.fbDarkWidget .uiStream .uiStreamMessage {
+	color: gray;
+}
+.fbDarkWidget .fan_box a {
+	color: rgb(204, 204, 204);
+}
+.fan_box .full_widget {
+	background: white; border: 1px solid rgb(148, 163, 196);
+}
+.fan_box .full_widget .connect_top {
+	background: rgb(236, 239, 245);
+}
+.fan_box .connect_top {
+	padding: 10px 10px 8px;
+}
+.pts .fan_box .connect_top {
+	padding: 5px 10px 8px 5px;
+}
+.fan_box .profileimage {
+	margin: 0px 0px 4px; padding: 0px 10px 0px 0px; width: 40px; height: 40px; float: left;
+}
+.fan_box .connect_action {
+	padding: 0px 0px 0px 8px;
+}
+.fan_box .connect_action .name {
+	line-height: 15px; font-size: 16px; font-weight: bold;
+}
+.fan_box .connect_button {
+	padding-top: 5px;
+}
+.fan_box .connect_button .uiButton {
+	margin: 1px 0px 0px;
+}
+.fan_box .connect_action a.undo {
+	margin: 0px 0px 0px 3px;
+}
+.fan_box .page_stream {
+	padding: 0px 5px; text-align: center; overflow: auto; border-top-color: rgb(216, 223, 234); border-top-width: 1px; border-top-style: solid; position: relative;
+}
+.fan_box .page_stream_short {
+	padding: 0px 5px; text-align: center; overflow: auto; border-top-color: rgb(216, 223, 234); border-top-width: 1px; border-top-style: solid; position: relative;
+}
+.fan_box .storyContent {
+	text-align: left;
+}
+.fan_box .page_stream {
+	overflow-x: hidden;
+}
+.fan_box .page_stream .loader {
+	padding-top: 20px;
+}
+.fan_box .UIIntentionalStory {
+	padding: 7px 0px 0px; text-align: left;
+}
+.fan_box .UIIntentionalStory .UIMediaItem_UnknownWidth {
+	max-width: 100px;
+}
+.fan_box .connections {
+	padding: 10px 0px 4px 10px; border-top-color: rgb(216, 223, 234); border-top-width: 1px; border-top-style: solid; min-height: 150px;
+}
+.pts .fan_box .connections {
+	padding: 5px 0px 4px 5px;
+}
+.fan_box .connections .connections_grid {
+	padding-top: 5px;
+}
+.fan_box .connections_grid .grid_item {
+	padding: 0px 5px 8px 0px; width: 50px; overflow: hidden; float: left;
+}
+.fan_box .connections_grid .grid_item .name {
+	text-align: center; color: gray; overflow: hidden; padding-top: 2px; font-size: 11px; white-space: nowrap;
+}
+.fan_box .connect_span {
+	margin: 0px 0px 1px;
+}
+.fan_box .connect_widget .connect_widget_text {
+	padding: 0px;
+}
+.fan_box .connect_widget td.connect_widget_vertical_center {
+	height: 20px;
+}
+.fan_box .connect_widget .connect_widget_interactive_area {
+	margin: 5px 0px 0px;
+}
+.connect_comment_widget {
+	margin: 0px; padding: 5px 0px; position: relative;
+}
+.connect_comment_widget .nub {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/y6/x/agyQHs6yLID.gif"); margin: 0px; padding: 0px; top: 0px; width: 9px; height: 6px; line-height: 0; visibility: hidden; position: absolute; z-index: 2;
+}
+.connect_comment_widget .side_nub {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yX/x/vAOEfR4cWQM.gif") no-repeat 0px 0px; margin: 0px; padding: 0px; left: -5px; top: 14px; width: 6px; height: 20px; line-height: 0; position: absolute; z-index: 2;
+}
+.connect_comment_widget_rtl .side_nub {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yy/x/R95msRfVr6a.gif") no-repeat 0px 0px;
+}
+.connect_comment_widget .comment_content {
+	background: white; border-width: 1px 1px 2px; border-style: solid; border-color: rgb(51, 51, 51) rgb(51, 51, 51) rgb(40, 62, 108); zoom: 1;
+}
+.connect_comment_widget .connect_comment_widget_text {
+	padding: 8px 8px 4px;
+}
+.connect_comment_widget .connect_comment_widget_custom_text {
+	color: gray;
+}
+.connect_comment_widget .connect_comment_widget_placeholder_input {
+	width: 304px; height: 20px; color: gray; line-height: 16px;
+}
+.connect_comment_widget .connect_comment_widget_placeholder_input_region {
+	padding: 8px 8px 5px;
+}
+.connect_comment_widget .connect_comment_widget_user_pic {
+	padding: 0px 5px 0px 0px; width: 50px; height: auto; float: left; display: block;
+}
+.connect_comment_widget .connect_comment_widget_full_input_textarea {
+	width: 310px; height: 50px;
+}
+.connect_comment_widget .connect_comment_widget_full_input_region {
+	padding: 8px 8px 5px;
+}
+.connect_comment_widget textarea.connect_comment_widget_disabled {
+	color: gray;
+}
+.like_button_dark.connect_comment_widget textarea.connect_comment_widget_disabled {
+	color: rgb(222, 222, 222);
+}
+.connect_comment_widget div.connect_comment_share_preview {
+	padding-top: 6px; padding-left: 55px;
+}
+.connect_comment_widget div.connect_comment_widget_button_region {
+	padding: 8px 8px 5px; text-align: right; border-top-color: rgb(189, 199, 216); border-top-width: 1px; border-top-style: solid; background-color: rgb(242, 242, 242);
+}
+.connect_comment_widget_checkbox_region div.uiinputlabel {
+	float: left; display: inline-block;
+}
+.like_button_dark.connect_comment_widget div.connect_comment_widget_button_region {
+	border-top-color: rgb(102, 102, 102); border-top-width: 1px; border-top-style: solid; background-color: rgb(51, 51, 51);
+}
+.like_button_dark .nub {
+	background-image: url("http://static.ak.fbcdn.net/rsrc.php/v2/yp/x/7vbl1usLlV8.gif");
+}
+.like_button_dark .connect_widget_comment_box_upward_nub {
+	background-image: url("http://static.ak.fbcdn.net/rsrc.php/v2/yp/x/7vbl1usLlV8.gif");
+}
+.like_button_dark .side_nub {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/y3/x/Gvy8rtIdNBK.gif") no-repeat 0px 0px; left: -4px;
+}
+.like_button_dark.connect_comment_widget_rtl .side_nub {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yc/x/E-2vs4qfO7d.gif") no-repeat 0px 0px;
+}
+.like_button_dark .comment_content {
+	background: rgb(17, 17, 17); border-width: 1px 1px 2px; border-style: solid; border-color: rgb(102, 102, 102) rgb(102, 102, 102) rgb(204, 204, 204); color: rgb(204, 204, 204);
+}
+.like_button_dark .connect_comment_widget_placeholder_input {
+	background: rgb(80, 80, 80); border: 1px solid rgb(80, 80, 80); color: rgb(255, 255, 255);
+}
+.like_button_dark .connect_comment_widget_full_input_textarea {
+	border-color: rgb(67, 67, 67); color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);
+}
+.like_button_dark .connect_comment_widget_placeholder_input {
+	border-color: rgb(67, 67, 67); color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);
+}
+.like_button_dark .connect_comment_widget_full_input_textarea {
+	color: rgb(255, 255, 255);
+}
+.like_button_dark a {
+	color: rgb(255, 255, 255);
+}
+.connect_comment_widget .connect_comment_widget_title {
+	font-size: 14px; font-weight: bold; margin-top: -2px;
+}
+.like_button_dark.connect_comment_widget .connect_comment_widget_title {
+	color: rgb(255, 255, 255);
+}
+.connect_comment_widget .connect_comment_widget_description {
+	line-height: 11px; font-size: 13px; margin-bottom: 6px;
+}
+.connect_comment_widget .connect_comment_widget_href {
+	line-height: 11px; font-size: 13px; margin-bottom: 6px;
+}
+.connect_comment_widget .connect_comment_widget_description {
+	color: rgb(0, 0, 0);
+}
+.like_button_dark.connect_comment_widget .connect_comment_widget_description {
+	color: rgb(255, 255, 255);
+}
+.like_button_dark .connect_comment_widget_href {
+	color: gray;
+}
+.connect_widget .connect_widget_interactive_area {
+	border-collapse: collapse;
+}
+.connect_widget td.connect_widget_vertical_center {
+	padding: 0px; line-height: normal; font-size: 13px; border-spacing: 0;
+}
+.connect_widget td.connect_widget_button_cell {
+	vertical-align: top;
+}
+.connect_widget td.connect_widget_confirm_cell {
+	padding-top: 4px;
+}
+.connect_widget .connect_button_slider {
+	position: relative; zoom: 1;
+}
+.connect_widget .connect_widget_button_cell .connect_slide_hide_content {
+	width: 1px; overflow: hidden; margin-right: 0px;
+}
+.connect_widget .connect_slide_hide_content .connect_button_container {
+	margin-left: 1px;
+}
+.button_count .connect_widget_interactive_area .connect_widget_facebook_favicon {
+	float: left; position: static;
+}
+.button_count .connect_widget_interactive_area .connect_widget_text {
+	float: left; position: static;
+}
+a.connect_widget_like_button {
+	padding: 4px 5px; border-radius: 3px; border: 1px solid rgb(0, 0, 0); float: left; display: block;
+}
+.button_count a.connect_widget_like_button {
+	padding: 2px 4px;
+}
+a.connect_widget_like_button span {
+	line-height: 14px;
+}
+a.connect_widget_like_button:hover {
+	text-decoration: none;
+}
+.connect_widget_number_cloud {
+	background: rgb(255, 255, 255); border: 1px solid rgb(211, 211, 211); height: 25px; text-align: center; padding-top: 7px; position: relative;
+}
+.like_widget_dark div.connect_widget_number_cloud {
+	border-color: rgb(215, 215, 215); background-color: rgb(215, 215, 215);
+}
+div.connect_widget_number_cloud table.connect_widget_number_cloud_summary {
+	margin-right: auto; margin-left: auto;
+}
+div.connect_widget_number_cloud table.connect_widget_number_cloud_summary td {
+	font-size: 15px;
+}
+.thumbs_up_icon {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yG/x/ql9vukDCc4R.png") no-repeat -1px -32px; width: 15px; height: 15px; margin-right: 2px;
+}
+.like_widget_dark .thumbs_up_icon {
+	background-position: -1px -2px;
+}
+.like_widget_dark div.connect_widget_number_cloud_extension a {
+	color: rgb(51, 51, 51);
+}
+div.connect_widget_number_cloud .connect_widget_text {
+	padding-left: 0px;
+}
+.connect_widget_number_cloud_nub {
+	left: 5px; width: 7px; height: 7px; bottom: -7px; position: absolute; z-index: 2;
+}
+.connect_widget_number_cloud_nub s {
+	border-width: 5px; border-style: solid; border-color: rgb(211, 211, 211) transparent transparent; display: block; position: relative;
+}
+.connect_widget_number_cloud_nub i {
+	border-width: 5px; border-style: solid; border-color: rgb(211, 211, 211) transparent transparent; display: block; position: relative;
+}
+.connect_widget_number_cloud_nub i {
+	left: 0px; top: -12px; border-top-color: rgb(255, 255, 255);
+}
+.like_widget_dark .connect_widget_number_cloud_nub s {
+	border-top-color: rgb(215, 215, 215);
+}
+.like_widget_dark .connect_widget_number_cloud_nub i {
+	display: none;
+}
+.connect_widget_offscreen {
+	top: -10000px; position: absolute;
+}
+div.connect_widget_number_cloud_extension {
+	height: 30px; font-size: 13px; margin-top: 6px; margin-right: 4px; margin-left: 4px;
+}
+div.connect_widget_number_cloud_extension_icon {
+	margin-top: 3px; margin-left: 2px;
+}
+div.connect_widget_number_cloud_extension_text {
+	border-width: 1px 0px 0px; border-style: solid; border-color: rgb(222, 222, 222); text-align: center; line-height: 11px; margin-top: 1px;
+}
+div.connect_widget_number_cloud_extension_text table {
+	width: 100%;
+}
+div.connect_widget_number_cloud_extension_text td {
+	height: 30px; text-align: center; vertical-align: middle;
+}
+div.connect_widget_number_cloud_extension span.like_reminder {
+	color: rgb(119, 119, 119); font-size: 11px;
+}
+.like_widget_dark div.connect_widget_number_cloud_extension span.like_reminder {
+	color: rgb(51, 51, 51); font-size: 11px;
+}
+table.connect_widget_button_count_summary {
+	height: 21px; color: rgb(0, 0, 0); font-size: 13px; background-color: rgb(236, 238, 245);
+}
+table.connect_widget_simple_summary {
+	height: 21px; color: rgb(0, 0, 0); font-size: 13px; background-color: rgb(236, 238, 245);
+}
+table.connect_widget_button_count_summary div.thumbs_up {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yG/x/ql9vukDCc4R.png") no-repeat 3px -32px rgb(236, 238, 245); width: 18px; height: 15px;
+}
+td.connect_widget_simple_including div.simple_liked {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yG/x/ql9vukDCc4R.png") no-repeat 3px -47px rgb(236, 238, 245); width: 18px; height: 15px;
+}
+.like_button_simple .connect_widget_like_button .liketext {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yG/x/ql9vukDCc4R.png") no-repeat 0px -47px rgb(236, 238, 245);
+}
+.connect_widget_rtl table.connect_widget_button_count_summary div.thumbs_up {
+	background-position: -1px 0px;
+}
+table.connect_widget_button_count_summary div.undo {
+	width: 18px; height: 21px; background-color: rgb(236, 238, 245);
+}
+.like_button_dark table.connect_widget_button_count_summary div.undo {
+	background-color: rgb(215, 215, 215);
+}
+table.connect_widget_button_count_summary label.undo_button {
+	margin-top: 4px; margin-left: 6px;
+}
+table.connect_widget_button_count_summary div.summary_text {
+	padding-right: 6px; padding-left: 3px; white-space: nowrap;
+}
+table.connect_widget_simple_summary div.summary_text {
+	color: rgb(204, 204, 204); padding-right: 6px; padding-left: 3px; white-space: nowrap;
+}
+.like_button_dark table.connect_widget_button_count_summary {
+	background-color: rgb(215, 215, 215);
+}
+.like_button_dark table.connect_widget_simple_summary {
+	background-color: rgb(215, 215, 215);
+}
+.like_button_dark table.connect_widget_button_count_summary div.thumbs_up {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yG/x/ql9vukDCc4R.png") no-repeat 3px -3px;
+}
+.connect_widget_rtl .like_button_dark table.connect_widget_button_count_summary div.thumbs_up {
+	background-position: -1px -3px;
+}
+.connect_widget_button_count_count {
+	background: rgb(255, 255, 255); padding: 1px 2px; border: 1px solid rgb(209, 209, 209); height: 14px; text-align: center; line-height: 14px; font-weight: normal; margin-left: 1px; float: left; white-space: nowrap; min-width: 15px;
+}
+.like_button_dark div.connect_widget_button_count_count {
+	border-color: rgb(215, 215, 215); background-color: rgb(215, 215, 215);
+}
+.connect_widget_button_count_nub {
+	left: 2px; top: -5px; width: 5px; height: 0px; float: left; position: relative; z-index: 2;
+}
+.connect_widget_button_count_nub s {
+	border-width: 4px 5px 4px 0px; border-style: solid; border-color: transparent rgb(215, 215, 215) transparent transparent; top: 1px; display: block; position: relative;
+}
+.connect_widget_button_count_nub i {
+	border-width: 4px 5px 4px 0px; border-style: solid; border-color: transparent rgb(215, 215, 215) transparent transparent; top: 1px; display: block; position: relative;
+}
+.connect_widget_button_count_nub i {
+	left: 2px; top: -7px; border-right-color: rgb(255, 255, 255);
+}
+.like_button_dark .connect_widget_button_count_nub i {
+	display: none;
+}
+td.connect_widget_button_count_excluding {
+	padding: 0px;
+}
+td.connect_widget_button_count_including {
+	padding: 0px;
+}
+td.connect_widget_simple_including {
+	padding: 0px;
+}
+td.connect_widget_button_count_including .noGrayOut.connect_widget_button_count_count {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yc/x/qDH1xoDhFBF.gif") no-repeat 4px 2px; padding-right: 4px; padding-left: 22px;
+}
+.connect_widget_rtl td.connect_widget_button_count_including .noGrayOut.connect_widget_button_count {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yc/x/qDH1xoDhFBF.gif") no-repeat 4px 2px; padding-right: 22px; padding-left: 4px;
+}
+.connect_widget_like_button .vertical {
+	margin: 0px 3px -6px 0px; padding: 3px 4px 4px 3px; left: 0px; top: -6px; border-top-color: currentColor; border-bottom-color: currentColor; border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid; display: block; position: relative;
+}
+.button_count .connect_widget_like_button .vertical {
+	padding: 2px 3px 3px 2px;
+}
+.connect_widget_like_button .horizontal {
+	left: -3px; top: -3px; width: 100%; height: 100%; padding-left: 1px; border-right-color: currentColor; border-left-color: currentColor; border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid; display: block; position: absolute;
+}
+.connect_widget_like_button .corner_mask {
+	width: 3px; height: 3px; overflow: hidden; display: block; position: absolute;
+}
+.connect_widget_like_button .corner {
+	width: 6px; height: 6px; display: block; background-image: url("http://static.ak.fbcdn.net/rsrc.php/v2/yG/x/ql9vukDCc4R.png");
+}
+.connect_widget_like_button .topleft {
+	left: -3px; top: -6px;
+}
+.connect_widget_like_button .topleft .corner {
+	margin: 0px;
+}
+.connect_widget_like_button .topright {
+	top: -6px; right: 0px;
+}
+.connect_widget_like_button .topright .corner {
+	margin: 0px 0px 0px -3px;
+}
+.connect_widget_like_button .bottomright {
+	right: 0px; bottom: 0px;
+}
+.connect_widget_like_button .bottomright .corner {
+	margin: -3px 0px 0px -3px;
+}
+.connect_widget_like_button .bottomleft {
+	left: -3px; bottom: 0px;
+}
+.connect_widget_like_button .bottomleft .corner {
+	margin: -3px 0px 0px;
+}
+.connect_widget_like_button .liketext {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yG/x/ql9vukDCc4R.png") no-repeat -1px -33px; color: rgb(59, 89, 152); padding-left: 17px; display: block; white-space: nowrap;
+}
+.connect_widget_rtl .connect_button_container .liketext {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yG/x/ql9vukDCc4R.png") no-repeat 34px -33px;
+}
+.connect_widget_like_button .liketextwithimage img {
+	width: 13px; margin-right: 4px; margin-bottom: -2px;
+}
+.hidden .connect_widget_like_button .liketextwithimage img {
+	margin: 0px; padding: 0px; width: 0px; height: 0px;
+}
+.connect_widget_like_button .fbLikeButtonTrackingPixel {
+	width: 0px; height: 0px; display: inline;
+}
+.button_count .like_button_dark .like_button_no_like .liketext {
+	background-position: left -47px; margin-left: -1px;
+}
+.button_count .connect_widget_like_button .liketext {
+	background-position: left -47px; margin-left: -1px;
+}
+.connect_widget .like_button_no_like .piece {
+	border-color: rgb(202, 212, 231); background-color: rgb(236, 238, 245);
+}
+.connect_widget .like_button_no_like {
+	border-color: rgb(202, 212, 231); background-color: rgb(236, 238, 245);
+}
+.connect_widget .like_button_no_like .corner {
+	background-position: 10px -89px;
+}
+.connect_widget a.like_button_no_like:hover .piece {
+	border-color: rgb(157, 172, 206); background-color: rgb(235, 237, 244);
+}
+.connect_widget a.like_button_no_like:hover {
+	border-color: rgb(157, 172, 206); background-color: rgb(235, 237, 244);
+}
+.connect_widget .like_button_no_like:hover .corner {
+	background-position: 10px -95px;
+}
+.connect_widget .like_button_pressed {
+	border-color: rgb(148, 165, 202); background-color: rgb(206, 212, 230);
+}
+.connect_widget .like_button_pressed .piece {
+	border-color: rgb(148, 165, 202); background-color: rgb(206, 212, 230);
+}
+.connect_widget .like_button_pressed .corner {
+	background-position: 10px 55px;
+}
+.connect_widget .like_button_like .corner {
+	background-position: 10px 49px;
+}
+.connect_widget .like_button_dark .like_button_no_like {
+	border-color: rgb(202, 212, 231); background-color: rgb(215, 215, 215);
+}
+.connect_widget .like_button_dark .like_button_no_like .piece {
+	border-color: rgb(202, 212, 231); background-color: rgb(215, 215, 215);
+}
+.connect_widget .like_button_dark .like_button_no_like .corner {
+	background-position: 10px -217px;
+}
+.connect_widget .like_button_dark .liketext {
+	background-position: left -3px; color: rgb(51, 51, 51); margin-left: -1px;
+}
+.connect_widget .like_button_dark .like_button_no_like:hover {
+	border-color: rgb(233, 233, 233); background-color: rgb(217, 217, 217);
+}
+.connect_widget .like_button_dark .like_button_no_like:hover .piece {
+	border-color: rgb(233, 233, 233); background-color: rgb(217, 217, 217);
+}
+.connect_widget .like_button_dark .like_button_no_like:hover .corner {
+	background-position: 10px -217px;
+}
+.connect_widget .like_button_dark .like_button_no_like_pressed {
+	border-color: rgb(143, 143, 143) rgb(168, 168, 168) rgb(168, 168, 168); background-color: rgb(168, 168, 168);
+}
+.connect_widget .like_button_dark .like_button_no_like_pressed .piece {
+	border-color: rgb(143, 143, 143) rgb(168, 168, 168) rgb(168, 168, 168); background-color: rgb(168, 168, 168);
+}
+.connect_widget .like_button_dark .like_button_no_like_pressed .corner {
+	background-position: 10px 80px;
+}
+.connect_widget .like_button_dark .like_button_like .corner {
+	background-position: 10px 74px;
+}
+.connect_widget .connect_text_wrapper {
+	position: relative;
+}
+.connect_widget div.connect_confirmation_cell {
+	margin: 0px; padding: 0px;
+}
+.connect_widget div.connect_confirmation_cell_like {
+	left: -1px; padding-left: 0px; position: relative;
+}
+.connect_widget div.connect_confirmation_cell_no_like {
+	padding-left: 7px;
+}
+.connect_widget .vertical_centering {
+	padding-top: 5px;
+}
+.connect_widget .connect_widget_text {
+	line-height: 14px; padding-left: 17px; display: block;
+}
+.button_count .connect_widget_interactive_area .connect_widget_text {
+	padding-left: 0px; font-weight: bold;
+}
+.connect_widget .like_button_dark .connect_widget_text {
+	color: gray;
+}
+.connect_widget .like_button_dark .connect_widget_confirmation {
+	color: gray;
+}
+.connect_widget .like_button_dark .connect_widget_text a {
+	color: rgb(255, 255, 255);
+}
+.connect_widget .connect_widget_connect_button {
+	float: left;
+}
+.connect_widget .connect_bar_widget_interactive_area {
+	float: left;
+}
+.connect_widget .connect_bar_widget_text_cell {
+	width: 400px;
+}
+.connect_widget .connect_widget_icon {
+	padding: 4px 0px 4px 4px; vertical-align: middle;
+}
+.connect_widget a.connect_widget_link_inactive {
+	color: gray; text-decoration: none; cursor: default;
+}
+.connect_widget a.connect_widget_error_text {
+	color: rgb(170, 0, 0); font-weight: bold;
+}
+.transparent_widget .uiBoxLightblue {
+	background-color: rgba(165, 175, 200, 0.2);
+}
+.transparent_widget .uiBoxWhite {
+	background-color: rgba(255, 255, 255, 0.2);
+}
+.transparent_widget .fbConnectWidgetFooter {
+	background-color: rgba(255, 255, 255, 0.2);
+}
+div.connect_widget_comment_box_nub {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yX/x/vAOEfR4cWQM.gif") no-repeat 0px 0px; left: -6px; top: 6px; width: 20px; height: 12px; position: absolute; z-index: 3;
+}
+div.connect_widget_comment_box_upward_nub {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/y6/x/agyQHs6yLID.gif") no-repeat 0px 0px; left: 5px; top: -6px; width: 20px; height: 12px; position: absolute; z-index: 3;
+}
+.connect_widget_rtl div.connect_widget_comment_box_nub {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yy/x/R95msRfVr6a.gif") no-repeat 0px 0px; left: -20px;
+}
+.connect_widget div.connect_widget_comment_box {
+	border-width: 1px 1px 2px; border-style: solid; border-color: rgb(0, 0, 0); position: relative; z-index: 100; background-color: rgb(255, 255, 255);
+}
+.connect_widget div.like_button_dark.connect_widget_comment_box {
+	border-color: rgb(102, 102, 102); color: rgb(204, 204, 204); background-color: rgb(17, 17, 17);
+}
+.connect_widget div.like_button_dark input.connect_widget_comment_textinput {
+	border-color: rgb(102, 102, 102); color: rgb(222, 222, 222); background-color: rgb(102, 102, 102);
+}
+.connect_widget div.connect_widget_header_text {
+	width: 200px; height: 20px; overflow: hidden; padding-top: 3px; padding-left: 7px; float: left;
+}
+.connect_widget div.connect_widget_cancel_button {
+	padding-top: 3px; padding-right: 7px; float: right; cursor: pointer;
+}
+.connect_widget div.connect_widget_comment_text_area_div {
+	padding-top: 2px; padding-left: 7px;
+}
+.connect_widget div.connect_widget_comment_area {
+	padding: 8px;
+}
+.connect_widget .connect_widget_comment_textinput {
+	width: 325px;
+}
+.connect_widget .connect_widget_comment_summary {
+	padding: 7px 5px;
+}
+.connect_widget .connect_widget_comment_button {
+	margin-left: -1px;
+}
+.connect_widget .connect_widget_comment_close_button {
+	margin-left: 2px;
+}
+.connect_widget .like_button_dark .connect_widget_comment_close_button {
+	opacity: 0.7; background-image: url("http://static.ak.fbcdn.net/rsrc.php/v2/yq/x/htZktl244wt.png"); background-repeat: no-repeat;
+}
+.connect_widget .like_button_dark .connect_widget_comment_close_button:hover {
+	opacity: 1;
+}
+.connect_widget textarea.connect_widget_comment_text_area {
+	width: 476px; height: 30px;
+}
+.connect_widget .connect_widget_image {
+	width: 30px; height: 30px; vertical-align: bottom;
+}
+.connect_widget .connect_widget_name {
+	text-align: center;
+}
+.connect_widget .connect_widget_sample_connection {
+	width: 30px; padding-top: 5px; padding-right: 3px; float: left;
+}
+.connect_widget .connect_widget_user_not_connected {
+	display: none;
+}
+.connect_widget .connect_bar_widget_sample_connections {
+	float: right;
+}
+.connect_widget .connect_widget_whats_this {
+	color: rgb(153, 153, 153); padding-top: 4px; font-size: 11px;
+}
+.connect_widget .connect_widget_whats_this a:hover {
+	color: rgb(59, 89, 152); text-decoration: none;
+}
+.connect_widget .page_stream img {
+	height: auto;
+}
+body.ie9 .connect_widget a.connect_widget_like_button {
+	margin: 6px 0px 0px 3px; padding: 0px; border: 0px currentColor; overflow: visible; position: relative; background-color: transparent !important;
+}
+.connect_widget_like_button .liketext {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yG/x/ql9vukDCc4R.png") no-repeat -1px -33px;
+}
+.connect_widget a.like_button_no_like:hover .piece {
+	border-color: rgb(157, 172, 206); background-color: rgb(236, 238, 245);
+}
+.connect_widget a.like_button_no_like:hover {
+	border-color: rgb(157, 172, 206); background-color: rgb(236, 238, 245);
+}
+.connect_widget .like_button_like {
+	border-color: rgb(221, 221, 221); cursor: default; background-color: rgb(238, 238, 238);
+}
+.connect_widget .like_button_like .piece {
+	border-color: rgb(221, 221, 221); cursor: default; background-color: rgb(238, 238, 238);
+}
+.connect_widget .like_button_dark .like_button_like {
+	border-color: rgb(85, 85, 85); cursor: default; background-color: rgb(68, 68, 68);
+}
+.connect_widget .like_button_dark .like_button_like .piece {
+	border-color: rgb(85, 85, 85); cursor: default; background-color: rgb(68, 68, 68);
+}
+.connect_widget .like_button_like .corner {
+	background-position: 10px -229px;
+}
+.connect_widget .like_button_dark .like_button_like .corner {
+	background-position: 10px -223px;
+}
+.connect_widget .like_button_like .liketext {
+	color: rgb(170, 170, 170); clear: right; background-image: none;
+}
+.connect_widget .tombstone_cross {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yG/x/ql9vukDCc4R.png") no-repeat 0px -128px; width: 14px; height: 12px; margin-right: 3px; float: left; display: block; z-index: 99;
+}
+.connect_widget .tombstone_cross_static {
+	cursor: default;
+}
+.like_button_no_like .tombstone_cross {
+	display: none;
+}
+.like_button_like .tombstone_cross {
+	display: block;
+}
+.connect_widget .like_button_dark .like_button_like .tombstone_cross {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yG/x/ql9vukDCc4R.png") no-repeat 0px -156px;
+}
+.connect_widget .like_button_like .tombstone_cross:hover {
+	background-position: 0px -235px; cursor: pointer;
+}
+.connect_widget .like_button_like .tombstone_cross_static:hover {
+	background-position: 0px -128px; cursor: default;
+}
+.connect_widget .like_button_simple .like_button_like .tombstone_cross:hover {
+	background-position: 0px -128px; width: 14px; height: 12px; margin-top: 0px; margin-right: 3px; margin-left: 0px; cursor: auto; background-image: url("http://static.ak.fbcdn.net/rsrc.php/v2/yG/x/ql9vukDCc4R.png");
+}
+.connect_widget .like_button_dark .like_button_like .tombstone_cross:hover {
+	background-position: 0px -247px;
+}
+.connect_widget .connect_button_container .like_button_like .liketext {
+	padding-left: 17px;
+}
+.connect_widget .connect_widget_connect_button .like_button_like .liketext {
+	padding-left: 17px;
+}
+.connect_widget_comment_box div.connect_widget_comment_box_nub {
+	
+}
+.connect_widget .like_button_dark .like_button_like .liketext {
+	color: rgb(102, 102, 102);
+}
+div.connect_widget div.connect_confirmation_cell_like {
+	padding-left: 7px;
+}
+.fan_box .uiStreamStory .uiStreamAttachments .photoRedesignAspect .img {
+	left: 0px !important; width: 100%;
+}
+.fan_box .uiStreamStory .uiStreamAttachments .photoRedesignCover .img {
+	left: 0px !important; width: 100%;
+}
+.fan_box .photoRedesign .img {
+	left: 0px !important; width: 100%;
+}
+.uiStreamStory .videoRedesign .uiVideoThumb img {
+	left: 0px !important; width: 100%;
+}
+.fan_box .uiStream .shareRedesign .shareRedesignMedia {
+	display: none;
+}
+.fan_box .uiStream .shareRedesign .attachmentText {
+	max-height: 100%;
+}
+.fan_box .uiStream .shareRedesignContainer .shareText {
+	max-height: 100%;
+}
+.fbDarkWidget .uiStreamRedesign .uiStreamMessage .messageBody {
+	color: gray;
+}
+.fan_box .uiStream .shareRedesign {
+	width: auto; height: auto;
+}
+.fan_box .uiStreamStory .photoRedesign {
+	width: auto; height: auto;
+}
+.connect_widget .fan_box .uiStream .uiStreamStory .photoWrap {
+	width: auto; height: auto;
+}
+.connect_widget {
+	overflow: hidden;
+}
+.connect_widget .connect_widget_facebook_logo_menubar {
+	border-width: 1px 1px medium; border-style: solid solid none; border-color: rgb(36, 69, 136) rgb(36, 69, 136) currentColor; margin-bottom: -1px; position: relative; background-color: rgb(59, 89, 152);
+}
+.connect_widget .connect_widget_facebook_logo {
+	padding: 3px 0px 5px 6px; float: left;
+}
+.connect_widget .connect_widget_facebook_logo span {
+	background: url("http://static.ak.fbcdn.net/rsrc.php/v2/yJ/x/zZEOQP4uOC1.gif") no-repeat 0px 0px; width: 90px; height: 17px; display: block;
+}
+.connect_widget .connect_widget_facebook_logo:hover span {
+	background-position: left -17px;
+}
+.connect_widget .connect_widget_menu_options {
+	float: right;
+}
+.connect_widget .connect_widget_menu_link {
+	padding: 5px 5px 3px; height: 17px; color: rgb(255, 255, 255); font-size: 13px; margin-right: 5px; float: left;
+}
+.connect_widget .connect_widget_menu_link:hover {
+	text-decoration: none; background-color: rgb(92, 117, 170);
+}
+.pluginBoxContainer {
+	border-top-color: rgb(49, 92, 153);
+}
+.pluginBoxDivider {
+	border-top-color: rgb(216, 223, 234); border-top-width: 1px; border-top-style: solid;
+}
+.pluginBoxDividerGray {
+	border-top-color: rgb(204, 204, 204);
+}
+.pluginFontArial {
+	font-family: "arial", sans-serif;
+}
+.pluginFontLucida {
+	font-family: "lucida grande", sans-serif;
+}
+.pluginFontSegoe {
+	font-family: "segoe ui", sans-serif;
+}
+.pluginFontTahoma {
+	font-family: "tahoma", sans-serif;
+}
+.pluginFontTrebuchet {
+	font-family: "trebuchet ms", sans-serif;
+}
+.pluginFontVerdana {
+	font-family: "verdana", sans-serif;
+}
+.sp_favicon {
+	width: 14px; height: 14px; display: inline-block; background-image: url("http://static.ak.fbcdn.net/rsrc.php/v2/yL/x/Uk6BAIXon_o.png"); background-repeat: no-repeat;
+}
+.sx_favicon_fav {
+	
+}
+.sx_favicon_favgrey {
+	background-position: 0px -15px;
+}
+.uiMorePagerInverted .uiMorePagerPrimary {
+	padding: 6px 5px 10px; border: 1px solid rgb(68, 68, 68);
+}
+.uiMorePagerInverted .uiMorePagerLoader {
+	padding: 6px 5px 10px; border: 1px solid rgb(68, 68, 68);
+}
+.uiMorePagerInverted .uiMorePagerPrimary:hover {
+	background-color: rgb(68, 68, 68);
+}
+.uiMorePagerInverted .uiMorePagerSecondary {
+	margin: 6px 5px;
+}
+.sp_8o608v {
+	width: 14px; height: 14px; display: inline-block; background-image: url("http://static.ak.fbcdn.net/rsrc.php/v2/yl/x/A44f1DVOXj3.png"); background-repeat: no-repeat; background-size: auto;
+}
+.sx_25f9fc {
+	
+}
+.sx_ee97b0 {
+	background-position: 0px -15px;
+}
+.sx_99af79 {
+	background-position: 0px -30px;
+}
+.sp_vo5f1g {
+	width: 14px; height: 14px; display: inline-block; background-image: url("http://static.ak.fbcdn.net/rsrc.php/v2/y-/x/xouNk_dzUFh.png"); background-repeat: no-repeat; background-size: auto;
+}
+.sx_8ee3cc {
+	
+}
+.sx_aff3f4 {
+	background-position: 0px -15px;
+}
+.sp_send {
+	width: 14px; height: 14px; display: inline-block; background-image: url("http://static.ak.fbcdn.net/rsrc.php/v2/y0/x/L_eKU7B19IY.png"); background-repeat: no-repeat;
+}
+.sx_send_fav {
+	
+}
+.sx_send_favgrey {
+	background-position: 0px -15px;
+}
+#bootloader_eRl0y {
+	height: 42px;
+}
