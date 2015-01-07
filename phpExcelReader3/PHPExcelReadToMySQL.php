@@ -1,0 +1,58 @@
+<?php
+
+/** PHPExcel */
+require_once 'Classes/PHPExcel.php';
+
+/** PHPExcel_IOFactory - Reader */
+include 'Classes/PHPExcel/IOFactory.php';
+
+
+$inputFileName = "myData.xls";  
+$inputFileType = PHPExcel_IOFactory::identify($inputFileName);  
+$objReader = PHPExcel_IOFactory::createReader($inputFileType);  
+$objReader->setReadDataOnly(true);  
+$objPHPExcel = $objReader->load($inputFileName);  
+
+$objWorksheet = $objPHPExcel->setActiveSheetIndex(0);
+$highestRow = $objWorksheet->getHighestRow();
+$highestColumn = $objWorksheet->getHighestColumn();
+
+$headingsArray = $objWorksheet->rangeToArray('A1:'.$highestColumn.'1',null, true, true, true);
+$headingsArray = $headingsArray[1];
+
+$r = -1;
+$namedDataArray = array();
+for ($row = 2; $row <= $highestRow; ++$row) { // โง่จริงๆๆ เลยกรู  $row =2 คือ  เริ่ม ตนที่  A2 ของ Excel  โง่ได้ใจ  หัดอ่าน Code แล้วทำความเข้าใจด้วยนะ สาด...
+    $dataRow = $objWorksheet->rangeToArray('A'.$row.':'.$highestColumn.$row,null, true, true, true);
+    if ((isset($dataRow[$row]['A'])) && ($dataRow[$row]['A'] > '')) {
+        ++$r;
+        foreach($headingsArray as $columnKey => $columnHeading) {
+            $namedDataArray[$r][$columnHeading] = $dataRow[$row][$columnKey];
+        }
+    }
+}
+
+//echo '<pre>';
+//var_dump($namedDataArray);
+//echo '</pre><hr />';
+
+//*** Connect to MySQL Database ***//
+
+$objConnect = mysqli_connect("localhost","root","l[kpfu","phpexcel") or die(mysqli_error());
+
+$i = 0;
+foreach ($namedDataArray as $result) {
+		$i++;
+		$strSQL = "";
+		$strSQL .= "INSERT INTO customer ";
+		$strSQL .= "(CustomerID,Name,Email,CountryCode,Budget,Used) ";
+		$strSQL .= "VALUES ";
+		$strSQL .= "('".$result["CustomerID"]."','".$result["Name"]."' ";
+		$strSQL .= ",'".$result["Email"]."','".$result["CountryCode"]."' ";
+		$strSQL .= ",'".$result["Budget"]."','".$result["Used"]."') ";
+		mysqli_query($objConnect,$strSQL) or die(mysqli_error());
+		echo "Row $i Inserted...Ok  <br>";
+}
+mysqli_close($objConnect);
+
+?>

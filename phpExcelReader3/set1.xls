@@ -1,0 +1,5989 @@
+
+
+
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="application/vnd.ms-excel; charset=tis-620">
+  <title>NVDR Trading Data by Stock</title>
+</head>
+<body>
+  
+
+
+
+
+<br/>
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+  <td colspan="11" align="left"><strong>NVDR Trading Data by Stock</strong></td>
+ </tr>
+ <tr>
+  <td colspan="11" align="right">Date: 26 Sep 2014 </td>
+ </tr>
+ <tr>
+   <td colspan="11" align="right">&nbsp;</td>
+ </tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+ <tr height="25">
+  <td align="center" rowspan="2"><strong>Symbol</strong></td>
+  <td align="center" colspan="5"><strong>Volume (Share)</strong></td>
+  <td align="center" colspan="5"><strong>Value (Baht)</strong></td>
+ </tr>
+ <tr height="25">
+  <td align="center"><strong>Buy</strong></td>
+  <td align="center"><strong>Sell</strong></td>
+  <td align="center"><strong>Total</strong></td>
+  <td align="center"><strong>Net</strong></td>
+  <td align="center"><strong>%*</strong></td>
+  <td align="center"><strong>Buy</strong></td>
+  <td align="center"><strong>Sell</strong></td>
+  <td align="center"><strong>Total</strong></td>
+  <td align="center"><strong>Net</strong></td>
+  <td align="center"><strong>%*</strong></td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">2S</td>
+   <td align="right">49,900</td>
+   <td align="right">63,500</td>
+   <td align="right">113,400</td>
+   <td align="right">-13,600</td>
+   <td align="right">0.29</td>
+   <td align="right">281,440.00</td>
+   <td align="right">357,925.00</td>
+   <td align="right">639,365.00</td>
+   <td align="right">-76,485.00</td>
+   <td align="right">0.28</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AAV</td>
+   <td align="right">69,500</td>
+   <td align="right">25,000</td>
+   <td align="right">94,500</td>
+   <td align="right">44,500</td>
+   <td align="right">0.34</td>
+   <td align="right">330,820.00</td>
+   <td align="right">119,060.00</td>
+   <td align="right">449,880.00</td>
+   <td align="right">211,760.00</td>
+   <td align="right">0.34</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ABC</td>
+   <td align="right">18,500</td>
+   <td align="right">78,900</td>
+   <td align="right">97,400</td>
+   <td align="right">-60,400</td>
+   <td align="right">1.42</td>
+   <td align="right">90,676.00</td>
+   <td align="right">386,466.00</td>
+   <td align="right">477,142.00</td>
+   <td align="right">-295,790.00</td>
+   <td align="right">1.42</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ACAP</td>
+   <td align="right">328,500</td>
+   <td align="right">93,800</td>
+   <td align="right">422,300</td>
+   <td align="right">234,700</td>
+   <td align="right">2.60</td>
+   <td align="right">6,190,910.00</td>
+   <td align="right">1,746,010.00</td>
+   <td align="right">7,936,920.00</td>
+   <td align="right">4,444,900.00</td>
+   <td align="right">3.01</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ACD-W2</td>
+   <td align="right">21,500</td>
+   <td align="right">40,000</td>
+   <td align="right">61,500</td>
+   <td align="right">-18,500</td>
+   <td align="right">0.55</td>
+   <td align="right">12,900.00</td>
+   <td align="right">24,600.00</td>
+   <td align="right">37,500.00</td>
+   <td align="right">-11,700.00</td>
+   <td align="right">0.56</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ADVANC</td>
+   <td align="right">653,838</td>
+   <td align="right">503,400</td>
+   <td align="right">1,157,238</td>
+   <td align="right">150,438</td>
+   <td align="right">15.16</td>
+   <td align="right">147,010,750.00</td>
+   <td align="right">112,712,402.00</td>
+   <td align="right">259,723,152.00</td>
+   <td align="right">34,298,348.00</td>
+   <td align="right">15.17</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AEC-W2</td>
+   <td align="right">-</td>
+   <td align="right">825,700</td>
+   <td align="right">825,700</td>
+   <td align="right">-825,700</td>
+   <td align="right">22.28</td>
+   <td align="right">-</td>
+   <td align="right">418,134.00</td>
+   <td align="right">418,134.00</td>
+   <td align="right">-418,134.00</td>
+   <td align="right">22.27</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AEONTS</td>
+   <td align="right">100</td>
+   <td align="right">2,000</td>
+   <td align="right">2,100</td>
+   <td align="right">-1,900</td>
+   <td align="right">2.29</td>
+   <td align="right">11,300.00</td>
+   <td align="right">227,500.00</td>
+   <td align="right">238,800.00</td>
+   <td align="right">-216,200.00</td>
+   <td align="right">2.31</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AGE</td>
+   <td align="right">4,000</td>
+   <td align="right">11,500</td>
+   <td align="right">15,500</td>
+   <td align="right">-7,500</td>
+   <td align="right">0.04</td>
+   <td align="right">10,480.00</td>
+   <td align="right">29,810.00</td>
+   <td align="right">40,290.00</td>
+   <td align="right">-19,330.00</td>
+   <td align="right">0.04</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AHC</td>
+   <td align="right">-</td>
+   <td align="right">500</td>
+   <td align="right">500</td>
+   <td align="right">-500</td>
+   <td align="right">1.18</td>
+   <td align="right">-</td>
+   <td align="right">15,750.00</td>
+   <td align="right">15,750.00</td>
+   <td align="right">-15,750.00</td>
+   <td align="right">1.19</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AI</td>
+   <td align="right">27,000</td>
+   <td align="right">79,000</td>
+   <td align="right">106,000</td>
+   <td align="right">-52,000</td>
+   <td align="right">5.81</td>
+   <td align="right">315,900.00</td>
+   <td align="right">916,190.00</td>
+   <td align="right">1,232,090.00</td>
+   <td align="right">-600,290.00</td>
+   <td align="right">5.82</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AIRA</td>
+   <td align="right">43,000</td>
+   <td align="right">-</td>
+   <td align="right">43,000</td>
+   <td align="right">43,000</td>
+   <td align="right">0.15</td>
+   <td align="right">143,660.00</td>
+   <td align="right">-</td>
+   <td align="right">143,660.00</td>
+   <td align="right">143,660.00</td>
+   <td align="right">0.15</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AIT</td>
+   <td align="right">213,900</td>
+   <td align="right">347,400</td>
+   <td align="right">561,300</td>
+   <td align="right">-133,500</td>
+   <td align="right">3.11</td>
+   <td align="right">7,744,175.00</td>
+   <td align="right">12,591,750.00</td>
+   <td align="right">20,335,925.00</td>
+   <td align="right">-4,847,575.00</td>
+   <td align="right">3.11</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AJ</td>
+   <td align="right">-</td>
+   <td align="right">8,800</td>
+   <td align="right">8,800</td>
+   <td align="right">-8,800</td>
+   <td align="right">1.00</td>
+   <td align="right">-</td>
+   <td align="right">98,160.00</td>
+   <td align="right">98,160.00</td>
+   <td align="right">-98,160.00</td>
+   <td align="right">1.00</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AJD</td>
+   <td align="right">60,300</td>
+   <td align="right">25,000</td>
+   <td align="right">85,300</td>
+   <td align="right">35,300</td>
+   <td align="right">0.36</td>
+   <td align="right">573,790.00</td>
+   <td align="right">248,750.00</td>
+   <td align="right">822,540.00</td>
+   <td align="right">325,040.00</td>
+   <td align="right">0.36</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AJP</td>
+   <td align="right">-</td>
+   <td align="right">2,000</td>
+   <td align="right">2,000</td>
+   <td align="right">-2,000</td>
+   <td align="right">0.01</td>
+   <td align="right">-</td>
+   <td align="right">25,400.00</td>
+   <td align="right">25,400.00</td>
+   <td align="right">-25,400.00</td>
+   <td align="right">0.01</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AKR</td>
+   <td align="right">60,300</td>
+   <td align="right">124,000</td>
+   <td align="right">184,300</td>
+   <td align="right">-63,700</td>
+   <td align="right">0.17</td>
+   <td align="right">142,720.00</td>
+   <td align="right">297,120.00</td>
+   <td align="right">439,840.00</td>
+   <td align="right">-154,400.00</td>
+   <td align="right">0.17</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AMANAH</td>
+   <td align="right">161,800</td>
+   <td align="right">72,400</td>
+   <td align="right">234,200</td>
+   <td align="right">89,400</td>
+   <td align="right">0.29</td>
+   <td align="right">174,916.00</td>
+   <td align="right">77,572.00</td>
+   <td align="right">252,488.00</td>
+   <td align="right">97,344.00</td>
+   <td align="right">0.29</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AMATA</td>
+   <td align="right">49,900</td>
+   <td align="right">21,200</td>
+   <td align="right">71,100</td>
+   <td align="right">28,700</td>
+   <td align="right">1.36</td>
+   <td align="right">805,420.00</td>
+   <td align="right">341,360.00</td>
+   <td align="right">1,146,780.00</td>
+   <td align="right">464,060.00</td>
+   <td align="right">1.36</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AMC</td>
+   <td align="right">-</td>
+   <td align="right">22,000</td>
+   <td align="right">22,000</td>
+   <td align="right">-22,000</td>
+   <td align="right">1.10</td>
+   <td align="right">-</td>
+   <td align="right">68,200.00</td>
+   <td align="right">68,200.00</td>
+   <td align="right">-68,200.00</td>
+   <td align="right">1.09</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ANAN</td>
+   <td align="right">466,900</td>
+   <td align="right">40,000</td>
+   <td align="right">506,900</td>
+   <td align="right">426,900</td>
+   <td align="right">1.77</td>
+   <td align="right">1,902,628.00</td>
+   <td align="right">162,400.00</td>
+   <td align="right">2,065,028.00</td>
+   <td align="right">1,740,228.00</td>
+   <td align="right">1.77</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AOT</td>
+   <td align="right">153,500</td>
+   <td align="right">191,207</td>
+   <td align="right">344,707</td>
+   <td align="right">-37,707</td>
+   <td align="right">17.12</td>
+   <td align="right">37,322,900.00</td>
+   <td align="right">46,418,898.00</td>
+   <td align="right">83,741,798.00</td>
+   <td align="right">-9,095,998.00</td>
+   <td align="right">17.11</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AP</td>
+   <td align="right">671,400</td>
+   <td align="right">4,226,100</td>
+   <td align="right">4,897,500</td>
+   <td align="right">-3,554,700</td>
+   <td align="right">12.09</td>
+   <td align="right">4,869,790.00</td>
+   <td align="right">30,522,880.00</td>
+   <td align="right">35,392,670.00</td>
+   <td align="right">-25,653,090.00</td>
+   <td align="right">12.06</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">APCO</td>
+   <td align="right">11,600</td>
+   <td align="right">-</td>
+   <td align="right">11,600</td>
+   <td align="right">11,600</td>
+   <td align="right">0.28</td>
+   <td align="right">359,600.00</td>
+   <td align="right">-</td>
+   <td align="right">359,600.00</td>
+   <td align="right">359,600.00</td>
+   <td align="right">0.29</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">APCS</td>
+   <td align="right">19,000</td>
+   <td align="right">6,700</td>
+   <td align="right">25,700</td>
+   <td align="right">12,300</td>
+   <td align="right">0.14</td>
+   <td align="right">57,390.00</td>
+   <td align="right">20,172.00</td>
+   <td align="right">77,562.00</td>
+   <td align="right">37,218.00</td>
+   <td align="right">0.13</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">APURE</td>
+   <td align="right">393,400</td>
+   <td align="right">-</td>
+   <td align="right">393,400</td>
+   <td align="right">393,400</td>
+   <td align="right">1.83</td>
+   <td align="right">723,101.00</td>
+   <td align="right">-</td>
+   <td align="right">723,101.00</td>
+   <td align="right">723,101.00</td>
+   <td align="right">1.82</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AQ</td>
+   <td align="right">17,400,900</td>
+   <td align="right">10,947,900</td>
+   <td align="right">28,348,800</td>
+   <td align="right">6,453,000</td>
+   <td align="right">1.64</td>
+   <td align="right">8,670,650.00</td>
+   <td align="right">5,514,023.00</td>
+   <td align="right">14,184,673.00</td>
+   <td align="right">3,156,627.00</td>
+   <td align="right">1.63</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AQUA</td>
+   <td align="right">500</td>
+   <td align="right">-</td>
+   <td align="right">500</td>
+   <td align="right">500</td>
+   <td align="right">0.00</td>
+   <td align="right">759.00</td>
+   <td align="right">-</td>
+   <td align="right">759.00</td>
+   <td align="right">759.00</td>
+   <td align="right">0.00</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AQ-W2</td>
+   <td align="right">73,000</td>
+   <td align="right">30,000</td>
+   <td align="right">103,000</td>
+   <td align="right">43,000</td>
+   <td align="right">0.08</td>
+   <td align="right">11,680.00</td>
+   <td align="right">4,800.00</td>
+   <td align="right">16,480.00</td>
+   <td align="right">6,880.00</td>
+   <td align="right">0.08</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ARIP</td>
+   <td align="right">-</td>
+   <td align="right">20,600</td>
+   <td align="right">20,600</td>
+   <td align="right">-20,600</td>
+   <td align="right">0.34</td>
+   <td align="right">-</td>
+   <td align="right">29,252.00</td>
+   <td align="right">29,252.00</td>
+   <td align="right">-29,252.00</td>
+   <td align="right">0.34</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ASIA</td>
+   <td align="right">1,200</td>
+   <td align="right">1,200</td>
+   <td align="right">2,400</td>
+   <td align="right">-</td>
+   <td align="right">12.12</td>
+   <td align="right">117,600.00</td>
+   <td align="right">118,925.00</td>
+   <td align="right">236,525.00</td>
+   <td align="right">-1,325.00</td>
+   <td align="right">12.15</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ASIMAR</td>
+   <td align="right">131,000</td>
+   <td align="right">176,300</td>
+   <td align="right">307,300</td>
+   <td align="right">-45,300</td>
+   <td align="right">0.32</td>
+   <td align="right">275,100.00</td>
+   <td align="right">365,114.00</td>
+   <td align="right">640,214.00</td>
+   <td align="right">-90,014.00</td>
+   <td align="right">0.32</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ASK</td>
+   <td align="right">16,900</td>
+   <td align="right">-</td>
+   <td align="right">16,900</td>
+   <td align="right">16,900</td>
+   <td align="right">0.86</td>
+   <td align="right">329,790.00</td>
+   <td align="right">-</td>
+   <td align="right">329,790.00</td>
+   <td align="right">329,790.00</td>
+   <td align="right">0.86</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ASP</td>
+   <td align="right">1,820,300</td>
+   <td align="right">2,055,000</td>
+   <td align="right">3,875,300</td>
+   <td align="right">-234,700</td>
+   <td align="right">19.33</td>
+   <td align="right">7,186,106.00</td>
+   <td align="right">8,110,632.00</td>
+   <td align="right">15,296,738.00</td>
+   <td align="right">-924,526.00</td>
+   <td align="right">19.34</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">AUCT</td>
+   <td align="right">19,600</td>
+   <td align="right">10,000</td>
+   <td align="right">29,600</td>
+   <td align="right">9,600</td>
+   <td align="right">0.21</td>
+   <td align="right">345,660.00</td>
+   <td align="right">168,000.00</td>
+   <td align="right">513,660.00</td>
+   <td align="right">177,660.00</td>
+   <td align="right">0.21</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BAFS</td>
+   <td align="right">5,200</td>
+   <td align="right">-</td>
+   <td align="right">5,200</td>
+   <td align="right">5,200</td>
+   <td align="right">3.98</td>
+   <td align="right">197,600.00</td>
+   <td align="right">-</td>
+   <td align="right">197,600.00</td>
+   <td align="right">197,600.00</td>
+   <td align="right">4.02</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BANPU</td>
+   <td align="right">898,200</td>
+   <td align="right">683,000</td>
+   <td align="right">1,581,200</td>
+   <td align="right">215,200</td>
+   <td align="right">6.47</td>
+   <td align="right">27,405,025.00</td>
+   <td align="right">20,723,525.00</td>
+   <td align="right">48,128,550.00</td>
+   <td align="right">6,681,500.00</td>
+   <td align="right">6.46</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BAY</td>
+   <td align="right">48,400</td>
+   <td align="right">112,100</td>
+   <td align="right">160,500</td>
+   <td align="right">-63,700</td>
+   <td align="right">30.36</td>
+   <td align="right">2,419,350.00</td>
+   <td align="right">5,554,200.00</td>
+   <td align="right">7,973,550.00</td>
+   <td align="right">-3,134,850.00</td>
+   <td align="right">30.41</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BBL</td>
+   <td align="right">-</td>
+   <td align="right">4,381,490</td>
+   <td align="right">4,381,490</td>
+   <td align="right">-4,381,490</td>
+   <td align="right">24.44</td>
+   <td align="right">-</td>
+   <td align="right">905,958,713.00</td>
+   <td align="right">905,958,713.00</td>
+   <td align="right">-905,958,713.00</td>
+   <td align="right">24.41</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BCH</td>
+   <td align="right">70,000</td>
+   <td align="right">-</td>
+   <td align="right">70,000</td>
+   <td align="right">70,000</td>
+   <td align="right">4.58</td>
+   <td align="right">725,180.00</td>
+   <td align="right">-</td>
+   <td align="right">725,180.00</td>
+   <td align="right">725,180.00</td>
+   <td align="right">4.60</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BCP</td>
+   <td align="right">61,100</td>
+   <td align="right">879,700</td>
+   <td align="right">940,800</td>
+   <td align="right">-818,600</td>
+   <td align="right">3.40</td>
+   <td align="right">2,245,800.00</td>
+   <td align="right">32,220,675.00</td>
+   <td align="right">34,466,475.00</td>
+   <td align="right">-29,974,875.00</td>
+   <td align="right">3.40</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BEAUTY</td>
+   <td align="right">156,200</td>
+   <td align="right">26,400</td>
+   <td align="right">182,600</td>
+   <td align="right">129,800</td>
+   <td align="right">3.55</td>
+   <td align="right">4,647,250.00</td>
+   <td align="right">788,675.00</td>
+   <td align="right">5,435,925.00</td>
+   <td align="right">3,858,575.00</td>
+   <td align="right">3.54</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BEC</td>
+   <td align="right">64,900</td>
+   <td align="right">164,000</td>
+   <td align="right">228,900</td>
+   <td align="right">-99,100</td>
+   <td align="right">13.91</td>
+   <td align="right">3,099,825.00</td>
+   <td align="right">7,804,325.00</td>
+   <td align="right">10,904,150.00</td>
+   <td align="right">-4,704,500.00</td>
+   <td align="right">13.91</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BECL</td>
+   <td align="right">79,000</td>
+   <td align="right">10,500</td>
+   <td align="right">89,500</td>
+   <td align="right">68,500</td>
+   <td align="right">11.30</td>
+   <td align="right">2,962,250.00</td>
+   <td align="right">393,200.00</td>
+   <td align="right">3,355,450.00</td>
+   <td align="right">2,569,050.00</td>
+   <td align="right">11.31</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BGH</td>
+   <td align="right">853,500</td>
+   <td align="right">268,700</td>
+   <td align="right">1,122,200</td>
+   <td align="right">584,800</td>
+   <td align="right">6.33</td>
+   <td align="right">16,018,760.00</td>
+   <td align="right">5,030,330.00</td>
+   <td align="right">21,049,090.00</td>
+   <td align="right">10,988,430.00</td>
+   <td align="right">6.34</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BH</td>
+   <td align="right">359,501</td>
+   <td align="right">76,800</td>
+   <td align="right">436,301</td>
+   <td align="right">282,701</td>
+   <td align="right">33.39</td>
+   <td align="right">48,281,982.50</td>
+   <td align="right">10,258,700.00</td>
+   <td align="right">58,540,682.50</td>
+   <td align="right">38,023,282.50</td>
+   <td align="right">33.33</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BIGC</td>
+   <td align="right">62,300</td>
+   <td align="right">9,900</td>
+   <td align="right">72,200</td>
+   <td align="right">52,400</td>
+   <td align="right">41.01</td>
+   <td align="right">14,339,300.00</td>
+   <td align="right">2,276,800.00</td>
+   <td align="right">16,616,100.00</td>
+   <td align="right">12,062,500.00</td>
+   <td align="right">40.97</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BJC</td>
+   <td align="right">-</td>
+   <td align="right">26,000</td>
+   <td align="right">26,000</td>
+   <td align="right">-26,000</td>
+   <td align="right">1.17</td>
+   <td align="right">-</td>
+   <td align="right">1,212,075.00</td>
+   <td align="right">1,212,075.00</td>
+   <td align="right">-1,212,075.00</td>
+   <td align="right">1.16</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BJCHI</td>
+   <td align="right">2,200</td>
+   <td align="right">12,900</td>
+   <td align="right">15,100</td>
+   <td align="right">-10,700</td>
+   <td align="right">0.61</td>
+   <td align="right">89,725.00</td>
+   <td align="right">523,775.00</td>
+   <td align="right">613,500.00</td>
+   <td align="right">-434,050.00</td>
+   <td align="right">0.61</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BKD</td>
+   <td align="right">1,800</td>
+   <td align="right">40,400</td>
+   <td align="right">42,200</td>
+   <td align="right">-38,600</td>
+   <td align="right">1.86</td>
+   <td align="right">8,832.00</td>
+   <td align="right">196,622.00</td>
+   <td align="right">205,454.00</td>
+   <td align="right">-187,790.00</td>
+   <td align="right">1.86</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BKI</td>
+   <td align="right">1</td>
+   <td align="right">-</td>
+   <td align="right">1</td>
+   <td align="right">1</td>
+   <td align="right">0.01</td>
+   <td align="right">359.00</td>
+   <td align="right">-</td>
+   <td align="right">359.00</td>
+   <td align="right">359.00</td>
+   <td align="right">0.01</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BLA</td>
+   <td align="right">27,500</td>
+   <td align="right">137,500</td>
+   <td align="right">165,000</td>
+   <td align="right">-110,000</td>
+   <td align="right">13.16</td>
+   <td align="right">2,434,000.00</td>
+   <td align="right">12,166,825.00</td>
+   <td align="right">14,600,825.00</td>
+   <td align="right">-9,732,825.00</td>
+   <td align="right">13.15</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BLAND</td>
+   <td align="right">3,726,200</td>
+   <td align="right">6,582,400</td>
+   <td align="right">10,308,600</td>
+   <td align="right">-2,856,200</td>
+   <td align="right">1.04</td>
+   <td align="right">7,916,986.00</td>
+   <td align="right">14,103,826.00</td>
+   <td align="right">22,020,812.00</td>
+   <td align="right">-6,186,840.00</td>
+   <td align="right">1.03</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BLAND-W3</td>
+   <td align="right">68,500</td>
+   <td align="right">74,900</td>
+   <td align="right">143,400</td>
+   <td align="right">-6,400</td>
+   <td align="right">0.17</td>
+   <td align="right">41,100.00</td>
+   <td align="right">44,191.00</td>
+   <td align="right">85,291.00</td>
+   <td align="right">-3,091.00</td>
+   <td align="right">0.17</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BLAND-W4</td>
+   <td align="right">150,000</td>
+   <td align="right">1,493,305</td>
+   <td align="right">1,643,305</td>
+   <td align="right">-1,343,305</td>
+   <td align="right">0.96</td>
+   <td align="right">106,500.00</td>
+   <td align="right">1,042,885.25</td>
+   <td align="right">1,149,385.25</td>
+   <td align="right">-936,385.25</td>
+   <td align="right">0.96</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BMCL</td>
+   <td align="right">756,600</td>
+   <td align="right">80,100</td>
+   <td align="right">836,700</td>
+   <td align="right">676,500</td>
+   <td align="right">0.88</td>
+   <td align="right">1,493,447.00</td>
+   <td align="right">158,548.00</td>
+   <td align="right">1,651,995.00</td>
+   <td align="right">1,334,899.00</td>
+   <td align="right">0.89</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BROOK</td>
+   <td align="right">6,200</td>
+   <td align="right">7,600</td>
+   <td align="right">13,800</td>
+   <td align="right">-1,400</td>
+   <td align="right">0.39</td>
+   <td align="right">21,040.00</td>
+   <td align="right">25,688.00</td>
+   <td align="right">46,728.00</td>
+   <td align="right">-4,648.00</td>
+   <td align="right">0.39</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BSBM</td>
+   <td align="right">50,000</td>
+   <td align="right">2,500</td>
+   <td align="right">52,500</td>
+   <td align="right">47,500</td>
+   <td align="right">1.34</td>
+   <td align="right">73,500.00</td>
+   <td align="right">3,675.00</td>
+   <td align="right">77,175.00</td>
+   <td align="right">69,825.00</td>
+   <td align="right">1.34</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BSM</td>
+   <td align="right">26,200</td>
+   <td align="right">-</td>
+   <td align="right">26,200</td>
+   <td align="right">26,200</td>
+   <td align="right">0.25</td>
+   <td align="right">81,962.00</td>
+   <td align="right">-</td>
+   <td align="right">81,962.00</td>
+   <td align="right">81,962.00</td>
+   <td align="right">0.24</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BTC</td>
+   <td align="right">68,800</td>
+   <td align="right">142,800</td>
+   <td align="right">211,600</td>
+   <td align="right">-74,000</td>
+   <td align="right">0.26</td>
+   <td align="right">66,736.00</td>
+   <td align="right">138,516.00</td>
+   <td align="right">205,252.00</td>
+   <td align="right">-71,780.00</td>
+   <td align="right">0.26</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BTS</td>
+   <td align="right">1,338,806</td>
+   <td align="right">706,900</td>
+   <td align="right">2,045,706</td>
+   <td align="right">631,906</td>
+   <td align="right">2.50</td>
+   <td align="right">13,349,244.70</td>
+   <td align="right">7,024,645.00</td>
+   <td align="right">20,373,889.70</td>
+   <td align="right">6,324,599.70</td>
+   <td align="right">2.50</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BTS-W3</td>
+   <td align="right">513,500</td>
+   <td align="right">26,000</td>
+   <td align="right">539,500</td>
+   <td align="right">487,500</td>
+   <td align="right">0.50</td>
+   <td align="right">511,001.00</td>
+   <td align="right">25,940.00</td>
+   <td align="right">536,941.00</td>
+   <td align="right">485,061.00</td>
+   <td align="right">0.50</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">BWG</td>
+   <td align="right">9,000</td>
+   <td align="right">200</td>
+   <td align="right">9,200</td>
+   <td align="right">8,800</td>
+   <td align="right">0.05</td>
+   <td align="right">44,050.00</td>
+   <td align="right">984.00</td>
+   <td align="right">45,034.00</td>
+   <td align="right">43,066.00</td>
+   <td align="right">0.05</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CCET</td>
+   <td align="right">915,800</td>
+   <td align="right">185,100</td>
+   <td align="right">1,100,900</td>
+   <td align="right">730,700</td>
+   <td align="right">33.89</td>
+   <td align="right">2,786,162.00</td>
+   <td align="right">566,406.00</td>
+   <td align="right">3,352,568.00</td>
+   <td align="right">2,219,756.00</td>
+   <td align="right">33.87</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CCN</td>
+   <td align="right">6,400</td>
+   <td align="right">500</td>
+   <td align="right">6,900</td>
+   <td align="right">5,900</td>
+   <td align="right">0.18</td>
+   <td align="right">21,148.00</td>
+   <td align="right">1,660.00</td>
+   <td align="right">22,808.00</td>
+   <td align="right">19,488.00</td>
+   <td align="right">0.17</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CEI</td>
+   <td align="right">31,200</td>
+   <td align="right">401,100</td>
+   <td align="right">432,300</td>
+   <td align="right">-369,900</td>
+   <td align="right">0.46</td>
+   <td align="right">241,640.00</td>
+   <td align="right">3,055,390.00</td>
+   <td align="right">3,297,030.00</td>
+   <td align="right">-2,813,750.00</td>
+   <td align="right">0.46</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CEN</td>
+   <td align="right">434,600</td>
+   <td align="right">2,000</td>
+   <td align="right">436,600</td>
+   <td align="right">432,600</td>
+   <td align="right">7.82</td>
+   <td align="right">1,660,172.00</td>
+   <td align="right">7,680.00</td>
+   <td align="right">1,667,852.00</td>
+   <td align="right">1,652,492.00</td>
+   <td align="right">7.80</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CENTEL</td>
+   <td align="right">142,800</td>
+   <td align="right">26,334</td>
+   <td align="right">169,134</td>
+   <td align="right">116,466</td>
+   <td align="right">8.45</td>
+   <td align="right">5,769,125.00</td>
+   <td align="right">1,065,985.50</td>
+   <td align="right">6,835,110.50</td>
+   <td align="right">4,703,139.50</td>
+   <td align="right">8.45</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CEN-W3</td>
+   <td align="right">-</td>
+   <td align="right">10,000</td>
+   <td align="right">10,000</td>
+   <td align="right">-10,000</td>
+   <td align="right">0.87</td>
+   <td align="right">-</td>
+   <td align="right">18,900.00</td>
+   <td align="right">18,900.00</td>
+   <td align="right">-18,900.00</td>
+   <td align="right">0.88</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CFRESH</td>
+   <td align="right">7,100</td>
+   <td align="right">-</td>
+   <td align="right">7,100</td>
+   <td align="right">7,100</td>
+   <td align="right">1.64</td>
+   <td align="right">66,030.00</td>
+   <td align="right">-</td>
+   <td align="right">66,030.00</td>
+   <td align="right">66,030.00</td>
+   <td align="right">1.65</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CGD</td>
+   <td align="right">5,165,700</td>
+   <td align="right">22,236,000</td>
+   <td align="right">27,401,700</td>
+   <td align="right">-17,070,300</td>
+   <td align="right">3.17</td>
+   <td align="right">9,918,998.00</td>
+   <td align="right">43,321,400.00</td>
+   <td align="right">53,240,398.00</td>
+   <td align="right">-33,402,402.00</td>
+   <td align="right">3.18</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CGS</td>
+   <td align="right">623,112</td>
+   <td align="right">1,385,923</td>
+   <td align="right">2,009,035</td>
+   <td align="right">-762,811</td>
+   <td align="right">1.70</td>
+   <td align="right">1,023,785.80</td>
+   <td align="right">2,264,050.34</td>
+   <td align="right">3,287,836.14</td>
+   <td align="right">-1,240,264.54</td>
+   <td align="right">1.71</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CHG</td>
+   <td align="right">6,600</td>
+   <td align="right">237,900</td>
+   <td align="right">244,500</td>
+   <td align="right">-231,300</td>
+   <td align="right">8.17</td>
+   <td align="right">119,540.00</td>
+   <td align="right">4,315,760.00</td>
+   <td align="right">4,435,300.00</td>
+   <td align="right">-4,196,220.00</td>
+   <td align="right">8.15</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CHO</td>
+   <td align="right">77,700</td>
+   <td align="right">161,000</td>
+   <td align="right">238,700</td>
+   <td align="right">-83,300</td>
+   <td align="right">0.51</td>
+   <td align="right">427,000.00</td>
+   <td align="right">876,080.00</td>
+   <td align="right">1,303,080.00</td>
+   <td align="right">-449,080.00</td>
+   <td align="right">0.51</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CHOW</td>
+   <td align="right">125,300</td>
+   <td align="right">21,800</td>
+   <td align="right">147,100</td>
+   <td align="right">103,500</td>
+   <td align="right">0.39</td>
+   <td align="right">998,610.00</td>
+   <td align="right">175,400.00</td>
+   <td align="right">1,174,010.00</td>
+   <td align="right">823,210.00</td>
+   <td align="right">0.39</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CHO-W1</td>
+   <td align="right">4,400</td>
+   <td align="right">17,800</td>
+   <td align="right">22,200</td>
+   <td align="right">-13,400</td>
+   <td align="right">0.33</td>
+   <td align="right">18,128.00</td>
+   <td align="right">70,488.00</td>
+   <td align="right">88,616.00</td>
+   <td align="right">-52,360.00</td>
+   <td align="right">0.32</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CI</td>
+   <td align="right">830,000</td>
+   <td align="right">15,000</td>
+   <td align="right">845,000</td>
+   <td align="right">815,000</td>
+   <td align="right">6.28</td>
+   <td align="right">1,782,200.00</td>
+   <td align="right">32,100.00</td>
+   <td align="right">1,814,300.00</td>
+   <td align="right">1,750,100.00</td>
+   <td align="right">6.28</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CIG</td>
+   <td align="right">205,400</td>
+   <td align="right">67,800</td>
+   <td align="right">273,200</td>
+   <td align="right">137,600</td>
+   <td align="right">0.22</td>
+   <td align="right">255,386.00</td>
+   <td align="right">83,366.00</td>
+   <td align="right">338,752.00</td>
+   <td align="right">172,020.00</td>
+   <td align="right">0.22</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CIMBT</td>
+   <td align="right">-</td>
+   <td align="right">185,000</td>
+   <td align="right">185,000</td>
+   <td align="right">-185,000</td>
+   <td align="right">2.89</td>
+   <td align="right">-</td>
+   <td align="right">401,300.00</td>
+   <td align="right">401,300.00</td>
+   <td align="right">-401,300.00</td>
+   <td align="right">2.88</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CITY</td>
+   <td align="right">210,000</td>
+   <td align="right">223,400</td>
+   <td align="right">433,400</td>
+   <td align="right">-13,400</td>
+   <td align="right">9.21</td>
+   <td align="right">1,060,500.00</td>
+   <td align="right">1,131,290.00</td>
+   <td align="right">2,191,790.00</td>
+   <td align="right">-70,790.00</td>
+   <td align="right">9.20</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CK</td>
+   <td align="right">834,700</td>
+   <td align="right">43,100</td>
+   <td align="right">877,800</td>
+   <td align="right">791,600</td>
+   <td align="right">3.18</td>
+   <td align="right">23,348,725.00</td>
+   <td align="right">1,203,350.00</td>
+   <td align="right">24,552,075.00</td>
+   <td align="right">22,145,375.00</td>
+   <td align="right">3.18</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CKP</td>
+   <td align="right">26,200</td>
+   <td align="right">9,900</td>
+   <td align="right">36,100</td>
+   <td align="right">16,300</td>
+   <td align="right">1.42</td>
+   <td align="right">485,610.00</td>
+   <td align="right">184,140.00</td>
+   <td align="right">669,750.00</td>
+   <td align="right">301,470.00</td>
+   <td align="right">1.42</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CM</td>
+   <td align="right">35,000</td>
+   <td align="right">36,700</td>
+   <td align="right">71,700</td>
+   <td align="right">-1,700</td>
+   <td align="right">40.97</td>
+   <td align="right">145,940.00</td>
+   <td align="right">152,772.00</td>
+   <td align="right">298,712.00</td>
+   <td align="right">-6,832.00</td>
+   <td align="right">40.94</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CMO</td>
+   <td align="right">21,500</td>
+   <td align="right">26,200</td>
+   <td align="right">47,700</td>
+   <td align="right">-4,700</td>
+   <td align="right">0.97</td>
+   <td align="right">57,160.00</td>
+   <td align="right">70,640.00</td>
+   <td align="right">127,800.00</td>
+   <td align="right">-13,480.00</td>
+   <td align="right">0.98</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CMO-W1</td>
+   <td align="right">5,000</td>
+   <td align="right">-</td>
+   <td align="right">5,000</td>
+   <td align="right">5,000</td>
+   <td align="right">0.57</td>
+   <td align="right">5,900.00</td>
+   <td align="right">-</td>
+   <td align="right">5,900.00</td>
+   <td align="right">5,900.00</td>
+   <td align="right">0.56</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CNT</td>
+   <td align="right">-</td>
+   <td align="right">12,000</td>
+   <td align="right">12,000</td>
+   <td align="right">-12,000</td>
+   <td align="right">0.92</td>
+   <td align="right">-</td>
+   <td align="right">71,400.00</td>
+   <td align="right">71,400.00</td>
+   <td align="right">-71,400.00</td>
+   <td align="right">0.92</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CPALL</td>
+   <td align="right">3,441,421</td>
+   <td align="right">540,300</td>
+   <td align="right">3,981,721</td>
+   <td align="right">2,901,121</td>
+   <td align="right">13.06</td>
+   <td align="right">155,831,725.25</td>
+   <td align="right">24,500,925.00</td>
+   <td align="right">180,332,650.25</td>
+   <td align="right">131,330,800.25</td>
+   <td align="right">13.05</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CPF</td>
+   <td align="right">267,852</td>
+   <td align="right">1,439,500</td>
+   <td align="right">1,707,352</td>
+   <td align="right">-1,171,648</td>
+   <td align="right">10.17</td>
+   <td align="right">8,250,661.00</td>
+   <td align="right">44,282,950.00</td>
+   <td align="right">52,533,611.00</td>
+   <td align="right">-36,032,289.00</td>
+   <td align="right">10.19</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CPI</td>
+   <td align="right">8,500</td>
+   <td align="right">-</td>
+   <td align="right">8,500</td>
+   <td align="right">8,500</td>
+   <td align="right">0.29</td>
+   <td align="right">23,586.00</td>
+   <td align="right">-</td>
+   <td align="right">23,586.00</td>
+   <td align="right">23,586.00</td>
+   <td align="right">0.29</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CPI-W1</td>
+   <td align="right">4,000</td>
+   <td align="right">-</td>
+   <td align="right">4,000</td>
+   <td align="right">4,000</td>
+   <td align="right">0.14</td>
+   <td align="right">3,200.00</td>
+   <td align="right">-</td>
+   <td align="right">3,200.00</td>
+   <td align="right">3,200.00</td>
+   <td align="right">0.14</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CPN</td>
+   <td align="right">140,600</td>
+   <td align="right">450,200</td>
+   <td align="right">590,800</td>
+   <td align="right">-309,600</td>
+   <td align="right">6.30</td>
+   <td align="right">6,727,225.00</td>
+   <td align="right">21,523,250.00</td>
+   <td align="right">28,250,475.00</td>
+   <td align="right">-14,796,025.00</td>
+   <td align="right">6.31</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CPR</td>
+   <td align="right">6,800</td>
+   <td align="right">12,800</td>
+   <td align="right">19,600</td>
+   <td align="right">-6,000</td>
+   <td align="right">0.48</td>
+   <td align="right">21,548.00</td>
+   <td align="right">39,936.00</td>
+   <td align="right">61,484.00</td>
+   <td align="right">-18,388.00</td>
+   <td align="right">0.47</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CRANE</td>
+   <td align="right">110,000</td>
+   <td align="right">54,058</td>
+   <td align="right">164,058</td>
+   <td align="right">55,942</td>
+   <td align="right">7.12</td>
+   <td align="right">572,000.00</td>
+   <td align="right">278,361.00</td>
+   <td align="right">850,361.00</td>
+   <td align="right">293,639.00</td>
+   <td align="right">7.12</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CSP</td>
+   <td align="right">7,000</td>
+   <td align="right">13,000</td>
+   <td align="right">20,000</td>
+   <td align="right">-6,000</td>
+   <td align="right">1.85</td>
+   <td align="right">29,540.00</td>
+   <td align="right">55,094.00</td>
+   <td align="right">84,634.00</td>
+   <td align="right">-25,554.00</td>
+   <td align="right">1.84</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CSS</td>
+   <td align="right">176,800</td>
+   <td align="right">21,000</td>
+   <td align="right">197,800</td>
+   <td align="right">155,800</td>
+   <td align="right">0.65</td>
+   <td align="right">1,174,150.00</td>
+   <td align="right">140,800.00</td>
+   <td align="right">1,314,950.00</td>
+   <td align="right">1,033,350.00</td>
+   <td align="right">0.64</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CTW</td>
+   <td align="right">-</td>
+   <td align="right">3,400</td>
+   <td align="right">3,400</td>
+   <td align="right">-3,400</td>
+   <td align="right">0.73</td>
+   <td align="right">-</td>
+   <td align="right">41,650.00</td>
+   <td align="right">41,650.00</td>
+   <td align="right">-41,650.00</td>
+   <td align="right">0.73</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CWT</td>
+   <td align="right">485,200</td>
+   <td align="right">862,000</td>
+   <td align="right">1,347,200</td>
+   <td align="right">-376,800</td>
+   <td align="right">2.20</td>
+   <td align="right">1,127,308.00</td>
+   <td align="right">2,065,338.00</td>
+   <td align="right">3,192,646.00</td>
+   <td align="right">-938,030.00</td>
+   <td align="right">2.19</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CWT-W2</td>
+   <td align="right">77,800</td>
+   <td align="right">35,000</td>
+   <td align="right">112,800</td>
+   <td align="right">42,800</td>
+   <td align="right">0.25</td>
+   <td align="right">110,108.00</td>
+   <td align="right">54,290.00</td>
+   <td align="right">164,398.00</td>
+   <td align="right">55,818.00</td>
+   <td align="right">0.24</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">CYBER</td>
+   <td align="right">1,908,800</td>
+   <td align="right">2,285,900</td>
+   <td align="right">4,194,700</td>
+   <td align="right">-377,100</td>
+   <td align="right">0.50</td>
+   <td align="right">10,771,341.00</td>
+   <td align="right">13,606,555.00</td>
+   <td align="right">24,377,896.00</td>
+   <td align="right">-2,835,214.00</td>
+   <td align="right">0.49</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">DCC</td>
+   <td align="right">8,500</td>
+   <td align="right">80,211</td>
+   <td align="right">88,711</td>
+   <td align="right">-71,711</td>
+   <td align="right">25.76</td>
+   <td align="right">490,200.00</td>
+   <td align="right">4,623,953.00</td>
+   <td align="right">5,114,153.00</td>
+   <td align="right">-4,133,753.00</td>
+   <td align="right">25.76</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">DCON</td>
+   <td align="right">37,000</td>
+   <td align="right">49,200</td>
+   <td align="right">86,200</td>
+   <td align="right">-12,200</td>
+   <td align="right">12.79</td>
+   <td align="right">658,600.00</td>
+   <td align="right">871,840.00</td>
+   <td align="right">1,530,440.00</td>
+   <td align="right">-213,240.00</td>
+   <td align="right">12.82</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">DCON-W1</td>
+   <td align="right">-</td>
+   <td align="right">7,000</td>
+   <td align="right">7,000</td>
+   <td align="right">-7,000</td>
+   <td align="right">3.39</td>
+   <td align="right">-</td>
+   <td align="right">69,650.00</td>
+   <td align="right">69,650.00</td>
+   <td align="right">-69,650.00</td>
+   <td align="right">3.41</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">DELTA</td>
+   <td align="right">20,700</td>
+   <td align="right">264,600</td>
+   <td align="right">285,300</td>
+   <td align="right">-243,900</td>
+   <td align="right">23.83</td>
+   <td align="right">1,319,975.00</td>
+   <td align="right">16,866,600.00</td>
+   <td align="right">18,186,575.00</td>
+   <td align="right">-15,546,625.00</td>
+   <td align="right">23.84</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">DEMCO</td>
+   <td align="right">153,000</td>
+   <td align="right">354,400</td>
+   <td align="right">507,400</td>
+   <td align="right">-201,400</td>
+   <td align="right">0.76</td>
+   <td align="right">2,667,300.00</td>
+   <td align="right">6,152,500.00</td>
+   <td align="right">8,819,800.00</td>
+   <td align="right">-3,485,200.00</td>
+   <td align="right">0.76</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">DEMCO-W5</td>
+   <td align="right">22,500</td>
+   <td align="right">20,000</td>
+   <td align="right">42,500</td>
+   <td align="right">2,500</td>
+   <td align="right">0.69</td>
+   <td align="right">125,875.00</td>
+   <td align="right">111,000.00</td>
+   <td align="right">236,875.00</td>
+   <td align="right">14,875.00</td>
+   <td align="right">0.69</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">DIMET</td>
+   <td align="right">207,249</td>
+   <td align="right">111,600</td>
+   <td align="right">318,849</td>
+   <td align="right">95,649</td>
+   <td align="right">1.13</td>
+   <td align="right">2,239,463.90</td>
+   <td align="right">1,216,310.00</td>
+   <td align="right">3,455,773.90</td>
+   <td align="right">1,023,153.90</td>
+   <td align="right">1.13</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">DIMET-W1</td>
+   <td align="right">19,700</td>
+   <td align="right">26,900</td>
+   <td align="right">46,600</td>
+   <td align="right">-7,200</td>
+   <td align="right">0.08</td>
+   <td align="right">187,280.00</td>
+   <td align="right">250,940.00</td>
+   <td align="right">438,220.00</td>
+   <td align="right">-63,660.00</td>
+   <td align="right">0.08</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">DNA</td>
+   <td align="right">973,700</td>
+   <td align="right">1,460,700</td>
+   <td align="right">2,434,400</td>
+   <td align="right">-487,000</td>
+   <td align="right">0.43</td>
+   <td align="right">3,080,982.00</td>
+   <td align="right">4,601,970.00</td>
+   <td align="right">7,682,952.00</td>
+   <td align="right">-1,520,988.00</td>
+   <td align="right">0.41</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">DRT</td>
+   <td align="right">13,700</td>
+   <td align="right">100</td>
+   <td align="right">13,800</td>
+   <td align="right">13,600</td>
+   <td align="right">0.33</td>
+   <td align="right">84,795.00</td>
+   <td align="right">615.00</td>
+   <td align="right">85,410.00</td>
+   <td align="right">84,180.00</td>
+   <td align="right">0.33</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">DSGT</td>
+   <td align="right">9,900</td>
+   <td align="right">-</td>
+   <td align="right">9,900</td>
+   <td align="right">9,900</td>
+   <td align="right">3.13</td>
+   <td align="right">82,590.00</td>
+   <td align="right">-</td>
+   <td align="right">82,590.00</td>
+   <td align="right">82,590.00</td>
+   <td align="right">3.13</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">DTAC</td>
+   <td align="right">2,347,800</td>
+   <td align="right">1,791,500</td>
+   <td align="right">4,139,300</td>
+   <td align="right">556,300</td>
+   <td align="right">37.73</td>
+   <td align="right">251,594,798.00</td>
+   <td align="right">190,907,600.00</td>
+   <td align="right">442,502,398.00</td>
+   <td align="right">60,687,198.00</td>
+   <td align="right">37.79</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">EA</td>
+   <td align="right">42,400</td>
+   <td align="right">188,810</td>
+   <td align="right">231,210</td>
+   <td align="right">-146,410</td>
+   <td align="right">1.60</td>
+   <td align="right">1,036,320.00</td>
+   <td align="right">4,613,440.00</td>
+   <td align="right">5,649,760.00</td>
+   <td align="right">-3,577,120.00</td>
+   <td align="right">1.60</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">EARTH</td>
+   <td align="right">596,200</td>
+   <td align="right">9,700</td>
+   <td align="right">605,900</td>
+   <td align="right">586,500</td>
+   <td align="right">1.40</td>
+   <td align="right">3,409,270.00</td>
+   <td align="right">55,775.00</td>
+   <td align="right">3,465,045.00</td>
+   <td align="right">3,353,495.00</td>
+   <td align="right">1.40</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">EARTH-W3</td>
+   <td align="right">100</td>
+   <td align="right">-</td>
+   <td align="right">100</td>
+   <td align="right">100</td>
+   <td align="right">0.05</td>
+   <td align="right">410.00</td>
+   <td align="right">-</td>
+   <td align="right">410.00</td>
+   <td align="right">410.00</td>
+   <td align="right">0.05</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">EARTH-W4</td>
+   <td align="right">151,600</td>
+   <td align="right">250,000</td>
+   <td align="right">401,600</td>
+   <td align="right">-98,400</td>
+   <td align="right">0.33</td>
+   <td align="right">121,248.00</td>
+   <td align="right">199,500.00</td>
+   <td align="right">320,748.00</td>
+   <td align="right">-78,252.00</td>
+   <td align="right">0.33</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">EASTW</td>
+   <td align="right">7,200</td>
+   <td align="right">-</td>
+   <td align="right">7,200</td>
+   <td align="right">7,200</td>
+   <td align="right">2.45</td>
+   <td align="right">78,620.00</td>
+   <td align="right">-</td>
+   <td align="right">78,620.00</td>
+   <td align="right">78,620.00</td>
+   <td align="right">2.45</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ECF</td>
+   <td align="right">64,300</td>
+   <td align="right">10,000</td>
+   <td align="right">74,300</td>
+   <td align="right">54,300</td>
+   <td align="right">0.14</td>
+   <td align="right">288,224.00</td>
+   <td align="right">43,200.00</td>
+   <td align="right">331,424.00</td>
+   <td align="right">245,024.00</td>
+   <td align="right">0.14</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ECF-W1</td>
+   <td align="right">11,500</td>
+   <td align="right">5,000</td>
+   <td align="right">16,500</td>
+   <td align="right">6,500</td>
+   <td align="right">0.12</td>
+   <td align="right">40,480.00</td>
+   <td align="right">16,600.00</td>
+   <td align="right">57,080.00</td>
+   <td align="right">23,880.00</td>
+   <td align="right">0.13</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ECL</td>
+   <td align="right">247,000</td>
+   <td align="right">100,000</td>
+   <td align="right">347,000</td>
+   <td align="right">147,000</td>
+   <td align="right">0.18</td>
+   <td align="right">409,510.00</td>
+   <td align="right">172,000.00</td>
+   <td align="right">581,510.00</td>
+   <td align="right">237,510.00</td>
+   <td align="right">0.18</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">EE</td>
+   <td align="right">5,000</td>
+   <td align="right">130,300</td>
+   <td align="right">135,300</td>
+   <td align="right">-125,300</td>
+   <td align="right">0.70</td>
+   <td align="right">6,350.00</td>
+   <td align="right">166,784.00</td>
+   <td align="right">173,134.00</td>
+   <td align="right">-160,434.00</td>
+   <td align="right">0.70</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">EFORL</td>
+   <td align="right">169,500</td>
+   <td align="right">128,000</td>
+   <td align="right">297,500</td>
+   <td align="right">41,500</td>
+   <td align="right">0.23</td>
+   <td align="right">284,760.00</td>
+   <td align="right">214,990.00</td>
+   <td align="right">499,750.00</td>
+   <td align="right">69,770.00</td>
+   <td align="right">0.23</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">EFORL-W2</td>
+   <td align="right">115,000</td>
+   <td align="right">2,986,800</td>
+   <td align="right">3,101,800</td>
+   <td align="right">-2,871,800</td>
+   <td align="right">4.81</td>
+   <td align="right">152,950.00</td>
+   <td align="right">3,972,444.00</td>
+   <td align="right">4,125,394.00</td>
+   <td align="right">-3,819,494.00</td>
+   <td align="right">4.80</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">EGCO</td>
+   <td align="right">104,100</td>
+   <td align="right">26,500</td>
+   <td align="right">130,600</td>
+   <td align="right">77,600</td>
+   <td align="right">31.97</td>
+   <td align="right">17,012,800.00</td>
+   <td align="right">4,323,700.00</td>
+   <td align="right">21,336,500.00</td>
+   <td align="right">12,689,100.00</td>
+   <td align="right">31.96</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">EMC</td>
+   <td align="right">-</td>
+   <td align="right">500</td>
+   <td align="right">500</td>
+   <td align="right">-500</td>
+   <td align="right">0.00</td>
+   <td align="right">-</td>
+   <td align="right">600.00</td>
+   <td align="right">600.00</td>
+   <td align="right">-600.00</td>
+   <td align="right">0.00</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">EMC-W4</td>
+   <td align="right">-</td>
+   <td align="right">50,000</td>
+   <td align="right">50,000</td>
+   <td align="right">-50,000</td>
+   <td align="right">0.03</td>
+   <td align="right">-</td>
+   <td align="right">49,500.00</td>
+   <td align="right">49,500.00</td>
+   <td align="right">-49,500.00</td>
+   <td align="right">0.03</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">EPCO</td>
+   <td align="right">100</td>
+   <td align="right">-</td>
+   <td align="right">100</td>
+   <td align="right">100</td>
+   <td align="right">0.00</td>
+   <td align="right">685.00</td>
+   <td align="right">-</td>
+   <td align="right">685.00</td>
+   <td align="right">685.00</td>
+   <td align="right">0.00</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ERW</td>
+   <td align="right">19,700</td>
+   <td align="right">23,300</td>
+   <td align="right">43,000</td>
+   <td align="right">-3,600</td>
+   <td align="right">0.22</td>
+   <td align="right">99,485.00</td>
+   <td align="right">116,700.00</td>
+   <td align="right">216,185.00</td>
+   <td align="right">-17,215.00</td>
+   <td align="right">0.22</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ESSO</td>
+   <td align="right">56,500</td>
+   <td align="right">11,000</td>
+   <td align="right">67,500</td>
+   <td align="right">45,500</td>
+   <td align="right">5.44</td>
+   <td align="right">333,225.00</td>
+   <td align="right">64,900.00</td>
+   <td align="right">398,125.00</td>
+   <td align="right">268,325.00</td>
+   <td align="right">5.45</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ESTAR</td>
+   <td align="right">40,000</td>
+   <td align="right">450,000</td>
+   <td align="right">490,000</td>
+   <td align="right">-410,000</td>
+   <td align="right">0.47</td>
+   <td align="right">43,400.00</td>
+   <td align="right">487,500.00</td>
+   <td align="right">530,900.00</td>
+   <td align="right">-444,100.00</td>
+   <td align="right">0.47</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">EUREKA</td>
+   <td align="right">-</td>
+   <td align="right">5,000</td>
+   <td align="right">5,000</td>
+   <td align="right">-5,000</td>
+   <td align="right">0.53</td>
+   <td align="right">-</td>
+   <td align="right">16,572.00</td>
+   <td align="right">16,572.00</td>
+   <td align="right">-16,572.00</td>
+   <td align="right">0.54</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">EVER</td>
+   <td align="right">251,200</td>
+   <td align="right">52,100</td>
+   <td align="right">303,300</td>
+   <td align="right">199,100</td>
+   <td align="right">0.50</td>
+   <td align="right">509,726.00</td>
+   <td align="right">105,239.00</td>
+   <td align="right">614,965.00</td>
+   <td align="right">404,487.00</td>
+   <td align="right">0.51</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">EVER-W1</td>
+   <td align="right">525,200</td>
+   <td align="right">680,700</td>
+   <td align="right">1,205,900</td>
+   <td align="right">-155,500</td>
+   <td align="right">4.09</td>
+   <td align="right">520,452.00</td>
+   <td align="right">688,947.00</td>
+   <td align="right">1,209,399.00</td>
+   <td align="right">-168,495.00</td>
+   <td align="right">4.08</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">F&amp;D</td>
+   <td align="right">400</td>
+   <td align="right">300</td>
+   <td align="right">700</td>
+   <td align="right">100</td>
+   <td align="right">1.35</td>
+   <td align="right">11,600.00</td>
+   <td align="right">8,700.00</td>
+   <td align="right">20,300.00</td>
+   <td align="right">2,900.00</td>
+   <td align="right">1.35</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">FANCY</td>
+   <td align="right">35,400</td>
+   <td align="right">143,700</td>
+   <td align="right">179,100</td>
+   <td align="right">-108,300</td>
+   <td align="right">0.47</td>
+   <td align="right">89,916.00</td>
+   <td align="right">365,510.00</td>
+   <td align="right">455,426.00</td>
+   <td align="right">-275,594.00</td>
+   <td align="right">0.46</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">FNS</td>
+   <td align="right">3,000</td>
+   <td align="right">2,700</td>
+   <td align="right">5,700</td>
+   <td align="right">300</td>
+   <td align="right">0.23</td>
+   <td align="right">14,374.00</td>
+   <td align="right">13,202.00</td>
+   <td align="right">27,576.00</td>
+   <td align="right">1,172.00</td>
+   <td align="right">0.23</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">FORTH</td>
+   <td align="right">-</td>
+   <td align="right">6,800</td>
+   <td align="right">6,800</td>
+   <td align="right">-6,800</td>
+   <td align="right">1.01</td>
+   <td align="right">-</td>
+   <td align="right">45,130.00</td>
+   <td align="right">45,130.00</td>
+   <td align="right">-45,130.00</td>
+   <td align="right">1.00</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">FSS</td>
+   <td align="right">100,000</td>
+   <td align="right">23,600</td>
+   <td align="right">123,600</td>
+   <td align="right">76,400</td>
+   <td align="right">8.16</td>
+   <td align="right">354,000.00</td>
+   <td align="right">83,544.00</td>
+   <td align="right">437,544.00</td>
+   <td align="right">270,456.00</td>
+   <td align="right">8.17</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">FVC</td>
+   <td align="right">80,000</td>
+   <td align="right">27,700</td>
+   <td align="right">107,700</td>
+   <td align="right">52,300</td>
+   <td align="right">0.20</td>
+   <td align="right">202,000.00</td>
+   <td align="right">68,208.00</td>
+   <td align="right">270,208.00</td>
+   <td align="right">133,792.00</td>
+   <td align="right">0.20</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">GCAP</td>
+   <td align="right">91,400</td>
+   <td align="right">87,400</td>
+   <td align="right">178,800</td>
+   <td align="right">4,000</td>
+   <td align="right">0.92</td>
+   <td align="right">476,250.00</td>
+   <td align="right">458,850.00</td>
+   <td align="right">935,100.00</td>
+   <td align="right">17,400.00</td>
+   <td align="right">0.92</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">GEL</td>
+   <td align="right">1,137,900</td>
+   <td align="right">5,755,000</td>
+   <td align="right">6,892,900</td>
+   <td align="right">-4,617,100</td>
+   <td align="right">1.87</td>
+   <td align="right">922,699.00</td>
+   <td align="right">4,709,100.00</td>
+   <td align="right">5,631,799.00</td>
+   <td align="right">-3,786,401.00</td>
+   <td align="right">1.87</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">GEL-W4</td>
+   <td align="right">-</td>
+   <td align="right">367,600</td>
+   <td align="right">367,600</td>
+   <td align="right">-367,600</td>
+   <td align="right">0.33</td>
+   <td align="right">-</td>
+   <td align="right">113,956.00</td>
+   <td align="right">113,956.00</td>
+   <td align="right">-113,956.00</td>
+   <td align="right">0.34</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">GENCO</td>
+   <td align="right">-</td>
+   <td align="right">66,700</td>
+   <td align="right">66,700</td>
+   <td align="right">-66,700</td>
+   <td align="right">0.48</td>
+   <td align="right">-</td>
+   <td align="right">78,706.00</td>
+   <td align="right">78,706.00</td>
+   <td align="right">-78,706.00</td>
+   <td align="right">0.48</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">GFPT</td>
+   <td align="right">311,600</td>
+   <td align="right">525,000</td>
+   <td align="right">836,600</td>
+   <td align="right">-213,400</td>
+   <td align="right">20.97</td>
+   <td align="right">6,090,020.00</td>
+   <td align="right">10,233,460.00</td>
+   <td align="right">16,323,480.00</td>
+   <td align="right">-4,143,440.00</td>
+   <td align="right">20.92</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">GJS</td>
+   <td align="right">3,300,000</td>
+   <td align="right">-</td>
+   <td align="right">3,300,000</td>
+   <td align="right">3,300,000</td>
+   <td align="right">0.77</td>
+   <td align="right">300,000.00</td>
+   <td align="right">-</td>
+   <td align="right">300,000.00</td>
+   <td align="right">300,000.00</td>
+   <td align="right">0.76</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">GL</td>
+   <td align="right">-</td>
+   <td align="right">50,000</td>
+   <td align="right">50,000</td>
+   <td align="right">-50,000</td>
+   <td align="right">13.03</td>
+   <td align="right">-</td>
+   <td align="right">315,000.00</td>
+   <td align="right">315,000.00</td>
+   <td align="right">-315,000.00</td>
+   <td align="right">12.98</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">GLAND</td>
+   <td align="right">5,000</td>
+   <td align="right">-</td>
+   <td align="right">5,000</td>
+   <td align="right">5,000</td>
+   <td align="right">0.05</td>
+   <td align="right">17,400.00</td>
+   <td align="right">-</td>
+   <td align="right">17,400.00</td>
+   <td align="right">17,400.00</td>
+   <td align="right">0.05</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">GLAND-W3</td>
+   <td align="right">25,000</td>
+   <td align="right">10,000</td>
+   <td align="right">35,000</td>
+   <td align="right">15,000</td>
+   <td align="right">6.22</td>
+   <td align="right">56,200.00</td>
+   <td align="right">22,400.00</td>
+   <td align="right">78,600.00</td>
+   <td align="right">33,800.00</td>
+   <td align="right">6.27</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">GLOBAL</td>
+   <td align="right">36,800</td>
+   <td align="right">147,783</td>
+   <td align="right">184,583</td>
+   <td align="right">-110,983</td>
+   <td align="right">3.08</td>
+   <td align="right">525,530.00</td>
+   <td align="right">2,109,890.30</td>
+   <td align="right">2,635,420.30</td>
+   <td align="right">-1,584,360.30</td>
+   <td align="right">3.08</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">GLOW</td>
+   <td align="right">249,600</td>
+   <td align="right">46,900</td>
+   <td align="right">296,500</td>
+   <td align="right">202,700</td>
+   <td align="right">38.55</td>
+   <td align="right">23,534,904.00</td>
+   <td align="right">4,427,325.00</td>
+   <td align="right">27,962,229.00</td>
+   <td align="right">19,107,579.00</td>
+   <td align="right">38.55</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">GOLD</td>
+   <td align="right">208,900</td>
+   <td align="right">164,400</td>
+   <td align="right">373,300</td>
+   <td align="right">44,500</td>
+   <td align="right">15.62</td>
+   <td align="right">1,898,145.00</td>
+   <td align="right">1,492,305.00</td>
+   <td align="right">3,390,450.00</td>
+   <td align="right">405,840.00</td>
+   <td align="right">15.61</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">GRAND</td>
+   <td align="right">450,100</td>
+   <td align="right">1,759,600</td>
+   <td align="right">2,209,700</td>
+   <td align="right">-1,309,500</td>
+   <td align="right">0.37</td>
+   <td align="right">1,229,144.00</td>
+   <td align="right">4,762,352.00</td>
+   <td align="right">5,991,496.00</td>
+   <td align="right">-3,533,208.00</td>
+   <td align="right">0.37</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">GSTEL</td>
+   <td align="right">3,961,300</td>
+   <td align="right">-</td>
+   <td align="right">3,961,300</td>
+   <td align="right">3,961,300</td>
+   <td align="right">0.69</td>
+   <td align="right">716,001.00</td>
+   <td align="right">-</td>
+   <td align="right">716,001.00</td>
+   <td align="right">716,001.00</td>
+   <td align="right">0.69</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">GSTEL-W1</td>
+   <td align="right">1,000,000</td>
+   <td align="right">-</td>
+   <td align="right">1,000,000</td>
+   <td align="right">1,000,000</td>
+   <td align="right">0.62</td>
+   <td align="right">90,000.00</td>
+   <td align="right">-</td>
+   <td align="right">90,000.00</td>
+   <td align="right">90,000.00</td>
+   <td align="right">0.62</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">GUNKUL</td>
+   <td align="right">275,000</td>
+   <td align="right">116,666</td>
+   <td align="right">391,666</td>
+   <td align="right">158,334</td>
+   <td align="right">15.24</td>
+   <td align="right">6,532,290.00</td>
+   <td align="right">2,763,891.00</td>
+   <td align="right">9,296,181.00</td>
+   <td align="right">3,768,399.00</td>
+   <td align="right">15.25</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">HANA</td>
+   <td align="right">341,300</td>
+   <td align="right">13,900</td>
+   <td align="right">355,200</td>
+   <td align="right">327,400</td>
+   <td align="right">13.40</td>
+   <td align="right">13,732,650.00</td>
+   <td align="right">557,125.00</td>
+   <td align="right">14,289,775.00</td>
+   <td align="right">13,175,525.00</td>
+   <td align="right">13.45</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">HEMRAJ</td>
+   <td align="right">3,216,600</td>
+   <td align="right">1,780,100</td>
+   <td align="right">4,996,700</td>
+   <td align="right">1,436,500</td>
+   <td align="right">16.05</td>
+   <td align="right">14,698,058.00</td>
+   <td align="right">8,137,626.00</td>
+   <td align="right">22,835,684.00</td>
+   <td align="right">6,560,432.00</td>
+   <td align="right">16.07</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">HFT</td>
+   <td align="right">457,300</td>
+   <td align="right">-</td>
+   <td align="right">457,300</td>
+   <td align="right">457,300</td>
+   <td align="right">14.68</td>
+   <td align="right">1,783,470.00</td>
+   <td align="right">-</td>
+   <td align="right">1,783,470.00</td>
+   <td align="right">1,783,470.00</td>
+   <td align="right">14.69</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">HMPRO</td>
+   <td align="right">252,600</td>
+   <td align="right">650,900</td>
+   <td align="right">903,500</td>
+   <td align="right">-398,300</td>
+   <td align="right">3.95</td>
+   <td align="right">2,606,600.00</td>
+   <td align="right">6,655,680.00</td>
+   <td align="right">9,262,280.00</td>
+   <td align="right">-4,049,080.00</td>
+   <td align="right">3.93</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">HOTPOT</td>
+   <td align="right">-</td>
+   <td align="right">3,000</td>
+   <td align="right">3,000</td>
+   <td align="right">-3,000</td>
+   <td align="right">0.15</td>
+   <td align="right">-</td>
+   <td align="right">10,680.00</td>
+   <td align="right">10,680.00</td>
+   <td align="right">-10,680.00</td>
+   <td align="right">0.16</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">HTECH</td>
+   <td align="right">210,600</td>
+   <td align="right">-</td>
+   <td align="right">210,600</td>
+   <td align="right">210,600</td>
+   <td align="right">3.67</td>
+   <td align="right">653,060.00</td>
+   <td align="right">-</td>
+   <td align="right">653,060.00</td>
+   <td align="right">653,060.00</td>
+   <td align="right">3.57</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">HYDRO</td>
+   <td align="right">303,400</td>
+   <td align="right">87,000</td>
+   <td align="right">390,400</td>
+   <td align="right">216,400</td>
+   <td align="right">7.94</td>
+   <td align="right">1,116,242.00</td>
+   <td align="right">320,034.00</td>
+   <td align="right">1,436,276.00</td>
+   <td align="right">796,208.00</td>
+   <td align="right">7.96</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ICHI</td>
+   <td align="right">1,200</td>
+   <td align="right">95,400</td>
+   <td align="right">96,600</td>
+   <td align="right">-94,200</td>
+   <td align="right">0.96</td>
+   <td align="right">28,950.00</td>
+   <td align="right">2,299,710.00</td>
+   <td align="right">2,328,660.00</td>
+   <td align="right">-2,270,760.00</td>
+   <td align="right">0.96</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">IEC</td>
+   <td align="right">31,010,000</td>
+   <td align="right">3,000,000</td>
+   <td align="right">34,010,000</td>
+   <td align="right">28,010,000</td>
+   <td align="right">2.09</td>
+   <td align="right">930,300.00</td>
+   <td align="right">90,000.00</td>
+   <td align="right">1,020,300.00</td>
+   <td align="right">840,300.00</td>
+   <td align="right">2.07</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">IFEC</td>
+   <td align="right">796,000</td>
+   <td align="right">518,500</td>
+   <td align="right">1,314,500</td>
+   <td align="right">277,500</td>
+   <td align="right">0.32</td>
+   <td align="right">6,334,150.00</td>
+   <td align="right">4,098,980.00</td>
+   <td align="right">10,433,130.00</td>
+   <td align="right">2,235,170.00</td>
+   <td align="right">0.32</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">IFEC-W1</td>
+   <td align="right">136,000</td>
+   <td align="right">497,500</td>
+   <td align="right">633,500</td>
+   <td align="right">-361,500</td>
+   <td align="right">0.66</td>
+   <td align="right">896,800.00</td>
+   <td align="right">3,199,045.00</td>
+   <td align="right">4,095,845.00</td>
+   <td align="right">-2,302,245.00</td>
+   <td align="right">0.65</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">IFS</td>
+   <td align="right">2,000</td>
+   <td align="right">-</td>
+   <td align="right">2,000</td>
+   <td align="right">2,000</td>
+   <td align="right">0.15</td>
+   <td align="right">5,920.00</td>
+   <td align="right">-</td>
+   <td align="right">5,920.00</td>
+   <td align="right">5,920.00</td>
+   <td align="right">0.15</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">INET</td>
+   <td align="right">120,000</td>
+   <td align="right">198,200</td>
+   <td align="right">318,200</td>
+   <td align="right">-78,200</td>
+   <td align="right">4.53</td>
+   <td align="right">465,400.00</td>
+   <td align="right">767,382.00</td>
+   <td align="right">1,232,782.00</td>
+   <td align="right">-301,982.00</td>
+   <td align="right">4.52</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">INTUCH</td>
+   <td align="right">4,563,272</td>
+   <td align="right">3,134,200</td>
+   <td align="right">7,697,472</td>
+   <td align="right">1,429,072</td>
+   <td align="right">31.26</td>
+   <td align="right">333,488,132.50</td>
+   <td align="right">228,283,250.00</td>
+   <td align="right">561,771,382.50</td>
+   <td align="right">105,204,882.50</td>
+   <td align="right">31.28</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">IRCP</td>
+   <td align="right">51,000</td>
+   <td align="right">18,600</td>
+   <td align="right">69,600</td>
+   <td align="right">32,400</td>
+   <td align="right">0.50</td>
+   <td align="right">372,155.00</td>
+   <td align="right">135,780.00</td>
+   <td align="right">507,935.00</td>
+   <td align="right">236,375.00</td>
+   <td align="right">0.50</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">IRPC</td>
+   <td align="right">5,897,300</td>
+   <td align="right">3,344,200</td>
+   <td align="right">9,241,500</td>
+   <td align="right">2,553,100</td>
+   <td align="right">8.50</td>
+   <td align="right">19,927,372.00</td>
+   <td align="right">11,276,044.00</td>
+   <td align="right">31,203,416.00</td>
+   <td align="right">8,651,328.00</td>
+   <td align="right">8.49</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ITD</td>
+   <td align="right">484,800</td>
+   <td align="right">3,878,296</td>
+   <td align="right">4,363,096</td>
+   <td align="right">-3,393,496</td>
+   <td align="right">2.63</td>
+   <td align="right">2,819,605.00</td>
+   <td align="right">22,603,847.20</td>
+   <td align="right">25,423,452.20</td>
+   <td align="right">-19,784,242.20</td>
+   <td align="right">2.64</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">IVL</td>
+   <td align="right">1,687,100</td>
+   <td align="right">106,800</td>
+   <td align="right">1,793,900</td>
+   <td align="right">1,580,300</td>
+   <td align="right">9.20</td>
+   <td align="right">43,980,725.00</td>
+   <td align="right">2,819,800.00</td>
+   <td align="right">46,800,525.00</td>
+   <td align="right">41,160,925.00</td>
+   <td align="right">9.16</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">IVL-W1</td>
+   <td align="right">80,090</td>
+   <td align="right">342,135</td>
+   <td align="right">422,225</td>
+   <td align="right">-262,045</td>
+   <td align="right">11.79</td>
+   <td align="right">350,392.40</td>
+   <td align="right">1,496,482.90</td>
+   <td align="right">1,846,875.30</td>
+   <td align="right">-1,146,090.50</td>
+   <td align="right">11.79</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">IVL-W2</td>
+   <td align="right">47</td>
+   <td align="right">240,073</td>
+   <td align="right">240,120</td>
+   <td align="right">-240,026</td>
+   <td align="right">9.22</td>
+   <td align="right">152.28</td>
+   <td align="right">786,972.84</td>
+   <td align="right">787,125.12</td>
+   <td align="right">-786,820.56</td>
+   <td align="right">9.20</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">JMART</td>
+   <td align="right">6,600</td>
+   <td align="right">-</td>
+   <td align="right">6,600</td>
+   <td align="right">6,600</td>
+   <td align="right">0.60</td>
+   <td align="right">96,260.00</td>
+   <td align="right">-</td>
+   <td align="right">96,260.00</td>
+   <td align="right">96,260.00</td>
+   <td align="right">0.60</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">JMT</td>
+   <td align="right">10,000</td>
+   <td align="right">-</td>
+   <td align="right">10,000</td>
+   <td align="right">10,000</td>
+   <td align="right">2.22</td>
+   <td align="right">190,000.00</td>
+   <td align="right">-</td>
+   <td align="right">190,000.00</td>
+   <td align="right">190,000.00</td>
+   <td align="right">2.20</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">JUTHA</td>
+   <td align="right">2,000</td>
+   <td align="right">-</td>
+   <td align="right">2,000</td>
+   <td align="right">2,000</td>
+   <td align="right">0.21</td>
+   <td align="right">8,160.00</td>
+   <td align="right">-</td>
+   <td align="right">8,160.00</td>
+   <td align="right">8,160.00</td>
+   <td align="right">0.21</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">KAMART</td>
+   <td align="right">1,000</td>
+   <td align="right">-</td>
+   <td align="right">1,000</td>
+   <td align="right">1,000</td>
+   <td align="right">0.04</td>
+   <td align="right">6,700.00</td>
+   <td align="right">-</td>
+   <td align="right">6,700.00</td>
+   <td align="right">6,700.00</td>
+   <td align="right">0.04</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">KBANK</td>
+   <td align="right">1,674,500</td>
+   <td align="right">967,770</td>
+   <td align="right">2,642,270</td>
+   <td align="right">706,730</td>
+   <td align="right">44.37</td>
+   <td align="right">392,886,900.00</td>
+   <td align="right">226,547,110.00</td>
+   <td align="right">619,434,010.00</td>
+   <td align="right">166,339,790.00</td>
+   <td align="right">44.35</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">KC</td>
+   <td align="right">22,800</td>
+   <td align="right">46,500</td>
+   <td align="right">69,300</td>
+   <td align="right">-23,700</td>
+   <td align="right">0.37</td>
+   <td align="right">33,516.00</td>
+   <td align="right">68,144.00</td>
+   <td align="right">101,660.00</td>
+   <td align="right">-34,628.00</td>
+   <td align="right">0.37</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">KCE</td>
+   <td align="right">361,300</td>
+   <td align="right">258,264</td>
+   <td align="right">619,564</td>
+   <td align="right">103,036</td>
+   <td align="right">12.99</td>
+   <td align="right">14,186,525.00</td>
+   <td align="right">10,112,087.00</td>
+   <td align="right">24,298,612.00</td>
+   <td align="right">4,074,438.00</td>
+   <td align="right">13.00</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">KGI</td>
+   <td align="right">775,300</td>
+   <td align="right">385,000</td>
+   <td align="right">1,160,300</td>
+   <td align="right">390,300</td>
+   <td align="right">7.75</td>
+   <td align="right">2,573,996.00</td>
+   <td align="right">1,281,100.00</td>
+   <td align="right">3,855,096.00</td>
+   <td align="right">1,292,896.00</td>
+   <td align="right">7.74</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">KIAT</td>
+   <td align="right">2,000</td>
+   <td align="right">-</td>
+   <td align="right">2,000</td>
+   <td align="right">2,000</td>
+   <td align="right">2.07</td>
+   <td align="right">15,900.00</td>
+   <td align="right">-</td>
+   <td align="right">15,900.00</td>
+   <td align="right">15,900.00</td>
+   <td align="right">2.06</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">KKC</td>
+   <td align="right">-</td>
+   <td align="right">58,000</td>
+   <td align="right">58,000</td>
+   <td align="right">-58,000</td>
+   <td align="right">2.44</td>
+   <td align="right">-</td>
+   <td align="right">191,080.00</td>
+   <td align="right">191,080.00</td>
+   <td align="right">-191,080.00</td>
+   <td align="right">2.43</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">KKP</td>
+   <td align="right">19,700</td>
+   <td align="right">12,300</td>
+   <td align="right">32,000</td>
+   <td align="right">7,400</td>
+   <td align="right">3.41</td>
+   <td align="right">851,400.00</td>
+   <td align="right">531,975.00</td>
+   <td align="right">1,383,375.00</td>
+   <td align="right">319,425.00</td>
+   <td align="right">3.41</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">KSL</td>
+   <td align="right">30,300</td>
+   <td align="right">108,000</td>
+   <td align="right">138,300</td>
+   <td align="right">-77,700</td>
+   <td align="right">10.60</td>
+   <td align="right">405,660.00</td>
+   <td align="right">1,440,220.00</td>
+   <td align="right">1,845,880.00</td>
+   <td align="right">-1,034,560.00</td>
+   <td align="right">10.60</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">KTB</td>
+   <td align="right">4,179,502</td>
+   <td align="right">1,055,800</td>
+   <td align="right">5,235,302</td>
+   <td align="right">3,123,702</td>
+   <td align="right">14.80</td>
+   <td align="right">100,220,947.80</td>
+   <td align="right">25,295,060.00</td>
+   <td align="right">125,516,007.80</td>
+   <td align="right">74,925,887.80</td>
+   <td align="right">14.82</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">KTC</td>
+   <td align="right">9,400</td>
+   <td align="right">101,300</td>
+   <td align="right">110,700</td>
+   <td align="right">-91,900</td>
+   <td align="right">11.50</td>
+   <td align="right">666,475.00</td>
+   <td align="right">7,154,800.00</td>
+   <td align="right">7,821,275.00</td>
+   <td align="right">-6,488,325.00</td>
+   <td align="right">11.49</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">KTP</td>
+   <td align="right">143,400</td>
+   <td align="right">241,200</td>
+   <td align="right">384,600</td>
+   <td align="right">-97,800</td>
+   <td align="right">0.80</td>
+   <td align="right">393,112.00</td>
+   <td align="right">662,160.00</td>
+   <td align="right">1,055,272.00</td>
+   <td align="right">-269,048.00</td>
+   <td align="right">0.79</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">L&amp;E</td>
+   <td align="right">-</td>
+   <td align="right">95,300</td>
+   <td align="right">95,300</td>
+   <td align="right">-95,300</td>
+   <td align="right">20.30</td>
+   <td align="right">-</td>
+   <td align="right">671,865.00</td>
+   <td align="right">671,865.00</td>
+   <td align="right">-671,865.00</td>
+   <td align="right">20.39</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">LANNA</td>
+   <td align="right">-</td>
+   <td align="right">20,000</td>
+   <td align="right">20,000</td>
+   <td align="right">-20,000</td>
+   <td align="right">5.30</td>
+   <td align="right">-</td>
+   <td align="right">276,000.00</td>
+   <td align="right">276,000.00</td>
+   <td align="right">-276,000.00</td>
+   <td align="right">5.31</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">LDC</td>
+   <td align="right">1,262,000</td>
+   <td align="right">726,800</td>
+   <td align="right">1,988,800</td>
+   <td align="right">535,200</td>
+   <td align="right">1.49</td>
+   <td align="right">6,357,400.00</td>
+   <td align="right">3,688,400.00</td>
+   <td align="right">10,045,800.00</td>
+   <td align="right">2,669,000.00</td>
+   <td align="right">1.48</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">LH</td>
+   <td align="right">1,115,300</td>
+   <td align="right">414,700</td>
+   <td align="right">1,530,000</td>
+   <td align="right">700,600</td>
+   <td align="right">10.19</td>
+   <td align="right">11,933,520.00</td>
+   <td align="right">4,414,210.00</td>
+   <td align="right">16,347,730.00</td>
+   <td align="right">7,519,310.00</td>
+   <td align="right">10.19</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">LHBANK</td>
+   <td align="right">268,900</td>
+   <td align="right">-</td>
+   <td align="right">268,900</td>
+   <td align="right">268,900</td>
+   <td align="right">1.12</td>
+   <td align="right">488,415.00</td>
+   <td align="right">-</td>
+   <td align="right">488,415.00</td>
+   <td align="right">488,415.00</td>
+   <td align="right">1.12</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">LIT</td>
+   <td align="right">8,000</td>
+   <td align="right">-</td>
+   <td align="right">8,000</td>
+   <td align="right">8,000</td>
+   <td align="right">0.04</td>
+   <td align="right">31,840.00</td>
+   <td align="right">-</td>
+   <td align="right">31,840.00</td>
+   <td align="right">31,840.00</td>
+   <td align="right">0.04</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">LIVE</td>
+   <td align="right">20,000</td>
+   <td align="right">700,000</td>
+   <td align="right">720,000</td>
+   <td align="right">-680,000</td>
+   <td align="right">0.99</td>
+   <td align="right">6,000.00</td>
+   <td align="right">210,000.00</td>
+   <td align="right">216,000.00</td>
+   <td align="right">-204,000.00</td>
+   <td align="right">0.99</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">LIVE-W2</td>
+   <td align="right">-</td>
+   <td align="right">201,560</td>
+   <td align="right">201,560</td>
+   <td align="right">-201,560</td>
+   <td align="right">4.12</td>
+   <td align="right">-</td>
+   <td align="right">48,370.20</td>
+   <td align="right">48,370.20</td>
+   <td align="right">-48,370.20</td>
+   <td align="right">3.98</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">LOXLEY</td>
+   <td align="right">751,200</td>
+   <td align="right">1,609,800</td>
+   <td align="right">2,361,000</td>
+   <td align="right">-858,600</td>
+   <td align="right">1.52</td>
+   <td align="right">3,682,870.00</td>
+   <td align="right">7,859,302.00</td>
+   <td align="right">11,542,172.00</td>
+   <td align="right">-4,176,432.00</td>
+   <td align="right">1.52</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">LPN</td>
+   <td align="right">25,100</td>
+   <td align="right">123,900</td>
+   <td align="right">149,000</td>
+   <td align="right">-98,800</td>
+   <td align="right">2.58</td>
+   <td align="right">537,400.00</td>
+   <td align="right">2,642,050.00</td>
+   <td align="right">3,179,450.00</td>
+   <td align="right">-2,104,650.00</td>
+   <td align="right">2.58</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">M</td>
+   <td align="right">9,600</td>
+   <td align="right">700</td>
+   <td align="right">10,300</td>
+   <td align="right">8,900</td>
+   <td align="right">1.15</td>
+   <td align="right">590,900.00</td>
+   <td align="right">43,225.00</td>
+   <td align="right">634,125.00</td>
+   <td align="right">547,675.00</td>
+   <td align="right">1.15</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MACO</td>
+   <td align="right">-</td>
+   <td align="right">44,300</td>
+   <td align="right">44,300</td>
+   <td align="right">-44,300</td>
+   <td align="right">2.31</td>
+   <td align="right">-</td>
+   <td align="right">792,410.00</td>
+   <td align="right">792,410.00</td>
+   <td align="right">-792,410.00</td>
+   <td align="right">2.31</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MAJOR</td>
+   <td align="right">3,404,100</td>
+   <td align="right">1,301,800</td>
+   <td align="right">4,705,900</td>
+   <td align="right">2,102,300</td>
+   <td align="right">43.39</td>
+   <td align="right">82,140,710.00</td>
+   <td align="right">31,387,550.00</td>
+   <td align="right">113,528,260.00</td>
+   <td align="right">50,753,160.00</td>
+   <td align="right">43.37</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MAKRO</td>
+   <td align="right">-</td>
+   <td align="right">243,800</td>
+   <td align="right">243,800</td>
+   <td align="right">-243,800</td>
+   <td align="right">27.56</td>
+   <td align="right">-</td>
+   <td align="right">9,755,050.00</td>
+   <td align="right">9,755,050.00</td>
+   <td align="right">-9,755,050.00</td>
+   <td align="right">27.52</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MALEE</td>
+   <td align="right">1,400</td>
+   <td align="right">-</td>
+   <td align="right">1,400</td>
+   <td align="right">1,400</td>
+   <td align="right">0.45</td>
+   <td align="right">52,325.00</td>
+   <td align="right">-</td>
+   <td align="right">52,325.00</td>
+   <td align="right">52,325.00</td>
+   <td align="right">0.45</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MATCH</td>
+   <td align="right">-</td>
+   <td align="right">15,000</td>
+   <td align="right">15,000</td>
+   <td align="right">-15,000</td>
+   <td align="right">0.74</td>
+   <td align="right">-</td>
+   <td align="right">45,000.00</td>
+   <td align="right">45,000.00</td>
+   <td align="right">-45,000.00</td>
+   <td align="right">0.74</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MAX</td>
+   <td align="right">45,446,200</td>
+   <td align="right">7,717,200</td>
+   <td align="right">53,163,400</td>
+   <td align="right">37,729,000</td>
+   <td align="right">1.82</td>
+   <td align="right">34,744,960.00</td>
+   <td align="right">6,300,823.00</td>
+   <td align="right">41,045,783.00</td>
+   <td align="right">28,444,137.00</td>
+   <td align="right">1.73</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MBAX</td>
+   <td align="right">8,000</td>
+   <td align="right">4,000</td>
+   <td align="right">12,000</td>
+   <td align="right">4,000</td>
+   <td align="right">2.29</td>
+   <td align="right">32,478.00</td>
+   <td align="right">16,320.00</td>
+   <td align="right">48,798.00</td>
+   <td align="right">16,158.00</td>
+   <td align="right">2.30</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MBK</td>
+   <td align="right">381,300</td>
+   <td align="right">24,100</td>
+   <td align="right">405,400</td>
+   <td align="right">357,200</td>
+   <td align="right">37.61</td>
+   <td align="right">6,346,150.00</td>
+   <td align="right">398,660.00</td>
+   <td align="right">6,744,810.00</td>
+   <td align="right">5,947,490.00</td>
+   <td align="right">37.67</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MC</td>
+   <td align="right">6,800</td>
+   <td align="right">117,700</td>
+   <td align="right">124,500</td>
+   <td align="right">-110,900</td>
+   <td align="right">11.50</td>
+   <td align="right">127,290.00</td>
+   <td align="right">2,194,760.00</td>
+   <td align="right">2,322,050.00</td>
+   <td align="right">-2,067,470.00</td>
+   <td align="right">11.50</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MCOT</td>
+   <td align="right">10,000</td>
+   <td align="right">-</td>
+   <td align="right">10,000</td>
+   <td align="right">10,000</td>
+   <td align="right">0.72</td>
+   <td align="right">231,280.00</td>
+   <td align="right">-</td>
+   <td align="right">231,280.00</td>
+   <td align="right">231,280.00</td>
+   <td align="right">0.72</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MDX</td>
+   <td align="right">100</td>
+   <td align="right">16,200</td>
+   <td align="right">16,300</td>
+   <td align="right">-16,100</td>
+   <td align="right">0.69</td>
+   <td align="right">1,290.00</td>
+   <td align="right">210,440.00</td>
+   <td align="right">211,730.00</td>
+   <td align="right">-209,150.00</td>
+   <td align="right">0.69</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MEGA</td>
+   <td align="right">1,474,200</td>
+   <td align="right">740,300</td>
+   <td align="right">2,214,500</td>
+   <td align="right">733,900</td>
+   <td align="right">26.66</td>
+   <td align="right">29,825,267.00</td>
+   <td align="right">14,978,157.00</td>
+   <td align="right">44,803,424.00</td>
+   <td align="right">14,847,110.00</td>
+   <td align="right">26.67</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MFEC</td>
+   <td align="right">454,700</td>
+   <td align="right">-</td>
+   <td align="right">454,700</td>
+   <td align="right">454,700</td>
+   <td align="right">6.89</td>
+   <td align="right">3,716,105.00</td>
+   <td align="right">-</td>
+   <td align="right">3,716,105.00</td>
+   <td align="right">3,716,105.00</td>
+   <td align="right">6.90</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MIDA</td>
+   <td align="right">2,500</td>
+   <td align="right">516,700</td>
+   <td align="right">519,200</td>
+   <td align="right">-514,200</td>
+   <td align="right">1.97</td>
+   <td align="right">2,450.00</td>
+   <td align="right">507,666.00</td>
+   <td align="right">510,116.00</td>
+   <td align="right">-505,216.00</td>
+   <td align="right">1.98</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MILL</td>
+   <td align="right">17,000</td>
+   <td align="right">274,900</td>
+   <td align="right">291,900</td>
+   <td align="right">-257,900</td>
+   <td align="right">0.13</td>
+   <td align="right">44,920.00</td>
+   <td align="right">714,810.00</td>
+   <td align="right">759,730.00</td>
+   <td align="right">-669,890.00</td>
+   <td align="right">0.13</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MILL-W2</td>
+   <td align="right">179,300</td>
+   <td align="right">242,800</td>
+   <td align="right">422,100</td>
+   <td align="right">-63,500</td>
+   <td align="right">0.51</td>
+   <td align="right">121,924.00</td>
+   <td align="right">163,802.00</td>
+   <td align="right">285,726.00</td>
+   <td align="right">-41,878.00</td>
+   <td align="right">0.50</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MINT</td>
+   <td align="right">4,068,200</td>
+   <td align="right">1,577,857</td>
+   <td align="right">5,646,057</td>
+   <td align="right">2,490,343</td>
+   <td align="right">25.27</td>
+   <td align="right">147,265,650.00</td>
+   <td align="right">56,688,653.00</td>
+   <td align="right">203,954,303.00</td>
+   <td align="right">90,576,997.00</td>
+   <td align="right">25.25</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MJD</td>
+   <td align="right">310,000</td>
+   <td align="right">2,500</td>
+   <td align="right">312,500</td>
+   <td align="right">307,500</td>
+   <td align="right">3.11</td>
+   <td align="right">1,004,600.00</td>
+   <td align="right">8,000.00</td>
+   <td align="right">1,012,600.00</td>
+   <td align="right">996,600.00</td>
+   <td align="right">3.11</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ML</td>
+   <td align="right">250,000</td>
+   <td align="right">100,000</td>
+   <td align="right">350,000</td>
+   <td align="right">150,000</td>
+   <td align="right">1.23</td>
+   <td align="right">394,500.00</td>
+   <td align="right">156,000.00</td>
+   <td align="right">550,500.00</td>
+   <td align="right">238,500.00</td>
+   <td align="right">1.23</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MLINK</td>
+   <td align="right">187,000</td>
+   <td align="right">1,200</td>
+   <td align="right">188,200</td>
+   <td align="right">185,800</td>
+   <td align="right">2.48</td>
+   <td align="right">512,510.00</td>
+   <td align="right">3,274.00</td>
+   <td align="right">515,784.00</td>
+   <td align="right">509,236.00</td>
+   <td align="right">2.48</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MODERN</td>
+   <td align="right">10,000</td>
+   <td align="right">2,000</td>
+   <td align="right">12,000</td>
+   <td align="right">8,000</td>
+   <td align="right">1.94</td>
+   <td align="right">102,000.00</td>
+   <td align="right">20,000.00</td>
+   <td align="right">122,000.00</td>
+   <td align="right">82,000.00</td>
+   <td align="right">1.95</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MONO</td>
+   <td align="right">22,400</td>
+   <td align="right">-</td>
+   <td align="right">22,400</td>
+   <td align="right">22,400</td>
+   <td align="right">0.26</td>
+   <td align="right">99,312.00</td>
+   <td align="right">-</td>
+   <td align="right">99,312.00</td>
+   <td align="right">99,312.00</td>
+   <td align="right">0.26</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MPG</td>
+   <td align="right">809,000</td>
+   <td align="right">665,000</td>
+   <td align="right">1,474,000</td>
+   <td align="right">144,000</td>
+   <td align="right">1.03</td>
+   <td align="right">1,923,820.00</td>
+   <td align="right">1,603,200.00</td>
+   <td align="right">3,527,020.00</td>
+   <td align="right">320,620.00</td>
+   <td align="right">1.04</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">MPIC</td>
+   <td align="right">54,000</td>
+   <td align="right">10,000</td>
+   <td align="right">64,000</td>
+   <td align="right">44,000</td>
+   <td align="right">21.84</td>
+   <td align="right">103,606.00</td>
+   <td align="right">19,300.00</td>
+   <td align="right">122,906.00</td>
+   <td align="right">84,306.00</td>
+   <td align="right">21.93</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">NBC</td>
+   <td align="right">-</td>
+   <td align="right">50,000</td>
+   <td align="right">50,000</td>
+   <td align="right">-50,000</td>
+   <td align="right">5.63</td>
+   <td align="right">-</td>
+   <td align="right">170,000.00</td>
+   <td align="right">170,000.00</td>
+   <td align="right">-170,000.00</td>
+   <td align="right">5.65</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">NCH</td>
+   <td align="right">1,263,200</td>
+   <td align="right">3,704,200</td>
+   <td align="right">4,967,400</td>
+   <td align="right">-2,441,000</td>
+   <td align="right">1.34</td>
+   <td align="right">2,054,758.00</td>
+   <td align="right">6,040,382.00</td>
+   <td align="right">8,095,140.00</td>
+   <td align="right">-3,985,624.00</td>
+   <td align="right">1.32</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">NINE</td>
+   <td align="right">-</td>
+   <td align="right">10,000</td>
+   <td align="right">10,000</td>
+   <td align="right">-10,000</td>
+   <td align="right">7.18</td>
+   <td align="right">-</td>
+   <td align="right">36,200.00</td>
+   <td align="right">36,200.00</td>
+   <td align="right">-36,200.00</td>
+   <td align="right">7.21</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">NIPPON</td>
+   <td align="right">10,700</td>
+   <td align="right">61,600</td>
+   <td align="right">72,300</td>
+   <td align="right">-50,900</td>
+   <td align="right">0.62</td>
+   <td align="right">21,164.00</td>
+   <td align="right">122,736.00</td>
+   <td align="right">143,900.00</td>
+   <td align="right">-101,572.00</td>
+   <td align="right">0.62</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">NIPPON-W</td>
+   <td align="right">20,000</td>
+   <td align="right">10,000</td>
+   <td align="right">30,000</td>
+   <td align="right">10,000</td>
+   <td align="right">0.43</td>
+   <td align="right">16,200.00</td>
+   <td align="right">7,900.00</td>
+   <td align="right">24,100.00</td>
+   <td align="right">8,300.00</td>
+   <td align="right">0.43</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">NMG</td>
+   <td align="right">-</td>
+   <td align="right">16,000</td>
+   <td align="right">16,000</td>
+   <td align="right">-16,000</td>
+   <td align="right">0.05</td>
+   <td align="right">-</td>
+   <td align="right">24,160.00</td>
+   <td align="right">24,160.00</td>
+   <td align="right">-24,160.00</td>
+   <td align="right">0.05</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">NOBLE</td>
+   <td align="right">7,000</td>
+   <td align="right">-</td>
+   <td align="right">7,000</td>
+   <td align="right">7,000</td>
+   <td align="right">0.27</td>
+   <td align="right">74,000.00</td>
+   <td align="right">-</td>
+   <td align="right">74,000.00</td>
+   <td align="right">74,000.00</td>
+   <td align="right">0.28</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">NOK</td>
+   <td align="right">37,300</td>
+   <td align="right">2,000</td>
+   <td align="right">39,300</td>
+   <td align="right">35,300</td>
+   <td align="right">0.94</td>
+   <td align="right">590,280.00</td>
+   <td align="right">31,800.00</td>
+   <td align="right">622,080.00</td>
+   <td align="right">558,480.00</td>
+   <td align="right">0.93</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">NPARK</td>
+   <td align="right">3,831,200</td>
+   <td align="right">77,172,000</td>
+   <td align="right">81,003,200</td>
+   <td align="right">-73,340,800</td>
+   <td align="right">1.20</td>
+   <td align="right">204,745.00</td>
+   <td align="right">3,858,600.00</td>
+   <td align="right">4,063,345.00</td>
+   <td align="right">-3,653,855.00</td>
+   <td align="right">1.20</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">NSI</td>
+   <td align="right">-</td>
+   <td align="right">1,000</td>
+   <td align="right">1,000</td>
+   <td align="right">-1,000</td>
+   <td align="right">7.04</td>
+   <td align="right">-</td>
+   <td align="right">91,900.00</td>
+   <td align="right">91,900.00</td>
+   <td align="right">-91,900.00</td>
+   <td align="right">7.04</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">NUSA</td>
+   <td align="right">460,000</td>
+   <td align="right">166,000</td>
+   <td align="right">626,000</td>
+   <td align="right">294,000</td>
+   <td align="right">0.57</td>
+   <td align="right">700,300.00</td>
+   <td align="right">253,920.00</td>
+   <td align="right">954,220.00</td>
+   <td align="right">446,380.00</td>
+   <td align="right">0.57</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">NUSA-W1</td>
+   <td align="right">7,600</td>
+   <td align="right">-</td>
+   <td align="right">7,600</td>
+   <td align="right">7,600</td>
+   <td align="right">0.04</td>
+   <td align="right">6,764.00</td>
+   <td align="right">-</td>
+   <td align="right">6,764.00</td>
+   <td align="right">6,764.00</td>
+   <td align="right">0.04</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">NWR</td>
+   <td align="right">1,413,100</td>
+   <td align="right">11,000</td>
+   <td align="right">1,424,100</td>
+   <td align="right">1,402,100</td>
+   <td align="right">13.57</td>
+   <td align="right">3,120,836.00</td>
+   <td align="right">24,200.00</td>
+   <td align="right">3,145,036.00</td>
+   <td align="right">3,096,636.00</td>
+   <td align="right">13.60</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">NWR-W2</td>
+   <td align="right">1,000</td>
+   <td align="right">-</td>
+   <td align="right">1,000</td>
+   <td align="right">1,000</td>
+   <td align="right">0.02</td>
+   <td align="right">1,000.00</td>
+   <td align="right">-</td>
+   <td align="right">1,000.00</td>
+   <td align="right">1,000.00</td>
+   <td align="right">0.02</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">NYT</td>
+   <td align="right">20,400</td>
+   <td align="right">20,000</td>
+   <td align="right">40,400</td>
+   <td align="right">400</td>
+   <td align="right">2.81</td>
+   <td align="right">332,300.00</td>
+   <td align="right">324,000.00</td>
+   <td align="right">656,300.00</td>
+   <td align="right">8,300.00</td>
+   <td align="right">2.81</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">OCEAN</td>
+   <td align="right">26,100</td>
+   <td align="right">230,000</td>
+   <td align="right">256,100</td>
+   <td align="right">-203,900</td>
+   <td align="right">0.35</td>
+   <td align="right">40,497.00</td>
+   <td align="right">354,200.00</td>
+   <td align="right">394,697.00</td>
+   <td align="right">-313,703.00</td>
+   <td align="right">0.35</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">OCEAN-W1</td>
+   <td align="right">21,100</td>
+   <td align="right">-</td>
+   <td align="right">21,100</td>
+   <td align="right">21,100</td>
+   <td align="right">0.08</td>
+   <td align="right">22,366.00</td>
+   <td align="right">-</td>
+   <td align="right">22,366.00</td>
+   <td align="right">22,366.00</td>
+   <td align="right">0.09</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">OFM</td>
+   <td align="right">2,100</td>
+   <td align="right">-</td>
+   <td align="right">2,100</td>
+   <td align="right">2,100</td>
+   <td align="right">1.10</td>
+   <td align="right">111,025.00</td>
+   <td align="right">-</td>
+   <td align="right">111,025.00</td>
+   <td align="right">111,025.00</td>
+   <td align="right">1.10</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">OISHI</td>
+   <td align="right">2,500</td>
+   <td align="right">-</td>
+   <td align="right">2,500</td>
+   <td align="right">2,500</td>
+   <td align="right">7.40</td>
+   <td align="right">225,625.00</td>
+   <td align="right">-</td>
+   <td align="right">225,625.00</td>
+   <td align="right">225,625.00</td>
+   <td align="right">7.39</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">OTO</td>
+   <td align="right">9,500</td>
+   <td align="right">-</td>
+   <td align="right">9,500</td>
+   <td align="right">9,500</td>
+   <td align="right">0.36</td>
+   <td align="right">68,875.00</td>
+   <td align="right">-</td>
+   <td align="right">68,875.00</td>
+   <td align="right">68,875.00</td>
+   <td align="right">0.36</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PACE</td>
+   <td align="right">5,000</td>
+   <td align="right">15,000</td>
+   <td align="right">20,000</td>
+   <td align="right">-10,000</td>
+   <td align="right">0.10</td>
+   <td align="right">19,400.00</td>
+   <td align="right">58,400.00</td>
+   <td align="right">77,800.00</td>
+   <td align="right">-39,000.00</td>
+   <td align="right">0.10</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PAE</td>
+   <td align="right">4,095,000</td>
+   <td align="right">162,700</td>
+   <td align="right">4,257,700</td>
+   <td align="right">3,932,300</td>
+   <td align="right">5.39</td>
+   <td align="right">3,562,257.00</td>
+   <td align="right">143,176.00</td>
+   <td align="right">3,705,433.00</td>
+   <td align="right">3,419,081.00</td>
+   <td align="right">5.42</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PAF</td>
+   <td align="right">34,600</td>
+   <td align="right">15,000</td>
+   <td align="right">49,600</td>
+   <td align="right">19,600</td>
+   <td align="right">0.15</td>
+   <td align="right">49,224.00</td>
+   <td align="right">22,350.00</td>
+   <td align="right">71,574.00</td>
+   <td align="right">26,874.00</td>
+   <td align="right">0.15</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PCA</td>
+   <td align="right">-</td>
+   <td align="right">35,000</td>
+   <td align="right">35,000</td>
+   <td align="right">-35,000</td>
+   <td align="right">0.18</td>
+   <td align="right">-</td>
+   <td align="right">251,250.00</td>
+   <td align="right">251,250.00</td>
+   <td align="right">-251,250.00</td>
+   <td align="right">0.18</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PCSGH</td>
+   <td align="right">108,800</td>
+   <td align="right">200</td>
+   <td align="right">109,000</td>
+   <td align="right">108,600</td>
+   <td align="right">4.78</td>
+   <td align="right">1,035,030.00</td>
+   <td align="right">1,920.00</td>
+   <td align="right">1,036,950.00</td>
+   <td align="right">1,033,110.00</td>
+   <td align="right">4.78</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PDI</td>
+   <td align="right">-</td>
+   <td align="right">6,000</td>
+   <td align="right">6,000</td>
+   <td align="right">-6,000</td>
+   <td align="right">0.84</td>
+   <td align="right">-</td>
+   <td align="right">105,800.00</td>
+   <td align="right">105,800.00</td>
+   <td align="right">-105,800.00</td>
+   <td align="right">0.84</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PE</td>
+   <td align="right">250,000</td>
+   <td align="right">10,000</td>
+   <td align="right">260,000</td>
+   <td align="right">240,000</td>
+   <td align="right">0.17</td>
+   <td align="right">354,000.00</td>
+   <td align="right">14,200.00</td>
+   <td align="right">368,200.00</td>
+   <td align="right">339,800.00</td>
+   <td align="right">0.17</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PERM</td>
+   <td align="right">449,300</td>
+   <td align="right">531,100</td>
+   <td align="right">980,400</td>
+   <td align="right">-81,800</td>
+   <td align="right">0.84</td>
+   <td align="right">1,381,514.00</td>
+   <td align="right">1,648,832.00</td>
+   <td align="right">3,030,346.00</td>
+   <td align="right">-267,318.00</td>
+   <td align="right">0.84</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PF</td>
+   <td align="right">40,000</td>
+   <td align="right">111,000</td>
+   <td align="right">151,000</td>
+   <td align="right">-71,000</td>
+   <td align="right">0.51</td>
+   <td align="right">54,200.00</td>
+   <td align="right">149,740.00</td>
+   <td align="right">203,940.00</td>
+   <td align="right">-95,540.00</td>
+   <td align="right">0.51</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PL</td>
+   <td align="right">-</td>
+   <td align="right">153,100</td>
+   <td align="right">153,100</td>
+   <td align="right">-153,100</td>
+   <td align="right">11.80</td>
+   <td align="right">-</td>
+   <td align="right">660,438.00</td>
+   <td align="right">660,438.00</td>
+   <td align="right">-660,438.00</td>
+   <td align="right">11.82</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PM</td>
+   <td align="right">-</td>
+   <td align="right">10,100</td>
+   <td align="right">10,100</td>
+   <td align="right">-10,100</td>
+   <td align="right">4.74</td>
+   <td align="right">-</td>
+   <td align="right">101,010.00</td>
+   <td align="right">101,010.00</td>
+   <td align="right">-101,010.00</td>
+   <td align="right">4.75</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PPM</td>
+   <td align="right">-</td>
+   <td align="right">2,400</td>
+   <td align="right">2,400</td>
+   <td align="right">-2,400</td>
+   <td align="right">0.56</td>
+   <td align="right">-</td>
+   <td align="right">20,640.00</td>
+   <td align="right">20,640.00</td>
+   <td align="right">-20,640.00</td>
+   <td align="right">0.56</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PPM-W1</td>
+   <td align="right">-</td>
+   <td align="right">6,700</td>
+   <td align="right">6,700</td>
+   <td align="right">-6,700</td>
+   <td align="right">0.70</td>
+   <td align="right">-</td>
+   <td align="right">17,152.00</td>
+   <td align="right">17,152.00</td>
+   <td align="right">-17,152.00</td>
+   <td align="right">0.68</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PPP</td>
+   <td align="right">-</td>
+   <td align="right">1,700</td>
+   <td align="right">1,700</td>
+   <td align="right">-1,700</td>
+   <td align="right">0.08</td>
+   <td align="right">-</td>
+   <td align="right">11,800.00</td>
+   <td align="right">11,800.00</td>
+   <td align="right">-11,800.00</td>
+   <td align="right">0.08</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PRECHA</td>
+   <td align="right">1,059,200</td>
+   <td align="right">274,200</td>
+   <td align="right">1,333,400</td>
+   <td align="right">785,000</td>
+   <td align="right">0.64</td>
+   <td align="right">2,245,708.00</td>
+   <td align="right">531,219.00</td>
+   <td align="right">2,776,927.00</td>
+   <td align="right">1,714,489.00</td>
+   <td align="right">0.66</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PRIN</td>
+   <td align="right">-</td>
+   <td align="right">23,000</td>
+   <td align="right">23,000</td>
+   <td align="right">-23,000</td>
+   <td align="right">0.06</td>
+   <td align="right">-</td>
+   <td align="right">40,045.00</td>
+   <td align="right">40,045.00</td>
+   <td align="right">-40,045.00</td>
+   <td align="right">0.06</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PRINC</td>
+   <td align="right">933,300</td>
+   <td align="right">762,900</td>
+   <td align="right">1,696,200</td>
+   <td align="right">170,400</td>
+   <td align="right">0.74</td>
+   <td align="right">4,048,662.00</td>
+   <td align="right">3,411,902.00</td>
+   <td align="right">7,460,564.00</td>
+   <td align="right">636,760.00</td>
+   <td align="right">0.73</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PRINC-W1</td>
+   <td align="right">52,300</td>
+   <td align="right">412,800</td>
+   <td align="right">465,100</td>
+   <td align="right">-360,500</td>
+   <td align="right">0.62</td>
+   <td align="right">162,096.00</td>
+   <td align="right">1,390,648.00</td>
+   <td align="right">1,552,744.00</td>
+   <td align="right">-1,228,552.00</td>
+   <td align="right">0.66</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PS</td>
+   <td align="right">554,500</td>
+   <td align="right">94,000</td>
+   <td align="right">648,500</td>
+   <td align="right">460,500</td>
+   <td align="right">18.93</td>
+   <td align="right">18,486,050.00</td>
+   <td align="right">3,128,300.00</td>
+   <td align="right">21,614,350.00</td>
+   <td align="right">15,357,750.00</td>
+   <td align="right">18.92</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PSL</td>
+   <td align="right">45,800</td>
+   <td align="right">216,400</td>
+   <td align="right">262,200</td>
+   <td align="right">-170,600</td>
+   <td align="right">9.69</td>
+   <td align="right">1,113,330.00</td>
+   <td align="right">5,242,100.00</td>
+   <td align="right">6,355,430.00</td>
+   <td align="right">-4,128,770.00</td>
+   <td align="right">9.70</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PTG</td>
+   <td align="right">72,000</td>
+   <td align="right">219,100</td>
+   <td align="right">291,100</td>
+   <td align="right">-147,100</td>
+   <td align="right">0.95</td>
+   <td align="right">380,700.00</td>
+   <td align="right">1,158,465.00</td>
+   <td align="right">1,539,165.00</td>
+   <td align="right">-777,765.00</td>
+   <td align="right">0.94</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PTL</td>
+   <td align="right">39,000</td>
+   <td align="right">27,700</td>
+   <td align="right">66,700</td>
+   <td align="right">11,300</td>
+   <td align="right">3.12</td>
+   <td align="right">507,530.00</td>
+   <td align="right">358,080.00</td>
+   <td align="right">865,610.00</td>
+   <td align="right">149,450.00</td>
+   <td align="right">3.13</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PTT</td>
+   <td align="right">595,842</td>
+   <td align="right">185,800</td>
+   <td align="right">781,642</td>
+   <td align="right">410,042</td>
+   <td align="right">13.65</td>
+   <td align="right">212,193,652.00</td>
+   <td align="right">66,092,800.00</td>
+   <td align="right">278,286,452.00</td>
+   <td align="right">146,100,852.00</td>
+   <td align="right">13.65</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PTTEP</td>
+   <td align="right">771,072</td>
+   <td align="right">64,300</td>
+   <td align="right">835,372</td>
+   <td align="right">706,772</td>
+   <td align="right">26.17</td>
+   <td align="right">126,122,372.00</td>
+   <td align="right">10,496,200.00</td>
+   <td align="right">136,618,572.00</td>
+   <td align="right">115,626,172.00</td>
+   <td align="right">26.18</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PTTGC</td>
+   <td align="right">1,205,307</td>
+   <td align="right">168,800</td>
+   <td align="right">1,374,107</td>
+   <td align="right">1,036,507</td>
+   <td align="right">12.98</td>
+   <td align="right">75,124,452.75</td>
+   <td align="right">10,515,642.00</td>
+   <td align="right">85,640,094.75</td>
+   <td align="right">64,608,810.75</td>
+   <td align="right">12.99</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PYLON</td>
+   <td align="right">8,500</td>
+   <td align="right">-</td>
+   <td align="right">8,500</td>
+   <td align="right">8,500</td>
+   <td align="right">0.46</td>
+   <td align="right">70,375.00</td>
+   <td align="right">-</td>
+   <td align="right">70,375.00</td>
+   <td align="right">70,375.00</td>
+   <td align="right">0.46</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">PYLON-W1</td>
+   <td align="right">-</td>
+   <td align="right">18,400</td>
+   <td align="right">18,400</td>
+   <td align="right">-18,400</td>
+   <td align="right">50.00</td>
+   <td align="right">-</td>
+   <td align="right">140,760.00</td>
+   <td align="right">140,760.00</td>
+   <td align="right">-140,760.00</td>
+   <td align="right">50.00</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">QH</td>
+   <td align="right">249,900</td>
+   <td align="right">426,000</td>
+   <td align="right">675,900</td>
+   <td align="right">-176,100</td>
+   <td align="right">2.56</td>
+   <td align="right">1,061,152.00</td>
+   <td align="right">1,789,300.00</td>
+   <td align="right">2,850,452.00</td>
+   <td align="right">-728,148.00</td>
+   <td align="right">2.56</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">QTC</td>
+   <td align="right">309,200</td>
+   <td align="right">14,300</td>
+   <td align="right">323,500</td>
+   <td align="right">294,900</td>
+   <td align="right">7.45</td>
+   <td align="right">1,813,820.00</td>
+   <td align="right">84,370.00</td>
+   <td align="right">1,898,190.00</td>
+   <td align="right">1,729,450.00</td>
+   <td align="right">7.43</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">RATCH</td>
+   <td align="right">74,600</td>
+   <td align="right">87,000</td>
+   <td align="right">161,600</td>
+   <td align="right">-12,400</td>
+   <td align="right">3.48</td>
+   <td align="right">4,472,625.00</td>
+   <td align="right">5,222,800.00</td>
+   <td align="right">9,695,425.00</td>
+   <td align="right">-750,175.00</td>
+   <td align="right">3.46</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">RCI</td>
+   <td align="right">111,400</td>
+   <td align="right">114,200</td>
+   <td align="right">225,600</td>
+   <td align="right">-2,800</td>
+   <td align="right">0.65</td>
+   <td align="right">389,536.00</td>
+   <td align="right">401,236.00</td>
+   <td align="right">790,772.00</td>
+   <td align="right">-11,700.00</td>
+   <td align="right">0.65</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">RCI-W1</td>
+   <td align="right">24,300</td>
+   <td align="right">29,100</td>
+   <td align="right">53,400</td>
+   <td align="right">-4,800</td>
+   <td align="right">0.20</td>
+   <td align="right">38,880.00</td>
+   <td align="right">43,359.00</td>
+   <td align="right">82,239.00</td>
+   <td align="right">-4,479.00</td>
+   <td align="right">0.20</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">RCL</td>
+   <td align="right">437,100</td>
+   <td align="right">-</td>
+   <td align="right">437,100</td>
+   <td align="right">437,100</td>
+   <td align="right">6.47</td>
+   <td align="right">4,838,060.00</td>
+   <td align="right">-</td>
+   <td align="right">4,838,060.00</td>
+   <td align="right">4,838,060.00</td>
+   <td align="right">6.49</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">RICH</td>
+   <td align="right">2,822,000</td>
+   <td align="right">1,677,700</td>
+   <td align="right">4,499,700</td>
+   <td align="right">1,144,300</td>
+   <td align="right">1.49</td>
+   <td align="right">2,070,800.00</td>
+   <td align="right">1,217,546.00</td>
+   <td align="right">3,288,346.00</td>
+   <td align="right">853,254.00</td>
+   <td align="right">1.49</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">RICHY</td>
+   <td align="right">23,800</td>
+   <td align="right">122,100</td>
+   <td align="right">145,900</td>
+   <td align="right">-98,300</td>
+   <td align="right">0.63</td>
+   <td align="right">94,862.00</td>
+   <td align="right">492,152.00</td>
+   <td align="right">587,014.00</td>
+   <td align="right">-397,290.00</td>
+   <td align="right">0.63</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">RML</td>
+   <td align="right">6,432,100</td>
+   <td align="right">2,200,000</td>
+   <td align="right">8,632,100</td>
+   <td align="right">4,232,100</td>
+   <td align="right">15.29</td>
+   <td align="right">14,327,036.00</td>
+   <td align="right">4,872,000.00</td>
+   <td align="right">19,199,036.00</td>
+   <td align="right">9,455,036.00</td>
+   <td align="right">15.34</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">RML-W3</td>
+   <td align="right">-</td>
+   <td align="right">1,000,000</td>
+   <td align="right">1,000,000</td>
+   <td align="right">-1,000,000</td>
+   <td align="right">3.37</td>
+   <td align="right">-</td>
+   <td align="right">340,000.00</td>
+   <td align="right">340,000.00</td>
+   <td align="right">-340,000.00</td>
+   <td align="right">3.35</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ROBINS</td>
+   <td align="right">4,700</td>
+   <td align="right">17,900</td>
+   <td align="right">22,600</td>
+   <td align="right">-13,200</td>
+   <td align="right">2.06</td>
+   <td align="right">253,800.00</td>
+   <td align="right">970,925.00</td>
+   <td align="right">1,224,725.00</td>
+   <td align="right">-717,125.00</td>
+   <td align="right">2.06</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ROJNA</td>
+   <td align="right">11,600</td>
+   <td align="right">10,000</td>
+   <td align="right">21,600</td>
+   <td align="right">1,600</td>
+   <td align="right">0.52</td>
+   <td align="right">94,290.00</td>
+   <td align="right">81,240.00</td>
+   <td align="right">175,530.00</td>
+   <td align="right">13,050.00</td>
+   <td align="right">0.52</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">RPC</td>
+   <td align="right">169,100</td>
+   <td align="right">597,700</td>
+   <td align="right">766,800</td>
+   <td align="right">-428,600</td>
+   <td align="right">6.15</td>
+   <td align="right">206,181.00</td>
+   <td align="right">725,970.00</td>
+   <td align="right">932,151.00</td>
+   <td align="right">-519,789.00</td>
+   <td align="right">6.15</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">RS</td>
+   <td align="right">408,700</td>
+   <td align="right">101,000</td>
+   <td align="right">509,700</td>
+   <td align="right">307,700</td>
+   <td align="right">6.23</td>
+   <td align="right">3,357,735.00</td>
+   <td align="right">823,200.00</td>
+   <td align="right">4,180,935.00</td>
+   <td align="right">2,534,535.00</td>
+   <td align="right">6.22</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">RWI</td>
+   <td align="right">10,000</td>
+   <td align="right">45,200</td>
+   <td align="right">55,200</td>
+   <td align="right">-35,200</td>
+   <td align="right">0.15</td>
+   <td align="right">46,000.00</td>
+   <td align="right">203,500.00</td>
+   <td align="right">249,500.00</td>
+   <td align="right">-157,500.00</td>
+   <td align="right">0.15</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">S</td>
+   <td align="right">365,800</td>
+   <td align="right">256,100</td>
+   <td align="right">621,900</td>
+   <td align="right">109,700</td>
+   <td align="right">0.47</td>
+   <td align="right">2,967,070.00</td>
+   <td align="right">2,257,950.00</td>
+   <td align="right">5,225,020.00</td>
+   <td align="right">709,120.00</td>
+   <td align="right">0.46</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SAM</td>
+   <td align="right">62,500</td>
+   <td align="right">1,090,000</td>
+   <td align="right">1,152,500</td>
+   <td align="right">-1,027,500</td>
+   <td align="right">1.49</td>
+   <td align="right">133,750.00</td>
+   <td align="right">2,329,160.00</td>
+   <td align="right">2,462,910.00</td>
+   <td align="right">-2,195,410.00</td>
+   <td align="right">1.53</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SAMART</td>
+   <td align="right">1,318,500</td>
+   <td align="right">588,000</td>
+   <td align="right">1,906,500</td>
+   <td align="right">730,500</td>
+   <td align="right">8.07</td>
+   <td align="right">39,679,750.00</td>
+   <td align="right">17,705,375.00</td>
+   <td align="right">57,385,125.00</td>
+   <td align="right">21,974,375.00</td>
+   <td align="right">7.99</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SAMTEL</td>
+   <td align="right">298,100</td>
+   <td align="right">1,900</td>
+   <td align="right">300,000</td>
+   <td align="right">296,200</td>
+   <td align="right">9.13</td>
+   <td align="right">6,926,260.00</td>
+   <td align="right">43,700.00</td>
+   <td align="right">6,969,960.00</td>
+   <td align="right">6,882,560.00</td>
+   <td align="right">9.12</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SAT</td>
+   <td align="right">13,400</td>
+   <td align="right">2,500</td>
+   <td align="right">15,900</td>
+   <td align="right">10,900</td>
+   <td align="right">0.50</td>
+   <td align="right">253,140.00</td>
+   <td align="right">47,450.00</td>
+   <td align="right">300,590.00</td>
+   <td align="right">205,690.00</td>
+   <td align="right">0.50</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SAWAD</td>
+   <td align="right">304,000</td>
+   <td align="right">124,000</td>
+   <td align="right">428,000</td>
+   <td align="right">180,000</td>
+   <td align="right">0.43</td>
+   <td align="right">6,544,050.00</td>
+   <td align="right">2,696,800.00</td>
+   <td align="right">9,240,850.00</td>
+   <td align="right">3,847,250.00</td>
+   <td align="right">0.43</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SC</td>
+   <td align="right">90,200</td>
+   <td align="right">-</td>
+   <td align="right">90,200</td>
+   <td align="right">90,200</td>
+   <td align="right">3.23</td>
+   <td align="right">354,168.00</td>
+   <td align="right">-</td>
+   <td align="right">354,168.00</td>
+   <td align="right">354,168.00</td>
+   <td align="right">3.23</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SCB</td>
+   <td align="right">440,800</td>
+   <td align="right">256,900</td>
+   <td align="right">697,700</td>
+   <td align="right">183,900</td>
+   <td align="right">8.83</td>
+   <td align="right">81,877,100.00</td>
+   <td align="right">47,694,600.00</td>
+   <td align="right">129,571,700.00</td>
+   <td align="right">34,182,500.00</td>
+   <td align="right">8.83</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SCC</td>
+   <td align="right">104,890</td>
+   <td align="right">267,740</td>
+   <td align="right">372,630</td>
+   <td align="right">-162,850</td>
+   <td align="right">21.97</td>
+   <td align="right">46,972,826.00</td>
+   <td align="right">119,661,040.00</td>
+   <td align="right">166,633,866.00</td>
+   <td align="right">-72,688,214.00</td>
+   <td align="right">21.95</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SCCC</td>
+   <td align="right">-</td>
+   <td align="right">21,000</td>
+   <td align="right">21,000</td>
+   <td align="right">-21,000</td>
+   <td align="right">36.95</td>
+   <td align="right">-</td>
+   <td align="right">9,078,200.00</td>
+   <td align="right">9,078,200.00</td>
+   <td align="right">-9,078,200.00</td>
+   <td align="right">36.92</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SCG</td>
+   <td align="right">300</td>
+   <td align="right">-</td>
+   <td align="right">300</td>
+   <td align="right">300</td>
+   <td align="right">0.39</td>
+   <td align="right">1,815.00</td>
+   <td align="right">-</td>
+   <td align="right">1,815.00</td>
+   <td align="right">1,815.00</td>
+   <td align="right">0.40</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SCP</td>
+   <td align="right">39,000</td>
+   <td align="right">4,000</td>
+   <td align="right">43,000</td>
+   <td align="right">35,000</td>
+   <td align="right">2.93</td>
+   <td align="right">487,100.00</td>
+   <td align="right">50,000.00</td>
+   <td align="right">537,100.00</td>
+   <td align="right">437,100.00</td>
+   <td align="right">2.93</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SEAFCO</td>
+   <td align="right">2,000</td>
+   <td align="right">16,800</td>
+   <td align="right">18,800</td>
+   <td align="right">-14,800</td>
+   <td align="right">0.71</td>
+   <td align="right">13,100.00</td>
+   <td align="right">110,040.00</td>
+   <td align="right">123,140.00</td>
+   <td align="right">-96,940.00</td>
+   <td align="right">0.71</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SEAOIL</td>
+   <td align="right">11,900</td>
+   <td align="right">76,800</td>
+   <td align="right">88,700</td>
+   <td align="right">-64,900</td>
+   <td align="right">1.59</td>
+   <td align="right">192,280.00</td>
+   <td align="right">1,247,720.00</td>
+   <td align="right">1,440,000.00</td>
+   <td align="right">-1,055,440.00</td>
+   <td align="right">1.59</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SENA</td>
+   <td align="right">2,800</td>
+   <td align="right">-</td>
+   <td align="right">2,800</td>
+   <td align="right">2,800</td>
+   <td align="right">0.06</td>
+   <td align="right">9,072.00</td>
+   <td align="right">-</td>
+   <td align="right">9,072.00</td>
+   <td align="right">9,072.00</td>
+   <td align="right">0.06</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SF</td>
+   <td align="right">108,406</td>
+   <td align="right">2,500</td>
+   <td align="right">110,906</td>
+   <td align="right">105,906</td>
+   <td align="right">0.85</td>
+   <td align="right">794,253.80</td>
+   <td align="right">18,275.00</td>
+   <td align="right">812,528.80</td>
+   <td align="right">775,978.80</td>
+   <td align="right">0.86</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SGP</td>
+   <td align="right">22,300</td>
+   <td align="right">10,600</td>
+   <td align="right">32,900</td>
+   <td align="right">11,700</td>
+   <td align="right">1.03</td>
+   <td align="right">300,050.00</td>
+   <td align="right">142,040.00</td>
+   <td align="right">442,090.00</td>
+   <td align="right">158,010.00</td>
+   <td align="right">1.03</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SIAM</td>
+   <td align="right">2,000</td>
+   <td align="right">26,000</td>
+   <td align="right">28,000</td>
+   <td align="right">-24,000</td>
+   <td align="right">0.43</td>
+   <td align="right">5,160.00</td>
+   <td align="right">68,640.00</td>
+   <td align="right">73,800.00</td>
+   <td align="right">-63,480.00</td>
+   <td align="right">0.43</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SIM</td>
+   <td align="right">52,000</td>
+   <td align="right">1,926,400</td>
+   <td align="right">1,978,400</td>
+   <td align="right">-1,874,400</td>
+   <td align="right">4.30</td>
+   <td align="right">198,600.00</td>
+   <td align="right">7,333,374.00</td>
+   <td align="right">7,531,974.00</td>
+   <td align="right">-7,134,774.00</td>
+   <td align="right">4.29</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SINGER</td>
+   <td align="right">22,600</td>
+   <td align="right">1,000</td>
+   <td align="right">23,600</td>
+   <td align="right">21,600</td>
+   <td align="right">1.38</td>
+   <td align="right">402,520.00</td>
+   <td align="right">17,800.00</td>
+   <td align="right">420,320.00</td>
+   <td align="right">384,720.00</td>
+   <td align="right">1.38</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SIRI</td>
+   <td align="right">1,574,600</td>
+   <td align="right">189,900</td>
+   <td align="right">1,764,500</td>
+   <td align="right">1,384,700</td>
+   <td align="right">1.12</td>
+   <td align="right">3,436,344.00</td>
+   <td align="right">415,002.00</td>
+   <td align="right">3,851,346.00</td>
+   <td align="right">3,021,342.00</td>
+   <td align="right">1.11</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SITHAI</td>
+   <td align="right">200,000</td>
+   <td align="right">263,400</td>
+   <td align="right">463,400</td>
+   <td align="right">-63,400</td>
+   <td align="right">2.56</td>
+   <td align="right">572,000.00</td>
+   <td align="right">751,324.00</td>
+   <td align="right">1,323,324.00</td>
+   <td align="right">-179,324.00</td>
+   <td align="right">2.56</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SKR</td>
+   <td align="right">14,000</td>
+   <td align="right">1,600</td>
+   <td align="right">15,600</td>
+   <td align="right">12,400</td>
+   <td align="right">13.38</td>
+   <td align="right">1,168,175.00</td>
+   <td align="right">132,950.00</td>
+   <td align="right">1,301,125.00</td>
+   <td align="right">1,035,225.00</td>
+   <td align="right">13.38</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SLC</td>
+   <td align="right">29,226,500</td>
+   <td align="right">1,214,000</td>
+   <td align="right">30,440,500</td>
+   <td align="right">28,012,500</td>
+   <td align="right">12.08</td>
+   <td align="right">5,845,333.00</td>
+   <td align="right">242,800.00</td>
+   <td align="right">6,088,133.00</td>
+   <td align="right">5,602,533.00</td>
+   <td align="right">12.09</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SLC-W1</td>
+   <td align="right">1,000</td>
+   <td align="right">-</td>
+   <td align="right">1,000</td>
+   <td align="right">1,000</td>
+   <td align="right">0.06</td>
+   <td align="right">60.00</td>
+   <td align="right">-</td>
+   <td align="right">60.00</td>
+   <td align="right">60.00</td>
+   <td align="right">0.06</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SLC-W2</td>
+   <td align="right">1,000</td>
+   <td align="right">-</td>
+   <td align="right">1,000</td>
+   <td align="right">1,000</td>
+   <td align="right">0.02</td>
+   <td align="right">50.00</td>
+   <td align="right">-</td>
+   <td align="right">50.00</td>
+   <td align="right">50.00</td>
+   <td align="right">0.02</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SLC-W3</td>
+   <td align="right">1,000</td>
+   <td align="right">-</td>
+   <td align="right">1,000</td>
+   <td align="right">1,000</td>
+   <td align="right">0.01</td>
+   <td align="right">120.00</td>
+   <td align="right">-</td>
+   <td align="right">120.00</td>
+   <td align="right">120.00</td>
+   <td align="right">0.01</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SMM</td>
+   <td align="right">57,200</td>
+   <td align="right">1,100</td>
+   <td align="right">58,300</td>
+   <td align="right">56,100</td>
+   <td align="right">0.52</td>
+   <td align="right">114,368.00</td>
+   <td align="right">2,226.00</td>
+   <td align="right">116,594.00</td>
+   <td align="right">112,142.00</td>
+   <td align="right">0.52</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SMT</td>
+   <td align="right">5,000</td>
+   <td align="right">-</td>
+   <td align="right">5,000</td>
+   <td align="right">5,000</td>
+   <td align="right">0.87</td>
+   <td align="right">33,750.00</td>
+   <td align="right">-</td>
+   <td align="right">33,750.00</td>
+   <td align="right">33,750.00</td>
+   <td align="right">0.88</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SNP</td>
+   <td align="right">-</td>
+   <td align="right">300</td>
+   <td align="right">300</td>
+   <td align="right">-300</td>
+   <td align="right">0.66</td>
+   <td align="right">-</td>
+   <td align="right">8,025.00</td>
+   <td align="right">8,025.00</td>
+   <td align="right">-8,025.00</td>
+   <td align="right">0.66</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SOLAR</td>
+   <td align="right">15,600</td>
+   <td align="right">6,700</td>
+   <td align="right">22,300</td>
+   <td align="right">8,900</td>
+   <td align="right">0.19</td>
+   <td align="right">139,330.00</td>
+   <td align="right">60,000.00</td>
+   <td align="right">199,330.00</td>
+   <td align="right">79,330.00</td>
+   <td align="right">0.19</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SPALI</td>
+   <td align="right">468,700</td>
+   <td align="right">521,000</td>
+   <td align="right">989,700</td>
+   <td align="right">-52,300</td>
+   <td align="right">16.36</td>
+   <td align="right">12,047,600.00</td>
+   <td align="right">13,424,875.00</td>
+   <td align="right">25,472,475.00</td>
+   <td align="right">-1,377,275.00</td>
+   <td align="right">16.38</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SPCG</td>
+   <td align="right">223,100</td>
+   <td align="right">57,700</td>
+   <td align="right">280,800</td>
+   <td align="right">165,400</td>
+   <td align="right">11.08</td>
+   <td align="right">5,856,350.00</td>
+   <td align="right">1,507,550.00</td>
+   <td align="right">7,363,900.00</td>
+   <td align="right">4,348,800.00</td>
+   <td align="right">11.10</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SPORT</td>
+   <td align="right">33,100</td>
+   <td align="right">1,400</td>
+   <td align="right">34,500</td>
+   <td align="right">31,700</td>
+   <td align="right">0.16</td>
+   <td align="right">78,246.00</td>
+   <td align="right">3,380.00</td>
+   <td align="right">81,626.00</td>
+   <td align="right">74,866.00</td>
+   <td align="right">0.16</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SPVI</td>
+   <td align="right">3,450,000</td>
+   <td align="right">13,000</td>
+   <td align="right">3,463,000</td>
+   <td align="right">3,437,000</td>
+   <td align="right">29.35</td>
+   <td align="right">6,141,000.00</td>
+   <td align="right">23,140.00</td>
+   <td align="right">6,164,140.00</td>
+   <td align="right">6,117,860.00</td>
+   <td align="right">29.35</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SRICHA</td>
+   <td align="right">3,700</td>
+   <td align="right">7,400</td>
+   <td align="right">11,100</td>
+   <td align="right">-3,700</td>
+   <td align="right">1.60</td>
+   <td align="right">136,500.00</td>
+   <td align="right">271,350.00</td>
+   <td align="right">407,850.00</td>
+   <td align="right">-134,850.00</td>
+   <td align="right">1.60</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SSI</td>
+   <td align="right">1,582,100</td>
+   <td align="right">140,000</td>
+   <td align="right">1,722,100</td>
+   <td align="right">1,442,100</td>
+   <td align="right">1.42</td>
+   <td align="right">543,735.00</td>
+   <td align="right">49,000.00</td>
+   <td align="right">592,735.00</td>
+   <td align="right">494,735.00</td>
+   <td align="right">1.39</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SST</td>
+   <td align="right">24,000</td>
+   <td align="right">44,900</td>
+   <td align="right">68,900</td>
+   <td align="right">-20,900</td>
+   <td align="right">1.40</td>
+   <td align="right">676,950.00</td>
+   <td align="right">1,279,275.00</td>
+   <td align="right">1,956,225.00</td>
+   <td align="right">-602,325.00</td>
+   <td align="right">1.39</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">STA</td>
+   <td align="right">92,800</td>
+   <td align="right">150,700</td>
+   <td align="right">243,500</td>
+   <td align="right">-57,900</td>
+   <td align="right">5.07</td>
+   <td align="right">1,316,660.00</td>
+   <td align="right">2,138,080.00</td>
+   <td align="right">3,454,740.00</td>
+   <td align="right">-821,420.00</td>
+   <td align="right">5.08</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">STANLY</td>
+   <td align="right">3,000</td>
+   <td align="right">-</td>
+   <td align="right">3,000</td>
+   <td align="right">3,000</td>
+   <td align="right">8.98</td>
+   <td align="right">663,000.00</td>
+   <td align="right">-</td>
+   <td align="right">663,000.00</td>
+   <td align="right">663,000.00</td>
+   <td align="right">8.98</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">STEC</td>
+   <td align="right">782,108</td>
+   <td align="right">408,000</td>
+   <td align="right">1,190,108</td>
+   <td align="right">374,108</td>
+   <td align="right">4.39</td>
+   <td align="right">21,130,716.00</td>
+   <td align="right">11,055,000.00</td>
+   <td align="right">32,185,716.00</td>
+   <td align="right">10,075,716.00</td>
+   <td align="right">4.39</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">STPI</td>
+   <td align="right">66,100</td>
+   <td align="right">22,800</td>
+   <td align="right">88,900</td>
+   <td align="right">43,300</td>
+   <td align="right">0.79</td>
+   <td align="right">1,503,570.00</td>
+   <td align="right">518,270.00</td>
+   <td align="right">2,021,840.00</td>
+   <td align="right">985,300.00</td>
+   <td align="right">0.79</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SUC</td>
+   <td align="right">-</td>
+   <td align="right">14,600</td>
+   <td align="right">14,600</td>
+   <td align="right">-14,600</td>
+   <td align="right">18.91</td>
+   <td align="right">-</td>
+   <td align="right">627,800.00</td>
+   <td align="right">627,800.00</td>
+   <td align="right">-627,800.00</td>
+   <td align="right">18.93</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SUPER</td>
+   <td align="right">252,900</td>
+   <td align="right">130,000</td>
+   <td align="right">382,900</td>
+   <td align="right">122,900</td>
+   <td align="right">1.41</td>
+   <td align="right">2,582,050.00</td>
+   <td align="right">1,345,600.00</td>
+   <td align="right">3,927,650.00</td>
+   <td align="right">1,236,450.00</td>
+   <td align="right">1.41</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SUPER-W1</td>
+   <td align="right">5,000</td>
+   <td align="right">15,033</td>
+   <td align="right">20,033</td>
+   <td align="right">-10,033</td>
+   <td align="right">0.60</td>
+   <td align="right">31,250.00</td>
+   <td align="right">93,954.60</td>
+   <td align="right">125,204.60</td>
+   <td align="right">-62,704.60</td>
+   <td align="right">0.60</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SUSCO</td>
+   <td align="right">442,200</td>
+   <td align="right">2,308,700</td>
+   <td align="right">2,750,900</td>
+   <td align="right">-1,866,500</td>
+   <td align="right">0.69</td>
+   <td align="right">2,062,088.00</td>
+   <td align="right">11,000,252.00</td>
+   <td align="right">13,062,340.00</td>
+   <td align="right">-8,938,164.00</td>
+   <td align="right">0.71</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SUTHA</td>
+   <td align="right">-</td>
+   <td align="right">15,000</td>
+   <td align="right">15,000</td>
+   <td align="right">-15,000</td>
+   <td align="right">0.11</td>
+   <td align="right">-</td>
+   <td align="right">133,500.00</td>
+   <td align="right">133,500.00</td>
+   <td align="right">-133,500.00</td>
+   <td align="right">0.11</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SVI</td>
+   <td align="right">357,500</td>
+   <td align="right">6,964,700</td>
+   <td align="right">7,322,200</td>
+   <td align="right">-6,607,200</td>
+   <td align="right">14.41</td>
+   <td align="right">1,769,538.00</td>
+   <td align="right">34,336,666.00</td>
+   <td align="right">36,106,204.00</td>
+   <td align="right">-32,567,128.00</td>
+   <td align="right">14.39</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SVOA</td>
+   <td align="right">-</td>
+   <td align="right">11,600</td>
+   <td align="right">11,600</td>
+   <td align="right">-11,600</td>
+   <td align="right">0.06</td>
+   <td align="right">-</td>
+   <td align="right">21,321.00</td>
+   <td align="right">21,321.00</td>
+   <td align="right">-21,321.00</td>
+   <td align="right">0.06</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SYNEX</td>
+   <td align="right">50,000</td>
+   <td align="right">-</td>
+   <td align="right">50,000</td>
+   <td align="right">50,000</td>
+   <td align="right">6.62</td>
+   <td align="right">153,000.00</td>
+   <td align="right">-</td>
+   <td align="right">153,000.00</td>
+   <td align="right">153,000.00</td>
+   <td align="right">6.65</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">SYNTEC</td>
+   <td align="right">720,000</td>
+   <td align="right">68,200</td>
+   <td align="right">788,200</td>
+   <td align="right">651,800</td>
+   <td align="right">5.15</td>
+   <td align="right">1,819,556.00</td>
+   <td align="right">171,772.00</td>
+   <td align="right">1,991,328.00</td>
+   <td align="right">1,647,784.00</td>
+   <td align="right">5.17</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TAE</td>
+   <td align="right">65,100</td>
+   <td align="right">761,600</td>
+   <td align="right">826,700</td>
+   <td align="right">-696,500</td>
+   <td align="right">6.31</td>
+   <td align="right">318,990.00</td>
+   <td align="right">3,731,840.00</td>
+   <td align="right">4,050,830.00</td>
+   <td align="right">-3,412,850.00</td>
+   <td align="right">6.31</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TAKUNI</td>
+   <td align="right">1,000</td>
+   <td align="right">-</td>
+   <td align="right">1,000</td>
+   <td align="right">1,000</td>
+   <td align="right">0.03</td>
+   <td align="right">3,080.00</td>
+   <td align="right">-</td>
+   <td align="right">3,080.00</td>
+   <td align="right">3,080.00</td>
+   <td align="right">0.03</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TAPAC</td>
+   <td align="right">44,200</td>
+   <td align="right">19,700</td>
+   <td align="right">63,900</td>
+   <td align="right">24,500</td>
+   <td align="right">1.27</td>
+   <td align="right">141,356.00</td>
+   <td align="right">63,828.00</td>
+   <td align="right">205,184.00</td>
+   <td align="right">77,528.00</td>
+   <td align="right">1.27</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TAPAC-W2</td>
+   <td align="right">1,000</td>
+   <td align="right">-</td>
+   <td align="right">1,000</td>
+   <td align="right">1,000</td>
+   <td align="right">0.34</td>
+   <td align="right">1,130.00</td>
+   <td align="right">-</td>
+   <td align="right">1,130.00</td>
+   <td align="right">1,130.00</td>
+   <td align="right">0.34</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TASCO</td>
+   <td align="right">5,000</td>
+   <td align="right">24,100</td>
+   <td align="right">29,100</td>
+   <td align="right">-19,100</td>
+   <td align="right">6.38</td>
+   <td align="right">290,000.00</td>
+   <td align="right">1,396,675.00</td>
+   <td align="right">1,686,675.00</td>
+   <td align="right">-1,106,675.00</td>
+   <td align="right">6.35</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TCAP</td>
+   <td align="right">58,100</td>
+   <td align="right">43,400</td>
+   <td align="right">101,500</td>
+   <td align="right">14,700</td>
+   <td align="right">2.12</td>
+   <td align="right">2,187,775.00</td>
+   <td align="right">1,630,050.00</td>
+   <td align="right">3,817,825.00</td>
+   <td align="right">557,725.00</td>
+   <td align="right">2.12</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TCC</td>
+   <td align="right">9,471,000</td>
+   <td align="right">1,466,100</td>
+   <td align="right">10,937,100</td>
+   <td align="right">8,004,900</td>
+   <td align="right">4.09</td>
+   <td align="right">20,211,323.00</td>
+   <td align="right">3,095,486.00</td>
+   <td align="right">23,306,809.00</td>
+   <td align="right">17,115,837.00</td>
+   <td align="right">4.12</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TCCC</td>
+   <td align="right">-</td>
+   <td align="right">1,400</td>
+   <td align="right">1,400</td>
+   <td align="right">-1,400</td>
+   <td align="right">4.00</td>
+   <td align="right">-</td>
+   <td align="right">41,750.00</td>
+   <td align="right">41,750.00</td>
+   <td align="right">-41,750.00</td>
+   <td align="right">4.00</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TCC-W1</td>
+   <td align="right">300</td>
+   <td align="right">5,000</td>
+   <td align="right">5,300</td>
+   <td align="right">-4,700</td>
+   <td align="right">0.51</td>
+   <td align="right">417.00</td>
+   <td align="right">7,550.00</td>
+   <td align="right">7,967.00</td>
+   <td align="right">-7,133.00</td>
+   <td align="right">0.55</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TCC-W2</td>
+   <td align="right">300</td>
+   <td align="right">-</td>
+   <td align="right">300</td>
+   <td align="right">300</td>
+   <td align="right">0.01</td>
+   <td align="right">451.00</td>
+   <td align="right">-</td>
+   <td align="right">451.00</td>
+   <td align="right">451.00</td>
+   <td align="right">0.01</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TCC-W3</td>
+   <td align="right">-</td>
+   <td align="right">5,300</td>
+   <td align="right">5,300</td>
+   <td align="right">-5,300</td>
+   <td align="right">0.02</td>
+   <td align="right">-</td>
+   <td align="right">6,929.00</td>
+   <td align="right">6,929.00</td>
+   <td align="right">-6,929.00</td>
+   <td align="right">0.02</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TCC-W4</td>
+   <td align="right">560,200</td>
+   <td align="right">223,800</td>
+   <td align="right">784,000</td>
+   <td align="right">336,400</td>
+   <td align="right">0.28</td>
+   <td align="right">745,464.00</td>
+   <td align="right">292,188.00</td>
+   <td align="right">1,037,652.00</td>
+   <td align="right">453,276.00</td>
+   <td align="right">0.27</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TCJ</td>
+   <td align="right">1,000</td>
+   <td align="right">1,000</td>
+   <td align="right">2,000</td>
+   <td align="right">-</td>
+   <td align="right">0.01</td>
+   <td align="right">14,640.00</td>
+   <td align="right">15,000.00</td>
+   <td align="right">29,640.00</td>
+   <td align="right">-360.00</td>
+   <td align="right">0.01</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TCMC</td>
+   <td align="right">2,600</td>
+   <td align="right">5,100</td>
+   <td align="right">7,700</td>
+   <td align="right">-2,500</td>
+   <td align="right">0.14</td>
+   <td align="right">6,916.00</td>
+   <td align="right">13,668.00</td>
+   <td align="right">20,584.00</td>
+   <td align="right">-6,752.00</td>
+   <td align="right">0.14</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TF</td>
+   <td align="right">-</td>
+   <td align="right">200</td>
+   <td align="right">200</td>
+   <td align="right">-200</td>
+   <td align="right">4.76</td>
+   <td align="right">-</td>
+   <td align="right">36,800.00</td>
+   <td align="right">36,800.00</td>
+   <td align="right">-36,800.00</td>
+   <td align="right">4.78</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TFD</td>
+   <td align="right">242,700</td>
+   <td align="right">67,800</td>
+   <td align="right">310,500</td>
+   <td align="right">174,900</td>
+   <td align="right">0.56</td>
+   <td align="right">1,689,165.00</td>
+   <td align="right">485,595.00</td>
+   <td align="right">2,174,760.00</td>
+   <td align="right">1,203,570.00</td>
+   <td align="right">0.55</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TFD-W2</td>
+   <td align="right">13,599</td>
+   <td align="right">58,400</td>
+   <td align="right">71,999</td>
+   <td align="right">-44,801</td>
+   <td align="right">0.49</td>
+   <td align="right">40,797.00</td>
+   <td align="right">173,906.00</td>
+   <td align="right">214,703.00</td>
+   <td align="right">-133,109.00</td>
+   <td align="right">0.48</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TGPRO</td>
+   <td align="right">300,100</td>
+   <td align="right">336,100</td>
+   <td align="right">636,200</td>
+   <td align="right">-36,000</td>
+   <td align="right">0.31</td>
+   <td align="right">207,069.00</td>
+   <td align="right">234,569.00</td>
+   <td align="right">441,638.00</td>
+   <td align="right">-27,500.00</td>
+   <td align="right">0.31</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TH</td>
+   <td align="right">-</td>
+   <td align="right">30,000</td>
+   <td align="right">30,000</td>
+   <td align="right">-30,000</td>
+   <td align="right">0.12</td>
+   <td align="right">-</td>
+   <td align="right">80,400.00</td>
+   <td align="right">80,400.00</td>
+   <td align="right">-80,400.00</td>
+   <td align="right">0.12</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">THAI</td>
+   <td align="right">308,200</td>
+   <td align="right">613,700</td>
+   <td align="right">921,900</td>
+   <td align="right">-305,500</td>
+   <td align="right">7.78</td>
+   <td align="right">4,549,810.00</td>
+   <td align="right">9,064,900.00</td>
+   <td align="right">13,614,710.00</td>
+   <td align="right">-4,515,090.00</td>
+   <td align="right">7.81</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">THANA</td>
+   <td align="right">24,200</td>
+   <td align="right">178,300</td>
+   <td align="right">202,500</td>
+   <td align="right">-154,100</td>
+   <td align="right">0.88</td>
+   <td align="right">80,852.00</td>
+   <td align="right">588,008.00</td>
+   <td align="right">668,860.00</td>
+   <td align="right">-507,156.00</td>
+   <td align="right">0.89</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">THCOM</td>
+   <td align="right">33,300</td>
+   <td align="right">272,100</td>
+   <td align="right">305,400</td>
+   <td align="right">-238,800</td>
+   <td align="right">1.36</td>
+   <td align="right">1,350,075.00</td>
+   <td align="right">11,005,025.00</td>
+   <td align="right">12,355,100.00</td>
+   <td align="right">-9,654,950.00</td>
+   <td align="right">1.36</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">THE</td>
+   <td align="right">-</td>
+   <td align="right">18,400</td>
+   <td align="right">18,400</td>
+   <td align="right">-18,400</td>
+   <td align="right">0.56</td>
+   <td align="right">-</td>
+   <td align="right">92,920.00</td>
+   <td align="right">92,920.00</td>
+   <td align="right">-92,920.00</td>
+   <td align="right">0.53</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">THRE</td>
+   <td align="right">140,100</td>
+   <td align="right">160,000</td>
+   <td align="right">300,100</td>
+   <td align="right">-19,900</td>
+   <td align="right">6.74</td>
+   <td align="right">498,920.00</td>
+   <td align="right">572,500.00</td>
+   <td align="right">1,071,420.00</td>
+   <td align="right">-73,580.00</td>
+   <td align="right">6.77</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">THREL</td>
+   <td align="right">334,004</td>
+   <td align="right">336,400</td>
+   <td align="right">670,404</td>
+   <td align="right">-2,396</td>
+   <td align="right">47.86</td>
+   <td align="right">5,653,151.20</td>
+   <td align="right">5,693,643.60</td>
+   <td align="right">11,346,794.80</td>
+   <td align="right">-40,492.40</td>
+   <td align="right">47.86</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TICON</td>
+   <td align="right">77,700</td>
+   <td align="right">65,700</td>
+   <td align="right">143,400</td>
+   <td align="right">12,000</td>
+   <td align="right">0.87</td>
+   <td align="right">1,427,010.00</td>
+   <td align="right">1,211,920.00</td>
+   <td align="right">2,638,930.00</td>
+   <td align="right">215,090.00</td>
+   <td align="right">0.87</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TIES</td>
+   <td align="right">105,000</td>
+   <td align="right">10,000</td>
+   <td align="right">115,000</td>
+   <td align="right">95,000</td>
+   <td align="right">0.73</td>
+   <td align="right">76,650.00</td>
+   <td align="right">7,300.00</td>
+   <td align="right">83,950.00</td>
+   <td align="right">69,350.00</td>
+   <td align="right">0.73</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TIPCO</td>
+   <td align="right">3,000</td>
+   <td align="right">-</td>
+   <td align="right">3,000</td>
+   <td align="right">3,000</td>
+   <td align="right">0.15</td>
+   <td align="right">22,800.00</td>
+   <td align="right">-</td>
+   <td align="right">22,800.00</td>
+   <td align="right">22,800.00</td>
+   <td align="right">0.15</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TISCO</td>
+   <td align="right">688,900</td>
+   <td align="right">41,500</td>
+   <td align="right">730,400</td>
+   <td align="right">647,400</td>
+   <td align="right">32.53</td>
+   <td align="right">31,935,225.00</td>
+   <td align="right">1,912,125.00</td>
+   <td align="right">33,847,350.00</td>
+   <td align="right">30,023,100.00</td>
+   <td align="right">32.58</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TIW</td>
+   <td align="right">-</td>
+   <td align="right">100</td>
+   <td align="right">100</td>
+   <td align="right">-100</td>
+   <td align="right">8.33</td>
+   <td align="right">-</td>
+   <td align="right">11,150.00</td>
+   <td align="right">11,150.00</td>
+   <td align="right">-11,150.00</td>
+   <td align="right">8.40</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TKS</td>
+   <td align="right">3,000</td>
+   <td align="right">-</td>
+   <td align="right">3,000</td>
+   <td align="right">3,000</td>
+   <td align="right">0.15</td>
+   <td align="right">33,900.00</td>
+   <td align="right">-</td>
+   <td align="right">33,900.00</td>
+   <td align="right">33,900.00</td>
+   <td align="right">0.15</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TLUXE-W2</td>
+   <td align="right">800</td>
+   <td align="right">-</td>
+   <td align="right">800</td>
+   <td align="right">800</td>
+   <td align="right">0.06</td>
+   <td align="right">392.00</td>
+   <td align="right">-</td>
+   <td align="right">392.00</td>
+   <td align="right">392.00</td>
+   <td align="right">0.06</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TMB</td>
+   <td align="right">1,360,000</td>
+   <td align="right">1,947,600</td>
+   <td align="right">3,307,600</td>
+   <td align="right">-587,600</td>
+   <td align="right">0.85</td>
+   <td align="right">4,221,058.00</td>
+   <td align="right">6,036,520.00</td>
+   <td align="right">10,257,578.00</td>
+   <td align="right">-1,815,462.00</td>
+   <td align="right">0.85</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TMI</td>
+   <td align="right">35,200</td>
+   <td align="right">42,500</td>
+   <td align="right">77,700</td>
+   <td align="right">-7,300</td>
+   <td align="right">0.16</td>
+   <td align="right">82,320.00</td>
+   <td align="right">98,620.00</td>
+   <td align="right">180,940.00</td>
+   <td align="right">-16,300.00</td>
+   <td align="right">0.15</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TMILL</td>
+   <td align="right">-</td>
+   <td align="right">5,000</td>
+   <td align="right">5,000</td>
+   <td align="right">-5,000</td>
+   <td align="right">0.37</td>
+   <td align="right">-</td>
+   <td align="right">18,500.00</td>
+   <td align="right">18,500.00</td>
+   <td align="right">-18,500.00</td>
+   <td align="right">0.37</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TMI-W1</td>
+   <td align="right">-</td>
+   <td align="right">17,000</td>
+   <td align="right">17,000</td>
+   <td align="right">-17,000</td>
+   <td align="right">0.60</td>
+   <td align="right">-</td>
+   <td align="right">30,940.00</td>
+   <td align="right">30,940.00</td>
+   <td align="right">-30,940.00</td>
+   <td align="right">0.61</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TMT</td>
+   <td align="right">-</td>
+   <td align="right">2,200</td>
+   <td align="right">2,200</td>
+   <td align="right">-2,200</td>
+   <td align="right">0.84</td>
+   <td align="right">-</td>
+   <td align="right">23,980.00</td>
+   <td align="right">23,980.00</td>
+   <td align="right">-23,980.00</td>
+   <td align="right">0.83</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TMW</td>
+   <td align="right">200</td>
+   <td align="right">5,000</td>
+   <td align="right">5,200</td>
+   <td align="right">-4,800</td>
+   <td align="right">9.56</td>
+   <td align="right">5,900.00</td>
+   <td align="right">147,500.00</td>
+   <td align="right">153,400.00</td>
+   <td align="right">-141,600.00</td>
+   <td align="right">9.56</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TOG</td>
+   <td align="right">19,000</td>
+   <td align="right">18,300</td>
+   <td align="right">37,300</td>
+   <td align="right">700</td>
+   <td align="right">1.28</td>
+   <td align="right">124,500.00</td>
+   <td align="right">120,120.00</td>
+   <td align="right">244,620.00</td>
+   <td align="right">4,380.00</td>
+   <td align="right">1.28</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TOP</td>
+   <td align="right">89,002</td>
+   <td align="right">647,900</td>
+   <td align="right">736,902</td>
+   <td align="right">-558,898</td>
+   <td align="right">18.98</td>
+   <td align="right">4,635,954.00</td>
+   <td align="right">33,702,000.00</td>
+   <td align="right">38,337,954.00</td>
+   <td align="right">-29,066,046.00</td>
+   <td align="right">18.98</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TPC</td>
+   <td align="right">1,000</td>
+   <td align="right">-</td>
+   <td align="right">1,000</td>
+   <td align="right">1,000</td>
+   <td align="right">2.11</td>
+   <td align="right">29,750.00</td>
+   <td align="right">-</td>
+   <td align="right">29,750.00</td>
+   <td align="right">29,750.00</td>
+   <td align="right">2.11</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TPIPL</td>
+   <td align="right">725,300</td>
+   <td align="right">1,101,000</td>
+   <td align="right">1,826,300</td>
+   <td align="right">-375,700</td>
+   <td align="right">4.52</td>
+   <td align="right">14,156,910.00</td>
+   <td align="right">21,500,390.00</td>
+   <td align="right">35,657,300.00</td>
+   <td align="right">-7,343,480.00</td>
+   <td align="right">4.52</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TPOLY</td>
+   <td align="right">-</td>
+   <td align="right">2,100</td>
+   <td align="right">2,100</td>
+   <td align="right">-2,100</td>
+   <td align="right">0.03</td>
+   <td align="right">-</td>
+   <td align="right">7,014.00</td>
+   <td align="right">7,014.00</td>
+   <td align="right">-7,014.00</td>
+   <td align="right">0.03</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TPP</td>
+   <td align="right">-</td>
+   <td align="right">1,500</td>
+   <td align="right">1,500</td>
+   <td align="right">-1,500</td>
+   <td align="right">0.83</td>
+   <td align="right">-</td>
+   <td align="right">31,300.00</td>
+   <td align="right">31,300.00</td>
+   <td align="right">-31,300.00</td>
+   <td align="right">0.82</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TRC</td>
+   <td align="right">50,600</td>
+   <td align="right">478,000</td>
+   <td align="right">528,600</td>
+   <td align="right">-427,400</td>
+   <td align="right">6.25</td>
+   <td align="right">205,638.00</td>
+   <td align="right">1,941,096.00</td>
+   <td align="right">2,146,734.00</td>
+   <td align="right">-1,735,458.00</td>
+   <td align="right">6.25</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TRT</td>
+   <td align="right">10,000</td>
+   <td align="right">70,000</td>
+   <td align="right">80,000</td>
+   <td align="right">-60,000</td>
+   <td align="right">4.59</td>
+   <td align="right">56,500.00</td>
+   <td align="right">392,000.00</td>
+   <td align="right">448,500.00</td>
+   <td align="right">-335,500.00</td>
+   <td align="right">4.54</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TRU</td>
+   <td align="right">-</td>
+   <td align="right">1,000</td>
+   <td align="right">1,000</td>
+   <td align="right">-1,000</td>
+   <td align="right">0.03</td>
+   <td align="right">-</td>
+   <td align="right">5,550.00</td>
+   <td align="right">5,550.00</td>
+   <td align="right">-5,550.00</td>
+   <td align="right">0.03</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TRUBB</td>
+   <td align="right">-</td>
+   <td align="right">5,000</td>
+   <td align="right">5,000</td>
+   <td align="right">-5,000</td>
+   <td align="right">0.01</td>
+   <td align="right">-</td>
+   <td align="right">10,300.00</td>
+   <td align="right">10,300.00</td>
+   <td align="right">-10,300.00</td>
+   <td align="right">0.02</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TRUE</td>
+   <td align="right">3,636,600</td>
+   <td align="right">7,398,100</td>
+   <td align="right">11,034,700</td>
+   <td align="right">-3,761,500</td>
+   <td align="right">5.18</td>
+   <td align="right">45,025,106.00</td>
+   <td align="right">91,605,856.00</td>
+   <td align="right">136,630,962.00</td>
+   <td align="right">-46,580,750.00</td>
+   <td align="right">5.19</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TSC</td>
+   <td align="right">-</td>
+   <td align="right">100</td>
+   <td align="right">100</td>
+   <td align="right">-100</td>
+   <td align="right">25.00</td>
+   <td align="right">-</td>
+   <td align="right">1,490.00</td>
+   <td align="right">1,490.00</td>
+   <td align="right">-1,490.00</td>
+   <td align="right">24.92</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TSF</td>
+   <td align="right">40,000</td>
+   <td align="right">50,000</td>
+   <td align="right">90,000</td>
+   <td align="right">-10,000</td>
+   <td align="right">0.05</td>
+   <td align="right">24,900.00</td>
+   <td align="right">31,000.00</td>
+   <td align="right">55,900.00</td>
+   <td align="right">-6,100.00</td>
+   <td align="right">0.05</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TSR</td>
+   <td align="right">1,100</td>
+   <td align="right">-</td>
+   <td align="right">1,100</td>
+   <td align="right">1,100</td>
+   <td align="right">0.05</td>
+   <td align="right">9,405.00</td>
+   <td align="right">-</td>
+   <td align="right">9,405.00</td>
+   <td align="right">9,405.00</td>
+   <td align="right">0.05</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TTA</td>
+   <td align="right">1,871,100</td>
+   <td align="right">650,200</td>
+   <td align="right">2,521,300</td>
+   <td align="right">1,220,900</td>
+   <td align="right">7.12</td>
+   <td align="right">43,287,286.00</td>
+   <td align="right">15,031,026.00</td>
+   <td align="right">58,318,312.00</td>
+   <td align="right">28,256,260.00</td>
+   <td align="right">7.13</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TTCL</td>
+   <td align="right">260,400</td>
+   <td align="right">84,000</td>
+   <td align="right">344,400</td>
+   <td align="right">176,400</td>
+   <td align="right">25.32</td>
+   <td align="right">8,319,800.00</td>
+   <td align="right">2,687,725.00</td>
+   <td align="right">11,007,525.00</td>
+   <td align="right">5,632,075.00</td>
+   <td align="right">25.32</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TTW</td>
+   <td align="right">205,100</td>
+   <td align="right">272,800</td>
+   <td align="right">477,900</td>
+   <td align="right">-67,700</td>
+   <td align="right">12.44</td>
+   <td align="right">2,432,070.00</td>
+   <td align="right">3,207,840.00</td>
+   <td align="right">5,639,910.00</td>
+   <td align="right">-775,770.00</td>
+   <td align="right">12.42</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TUF</td>
+   <td align="right">33,900</td>
+   <td align="right">187,100</td>
+   <td align="right">221,000</td>
+   <td align="right">-153,200</td>
+   <td align="right">5.15</td>
+   <td align="right">2,488,475.00</td>
+   <td align="right">13,677,600.00</td>
+   <td align="right">16,166,075.00</td>
+   <td align="right">-11,189,125.00</td>
+   <td align="right">5.13</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TVD</td>
+   <td align="right">-</td>
+   <td align="right">28,400</td>
+   <td align="right">28,400</td>
+   <td align="right">-28,400</td>
+   <td align="right">0.51</td>
+   <td align="right">-</td>
+   <td align="right">143,915.00</td>
+   <td align="right">143,915.00</td>
+   <td align="right">-143,915.00</td>
+   <td align="right">0.51</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TVO</td>
+   <td align="right">24,000</td>
+   <td align="right">53,000</td>
+   <td align="right">77,000</td>
+   <td align="right">-29,000</td>
+   <td align="right">4.44</td>
+   <td align="right">553,390.00</td>
+   <td align="right">1,218,190.00</td>
+   <td align="right">1,771,580.00</td>
+   <td align="right">-664,800.00</td>
+   <td align="right">4.44</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TWP</td>
+   <td align="right">-</td>
+   <td align="right">1,300</td>
+   <td align="right">1,300</td>
+   <td align="right">-1,300</td>
+   <td align="right">2.30</td>
+   <td align="right">-</td>
+   <td align="right">110,500.00</td>
+   <td align="right">110,500.00</td>
+   <td align="right">-110,500.00</td>
+   <td align="right">2.29</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TWS</td>
+   <td align="right">25,500</td>
+   <td align="right">-</td>
+   <td align="right">25,500</td>
+   <td align="right">25,500</td>
+   <td align="right">13.41</td>
+   <td align="right">885,225.00</td>
+   <td align="right">-</td>
+   <td align="right">885,225.00</td>
+   <td align="right">885,225.00</td>
+   <td align="right">13.43</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TWZ</td>
+   <td align="right">14,672,000</td>
+   <td align="right">11,853,500</td>
+   <td align="right">26,525,500</td>
+   <td align="right">2,818,500</td>
+   <td align="right">2.66</td>
+   <td align="right">8,593,360.00</td>
+   <td align="right">6,945,596.00</td>
+   <td align="right">15,538,956.00</td>
+   <td align="right">1,647,764.00</td>
+   <td align="right">2.66</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">TYCN</td>
+   <td align="right">52,600</td>
+   <td align="right">4,200</td>
+   <td align="right">56,800</td>
+   <td align="right">48,400</td>
+   <td align="right">1.76</td>
+   <td align="right">256,636.00</td>
+   <td align="right">20,328.00</td>
+   <td align="right">276,964.00</td>
+   <td align="right">236,308.00</td>
+   <td align="right">1.77</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">UAC</td>
+   <td align="right">-</td>
+   <td align="right">52,000</td>
+   <td align="right">52,000</td>
+   <td align="right">-52,000</td>
+   <td align="right">14.40</td>
+   <td align="right">-</td>
+   <td align="right">478,455.00</td>
+   <td align="right">478,455.00</td>
+   <td align="right">-478,455.00</td>
+   <td align="right">14.39</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">UEC</td>
+   <td align="right">1,000</td>
+   <td align="right">22,300</td>
+   <td align="right">23,300</td>
+   <td align="right">-21,300</td>
+   <td align="right">1.01</td>
+   <td align="right">4,160.00</td>
+   <td align="right">93,478.00</td>
+   <td align="right">97,638.00</td>
+   <td align="right">-89,318.00</td>
+   <td align="right">1.01</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">UIC</td>
+   <td align="right">47,000</td>
+   <td align="right">-</td>
+   <td align="right">47,000</td>
+   <td align="right">47,000</td>
+   <td align="right">1.73</td>
+   <td align="right">239,750.00</td>
+   <td align="right">-</td>
+   <td align="right">239,750.00</td>
+   <td align="right">239,750.00</td>
+   <td align="right">1.73</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">UKEM</td>
+   <td align="right">100,000</td>
+   <td align="right">-</td>
+   <td align="right">100,000</td>
+   <td align="right">100,000</td>
+   <td align="right">2.02</td>
+   <td align="right">170,000.00</td>
+   <td align="right">-</td>
+   <td align="right">170,000.00</td>
+   <td align="right">170,000.00</td>
+   <td align="right">2.02</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">UMI</td>
+   <td align="right">109,700</td>
+   <td align="right">20,000</td>
+   <td align="right">129,700</td>
+   <td align="right">89,700</td>
+   <td align="right">2.48</td>
+   <td align="right">842,850.00</td>
+   <td align="right">153,120.00</td>
+   <td align="right">995,970.00</td>
+   <td align="right">689,730.00</td>
+   <td align="right">2.48</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">UNIQ</td>
+   <td align="right">385,200</td>
+   <td align="right">229,100</td>
+   <td align="right">614,300</td>
+   <td align="right">156,100</td>
+   <td align="right">0.92</td>
+   <td align="right">3,822,890.00</td>
+   <td align="right">2,282,665.00</td>
+   <td align="right">6,105,555.00</td>
+   <td align="right">1,540,225.00</td>
+   <td align="right">0.92</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">UOBKH</td>
+   <td align="right">60,000</td>
+   <td align="right">-</td>
+   <td align="right">60,000</td>
+   <td align="right">60,000</td>
+   <td align="right">10.91</td>
+   <td align="right">236,600.00</td>
+   <td align="right">-</td>
+   <td align="right">236,600.00</td>
+   <td align="right">236,600.00</td>
+   <td align="right">10.91</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">UPOIC</td>
+   <td align="right">5,300</td>
+   <td align="right">-</td>
+   <td align="right">5,300</td>
+   <td align="right">5,300</td>
+   <td align="right">0.60</td>
+   <td align="right">56,150.00</td>
+   <td align="right">-</td>
+   <td align="right">56,150.00</td>
+   <td align="right">56,150.00</td>
+   <td align="right">0.60</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">UTP</td>
+   <td align="right">5,800</td>
+   <td align="right">48,000</td>
+   <td align="right">53,800</td>
+   <td align="right">-42,200</td>
+   <td align="right">0.36</td>
+   <td align="right">31,100.00</td>
+   <td align="right">259,200.00</td>
+   <td align="right">290,300.00</td>
+   <td align="right">-228,100.00</td>
+   <td align="right">0.36</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">UV</td>
+   <td align="right">12,200</td>
+   <td align="right">506,600</td>
+   <td align="right">518,800</td>
+   <td align="right">-494,400</td>
+   <td align="right">1.69</td>
+   <td align="right">129,520.00</td>
+   <td align="right">5,376,050.00</td>
+   <td align="right">5,505,570.00</td>
+   <td align="right">-5,246,530.00</td>
+   <td align="right">1.70</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">UWC</td>
+   <td align="right">-</td>
+   <td align="right">1,033,800</td>
+   <td align="right">1,033,800</td>
+   <td align="right">-1,033,800</td>
+   <td align="right">0.88</td>
+   <td align="right">-</td>
+   <td align="right">3,107,408.00</td>
+   <td align="right">3,107,408.00</td>
+   <td align="right">-3,107,408.00</td>
+   <td align="right">0.88</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">VARO</td>
+   <td align="right">-</td>
+   <td align="right">800</td>
+   <td align="right">800</td>
+   <td align="right">-800</td>
+   <td align="right">2.61</td>
+   <td align="right">-</td>
+   <td align="right">6,640.00</td>
+   <td align="right">6,640.00</td>
+   <td align="right">-6,640.00</td>
+   <td align="right">2.71</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">VGI</td>
+   <td align="right">574,500</td>
+   <td align="right">1,579,600</td>
+   <td align="right">2,154,100</td>
+   <td align="right">-1,005,100</td>
+   <td align="right">2.64</td>
+   <td align="right">7,466,790.00</td>
+   <td align="right">20,492,680.00</td>
+   <td align="right">27,959,470.00</td>
+   <td align="right">-13,025,890.00</td>
+   <td align="right">2.64</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">VGI-W1</td>
+   <td align="right">2,222,000</td>
+   <td align="right">3,769,025</td>
+   <td align="right">5,991,025</td>
+   <td align="right">-1,547,025</td>
+   <td align="right">0.98</td>
+   <td align="right">5,924,560.00</td>
+   <td align="right">10,051,066.50</td>
+   <td align="right">15,975,626.50</td>
+   <td align="right">-4,126,506.50</td>
+   <td align="right">0.97</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">VIBHA</td>
+   <td align="right">78,200</td>
+   <td align="right">-</td>
+   <td align="right">78,200</td>
+   <td align="right">78,200</td>
+   <td align="right">7.69</td>
+   <td align="right">1,321,580.00</td>
+   <td align="right">-</td>
+   <td align="right">1,321,580.00</td>
+   <td align="right">1,321,580.00</td>
+   <td align="right">7.70</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">VIH</td>
+   <td align="right">30,200</td>
+   <td align="right">-</td>
+   <td align="right">30,200</td>
+   <td align="right">30,200</td>
+   <td align="right">1.38</td>
+   <td align="right">289,930.00</td>
+   <td align="right">-</td>
+   <td align="right">289,930.00</td>
+   <td align="right">289,930.00</td>
+   <td align="right">1.38</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">VNG</td>
+   <td align="right">83,900</td>
+   <td align="right">1,000</td>
+   <td align="right">84,900</td>
+   <td align="right">82,900</td>
+   <td align="right">5.06</td>
+   <td align="right">693,075.00</td>
+   <td align="right">8,250.00</td>
+   <td align="right">701,325.00</td>
+   <td align="right">684,825.00</td>
+   <td align="right">5.07</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">VTE-W1</td>
+   <td align="right">32,100</td>
+   <td align="right">5,000</td>
+   <td align="right">37,100</td>
+   <td align="right">27,100</td>
+   <td align="right">0.11</td>
+   <td align="right">44,940.00</td>
+   <td align="right">7,350.00</td>
+   <td align="right">52,290.00</td>
+   <td align="right">37,590.00</td>
+   <td align="right">0.11</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">WAT</td>
+   <td align="right">2,100,000</td>
+   <td align="right">-</td>
+   <td align="right">2,100,000</td>
+   <td align="right">2,100,000</td>
+   <td align="right">1.21</td>
+   <td align="right">105,000.00</td>
+   <td align="right">-</td>
+   <td align="right">105,000.00</td>
+   <td align="right">105,000.00</td>
+   <td align="right">1.22</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">WHA</td>
+   <td align="right">10,000</td>
+   <td align="right">2,400</td>
+   <td align="right">12,400</td>
+   <td align="right">7,600</td>
+   <td align="right">0.65</td>
+   <td align="right">405,800.00</td>
+   <td align="right">97,500.00</td>
+   <td align="right">503,300.00</td>
+   <td align="right">308,300.00</td>
+   <td align="right">0.65</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">WIIK</td>
+   <td align="right">231,700</td>
+   <td align="right">116,100</td>
+   <td align="right">347,800</td>
+   <td align="right">115,600</td>
+   <td align="right">0.45</td>
+   <td align="right">642,234.00</td>
+   <td align="right">343,514.00</td>
+   <td align="right">985,748.00</td>
+   <td align="right">298,720.00</td>
+   <td align="right">0.45</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">WIN</td>
+   <td align="right">236,200</td>
+   <td align="right">167,500</td>
+   <td align="right">403,700</td>
+   <td align="right">68,700</td>
+   <td align="right">0.32</td>
+   <td align="right">270,718.00</td>
+   <td align="right">183,500.00</td>
+   <td align="right">454,218.00</td>
+   <td align="right">87,218.00</td>
+   <td align="right">0.32</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">WORK</td>
+   <td align="right">-</td>
+   <td align="right">2,000</td>
+   <td align="right">2,000</td>
+   <td align="right">-2,000</td>
+   <td align="right">0.42</td>
+   <td align="right">-</td>
+   <td align="right">74,000.00</td>
+   <td align="right">74,000.00</td>
+   <td align="right">-74,000.00</td>
+   <td align="right">0.43</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">XO</td>
+   <td align="right">7,500</td>
+   <td align="right">-</td>
+   <td align="right">7,500</td>
+   <td align="right">7,500</td>
+   <td align="right">0.18</td>
+   <td align="right">42,375.00</td>
+   <td align="right">-</td>
+   <td align="right">42,375.00</td>
+   <td align="right">42,375.00</td>
+   <td align="right">0.18</td>
+ </tr>
+
+ <tr height="20">
+   <td align="left" style="padding-left: 10px;">ZMICO</td>
+   <td align="right">190,300</td>
+   <td align="right">173,500</td>
+   <td align="right">363,800</td>
+   <td align="right">16,800</td>
+   <td align="right">8.93</td>
+   <td align="right">296,276.00</td>
+   <td align="right">273,530.00</td>
+   <td align="right">569,806.00</td>
+   <td align="right">22,746.00</td>
+   <td align="right">8.96</td>
+ </tr>
+
+</table>
+<div class="remark" align="left">* % of Trading Volume in Underlying Securities</div>
+
+
+</body>
+</html>
