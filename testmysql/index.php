@@ -1,5 +1,6 @@
  <?php 
 require_once 'db_connect.php';
+require 'db_connect.php';
  //start------------------กำหนดตัวแปลจาก Databases-----------------------
 	$value1 = 'id';
 	$value2 = 'name';
